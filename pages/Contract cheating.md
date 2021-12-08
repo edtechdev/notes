@@ -1,0 +1,1 @@
+- A form of [[Cheating]] in which students pay someone to complete their school work for them.

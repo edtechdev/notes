@@ -1,3 +1,8 @@
+---
+title: DEI
+---
+
 - See Also:
-	- [[Diversity]], [[Equity]], [[Inclusion]], [[Inclusive teaching]]
--
+	 - [[Diversity]], [[Equity]], [[Inclusion]], [[Inclusive teaching]]
+
+- 

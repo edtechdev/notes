@@ -1,0 +1,2 @@
+- [DIRTSCAN](https://reflectingonlearningandteaching.wordpress.com/2021/02/07/dirtscan-a-scaffolded-problem-solving-strategy-for-senior-physics-classes/amp/)
+-

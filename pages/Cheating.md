@@ -1,0 +1,4 @@
+- [[Chegg]] is one site where students may potentially cheat by sharing or downloading [[Tests]] or other academic resources
+- See also:
+	- [[Contract cheating]]
+	- [[Academic integrity]]

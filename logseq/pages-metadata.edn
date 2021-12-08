@@ -1,12 +1,24 @@
 [{:block/name "a",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "academic integrity",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
+ {:block/name "android",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "annotation",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "annotation tools",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "anti-racism",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "assessment",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "authentic assessment",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
@@ -14,26 +26,35 @@
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "bibliography",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "book",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "c",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "canvas",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "card",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "change management",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "cheating",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "chegg",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "closedaccess",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "color blindness",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "competency based learning",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -43,15 +64,24 @@
  {:block/name "contents",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "contract cheating",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
   :block/updated-at 1638903723825}
+ {:block/name "dec 8th, 2021",
+  :block/created-at 1638921600000,
+  :block/updated-at 1638921600000}
  {:block/name "decolonizing education",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "dei",
   :block/created-at 1638884180067,
   :block/updated-at 1638884198622}
+ {:block/name "designing exams",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "discrimination",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -64,27 +94,33 @@
  {:block/name "done",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "edge browser",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "edtech",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "education reform",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "embodied cognition",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "embodied learning",
-  :block/created-at 1638974132954,
-  :block/updated-at 1638974132954}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "equity",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "evaluation",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "evaluation of teaching",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "fatigue",
-  :block/created-at 1638974132954,
-  :block/updated-at 1638974132954}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "favorites",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
@@ -97,6 +133,9 @@
  {:block/name "flipped learning",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "formative assessment",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "gaslighting",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -104,14 +143,23 @@
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "github",
-  :block/created-at 1638974132954,
-  :block/updated-at 1638974132954}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "google drive",
-  :block/created-at 1638974132954,
-  :block/updated-at 1638974132954}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "growth mindset",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "high-impact practices",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "hypothesis",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "icap framework",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "in-progress",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -121,21 +169,36 @@
  {:block/name "inclusive teaching",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "ipad",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "later",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "learning management systems",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "library",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "listening",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "logical fallacies",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "logseq",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
+ {:block/name "lti integration",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "management",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "may 28th, 2021",
+  :block/created-at 1622160000000,
+  :block/updated-at 1622160000000}
  {:block/name "micro-credentials",
   :block/created-at 1638893623544,
   :block/updated-at 1638893661472}
@@ -152,20 +215,38 @@
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "onedrive",
-  :block/created-at 1638974132954,
-  :block/updated-at 1638974132954}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "online learning",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "open source",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "open textbooks",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "openaccess",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "oppression",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "pdf",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "performativity",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "perusall",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "praise",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "problem solving",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "psychology",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
@@ -173,14 +254,23 @@
   :block/created-at 1638903731206,
   :block/updated-at 1638904177488}
  {:block/name "quote",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "racism",
   :block/created-at 1638884009401,
   :block/updated-at 1638884031058}
+ {:block/name "reading",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "reference",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "secondary education",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
+ {:block/name "self-regulated learning",
+  :block/created-at 1638974764900,
+  :block/updated-at 1638974764900}
  {:block/name "service learning",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
@@ -194,14 +284,20 @@
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "student success",
-  :block/created-at 1638974132954,
-  :block/updated-at 1638974132954}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "students as partners",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "test scores",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "tests",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "tiddlywiki",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "todo",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -209,8 +305,8 @@
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "value of higher education",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "video",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -223,21 +319,27 @@
  {:block/name "waiting",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "web share target",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "weird",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "white fragility",
-  :block/created-at 1638974132954,
-  :block/updated-at 1638974132954}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "whiteness studies",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "wiki",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "windows",
-  :block/created-at 1638974132953,
-  :block/updated-at 1638974132953}
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
+ {:block/name "windows os",
+  :block/created-at 1638974764901,
+  :block/updated-at 1638974764901}
  {:block/name "workplace",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}

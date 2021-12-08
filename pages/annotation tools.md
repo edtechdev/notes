@@ -1,0 +1,10 @@
+- Some educational [[Annotation]] tools include:
+	- [[Hypothesis]] free and [[Open source]]. Supports [[LTI integration]] for a fee.
+	- [[Perusall]] - free when using with [[Open textbooks]] or uploading your own documents.  Supports [[LTI integration]]
+	- The [[Canvas]] [[Learning management systems]] now supports [annotation assignments](https://community.canvaslms.com/t5/New-Feature-Screencast/Assignments-Student-Annotation-Submissions-2021-05-15-Release/ta-p/460027)
+- Some [[PDF]] annotation tools include:
+	- [[iPad]]
+		- [PDF viewer app](https://apps.apple.com/us/app/pdf-viewer-annotation-expert/id1120099014)
+	- [[Windows OS]]
+		- The [[Edge browser]] has built-in PDF annotation support
+- #edtech

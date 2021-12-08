@@ -1,0 +1,2 @@
+- https://paul.kinlan.me/file-web-share-target/
+- https://web.dev/web-share-target/
