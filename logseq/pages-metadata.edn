@@ -9,7 +9,7 @@
   :block/updated-at 1638976249851}
  {:block/name "annotation",
   :block/created-at 1638976249851,
-  :block/updated-at 1638976249851}
+  :block/updated-at 1638983527174}
  {:block/name "annotation tools",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -69,10 +69,10 @@
   :block/updated-at 1638976249851}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
-  :block/updated-at 1638976219887}
+  :block/updated-at 1638984466701}
  {:block/name "dec 8th, 2021",
   :block/created-at 1638975108151,
-  :block/updated-at 1638982463606}
+  :block/updated-at 1638984172966}
  {:block/name "decolonizing education",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
@@ -157,9 +157,6 @@
  {:block/name "hypothesis",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
- {:block/name "icap framework",
-  :block/created-at 1638976249851,
-  :block/updated-at 1638976249851}
  {:block/name "in-progress",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -198,7 +195,7 @@
   :block/updated-at 1638900533695}
  {:block/name "may 28th, 2021",
   :block/created-at 1622160000000,
-  :block/updated-at 1622160000000}
+  :block/updated-at 1638984370816}
  {:block/name "micro-credentials",
   :block/created-at 1638893623544,
   :block/updated-at 1638893661472}
