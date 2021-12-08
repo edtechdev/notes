@@ -72,7 +72,7 @@
   :block/updated-at 1638976219887}
  {:block/name "dec 8th, 2021",
   :block/created-at 1638975108151,
-  :block/updated-at 1638975279251}
+  :block/updated-at 1638977155020}
  {:block/name "decolonizing education",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
@@ -241,6 +241,9 @@
  {:block/name "perusall",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
+ {:block/name "power automate",
+  :block/created-at 1638978226359,
+  :block/updated-at 1638978226359}
  {:block/name "praise",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
