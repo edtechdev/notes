@@ -9,13 +9,16 @@
   :block/updated-at 1638976249851}
  {:block/name "annotation",
   :block/created-at 1638976249851,
-  :block/updated-at 1638983527174}
+  :block/updated-at 1638976249851}
  {:block/name "annotation tools",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
  {:block/name "anti-racism",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "anxiety",
+  :block/created-at 1639053050886,
+  :block/updated-at 1639053050886}
  {:block/name "assessment",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -34,6 +37,12 @@
  {:block/name "c",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "calculus",
+  :block/created-at 1639053050887,
+  :block/updated-at 1639053050887}
+ {:block/name "campbell's law",
+  :block/created-at 1639053050887,
+  :block/updated-at 1639053050887}
  {:block/name "canvas",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -69,10 +78,13 @@
   :block/updated-at 1638976249851}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
-  :block/updated-at 1638984466701}
+  :block/updated-at 1638976219887}
  {:block/name "dec 8th, 2021",
   :block/created-at 1638975108151,
-  :block/updated-at 1638984172966}
+  :block/updated-at 1638982054502}
+ {:block/name "dec 9th, 2021",
+  :block/created-at 1639053036641,
+  :block/updated-at 1639053040686}
  {:block/name "decolonizing education",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
@@ -103,6 +115,9 @@
  {:block/name "education reform",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "elearning authoring",
+  :block/created-at 1639053050886,
+  :block/updated-at 1639053050886}
  {:block/name "embodied cognition",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -151,10 +166,16 @@
  {:block/name "growth mindset",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
+ {:block/name "h5p",
+  :block/created-at 1639053050886,
+  :block/updated-at 1639053050886}
  {:block/name "high-impact practices",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "hypothesis",
+  :block/created-at 1638976249851,
+  :block/updated-at 1638976249851}
+ {:block/name "icap framework",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
  {:block/name "in-progress",
@@ -195,7 +216,7 @@
   :block/updated-at 1638900533695}
  {:block/name "may 28th, 2021",
   :block/created-at 1622160000000,
-  :block/updated-at 1638984370816}
+  :block/updated-at 1622160000000}
  {:block/name "micro-credentials",
   :block/created-at 1638893623544,
   :block/updated-at 1638893661472}
@@ -238,6 +259,9 @@
  {:block/name "perusall",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
+ {:block/name "polling",
+  :block/created-at 1639053050886,
+  :block/updated-at 1639053050886}
  {:block/name "praise",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -250,6 +274,9 @@
  {:block/name "publishing logseq notes with github pages on windows",
   :block/created-at 1638903731206,
   :block/updated-at 1638904177488}
+ {:block/name "quizzes",
+  :block/created-at 1639053050887,
+  :block/updated-at 1639053050887}
  {:block/name "quote",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -280,6 +307,9 @@
  {:block/name "statistics",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "stress",
+  :block/created-at 1639053050886,
+  :block/updated-at 1639053050886}
  {:block/name "student success",
   :block/created-at 1638976249853,
   :block/updated-at 1638976249853}
