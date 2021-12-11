@@ -32,14 +32,14 @@
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
  {:block/name "biology",
-  :block/created-at 1639260190343,
-  :block/updated-at 1639260190343}
+  :block/created-at 1639260412381,
+  :block/updated-at 1639260412381}
  {:block/name "book",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "buy-in",
-  :block/created-at 1639260190343,
-  :block/updated-at 1639260190343}
+  :block/created-at 1639260412381,
+  :block/updated-at 1639260412381}
  {:block/name "c",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -86,8 +86,8 @@
   :block/created-at 1639094400000,
   :block/updated-at 1639158297379}
  {:block/name "dec 11th, 2021",
-  :block/created-at 1639180800000,
-  :block/updated-at 1639180800000}
+  :block/created-at 1639260310179,
+  :block/updated-at 1639260313682}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
   :block/updated-at 1638976219887}
@@ -287,11 +287,11 @@
   :block/created-at 1638903731206,
   :block/updated-at 1638904177488}
  {:block/name "qualitative data analysis",
-  :block/created-at 1639260190343,
-  :block/updated-at 1639260190343}
+  :block/created-at 1639260412381,
+  :block/updated-at 1639260412381}
  {:block/name "qualitative research",
-  :block/created-at 1639260190343,
-  :block/updated-at 1639260190343}
+  :block/created-at 1639260412381,
+  :block/updated-at 1639260412381}
  {:block/name "quizzes",
   :block/created-at 1639158210960,
   :block/updated-at 1639158210960}
@@ -334,6 +334,9 @@
  {:block/name "students as partners",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "syllabus",
+  :block/created-at 1639260412381,
+  :block/updated-at 1639260412381}
  {:block/name "test scores",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -380,8 +383,8 @@
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "wikibase",
-  :block/created-at 1639260190343,
-  :block/updated-at 1639260190343}
+  :block/created-at 1639260412381,
+  :block/updated-at 1639260412381}
  {:block/name "windows",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
