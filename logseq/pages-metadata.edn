@@ -5,8 +5,8 @@
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
  {:block/name "achievement",
-  :block/created-at 1639265201503,
-  :block/updated-at 1639265201503}
+  :block/created-at 1639315537333,
+  :block/updated-at 1639315537333}
  {:block/name "android",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -91,6 +91,9 @@
  {:block/name "dec 11th, 2021",
   :block/created-at 1639260310179,
   :block/updated-at 1639260313682}
+ {:block/name "dec 12th, 2021",
+  :block/created-at 1639315561930,
+  :block/updated-at 1639315590108}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
   :block/updated-at 1638976219887}
@@ -148,6 +151,9 @@
  {:block/name "evaluation of teaching",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "expertise",
+  :block/created-at 1639315642473,
+  :block/updated-at 1639315642473}
  {:block/name "fatigue",
   :block/created-at 1638976249852,
   :block/updated-at 1638976249852}
@@ -239,8 +245,8 @@
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
  {:block/name "motivation",
-  :block/created-at 1639265201503,
-  :block/updated-at 1639265201503}
+  :block/created-at 1639315537334,
+  :block/updated-at 1639315537334}
  {:block/name "neoliberalism in higher education",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
@@ -343,6 +349,9 @@
  {:block/name "syllabus",
   :block/created-at 1639265131856,
   :block/updated-at 1639265131856}
+ {:block/name "tacit knowledge",
+  :block/created-at 1639315642472,
+  :block/updated-at 1639315642472}
  {:block/name "test scores",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
