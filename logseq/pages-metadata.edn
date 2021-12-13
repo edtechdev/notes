@@ -96,7 +96,7 @@
   :block/updated-at 1639315590108}
  {:block/name "dec 13th, 2021",
   :block/created-at 1639353600000,
-  :block/updated-at 1639353600000}
+  :block/updated-at 1639401694445}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
   :block/updated-at 1638976219887}
@@ -112,6 +112,9 @@
  {:block/name "dei",
   :block/created-at 1638884180067,
   :block/updated-at 1638884198622}
+ {:block/name "deliberate practice",
+  :block/created-at 1639402128163,
+  :block/updated-at 1639402128163}
  {:block/name "designing exams",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -136,9 +139,12 @@
  {:block/name "education reform",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "educational development",
+  :block/created-at 1639402128163,
+  :block/updated-at 1639402128163}
  {:block/name "educational research",
-  :block/created-at 1639380005277,
-  :block/updated-at 1639380005277}
+  :block/created-at 1639399839772,
+  :block/updated-at 1639399839772}
  {:block/name "elearning authoring",
   :block/created-at 1639158210960,
   :block/updated-at 1639158210960}
