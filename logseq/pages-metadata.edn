@@ -70,6 +70,9 @@
  {:block/name "closedaccess",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "cognitive psychology",
+  :block/created-at 1639489972307,
+  :block/updated-at 1639489972307}
  {:block/name "color blindness",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -99,7 +102,7 @@
   :block/updated-at 1639407189412}
  {:block/name "dec 14th, 2021",
   :block/created-at 1639440000000,
-  :block/updated-at 1639440000000}
+  :block/updated-at 1639489034418}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
   :block/updated-at 1638976219887}
@@ -235,9 +238,15 @@
  {:block/name "ipad",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
+ {:block/name "kindness",
+  :block/created-at 1639486397931,
+  :block/updated-at 1639486397931}
  {:block/name "later",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "learning",
+  :block/created-at 1639488204649,
+  :block/updated-at 1639488204649}
  {:block/name "learning management systems",
   :block/created-at 1638976249853,
   :block/updated-at 1638976249853}
@@ -301,12 +310,21 @@
  {:block/name "pdf",
   :block/created-at 1638976249852,
   :block/updated-at 1638976249852}
+ {:block/name "pedagogy of care",
+  :block/created-at 1639486397930,
+  :block/updated-at 1639486397930}
  {:block/name "performativity",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "perusall",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
+ {:block/name "philosophy",
+  :block/created-at 1639488204649,
+  :block/updated-at 1639488204649}
+ {:block/name "philosophy of teaching",
+  :block/created-at 1639486397930,
+  :block/updated-at 1639486397930}
  {:block/name "polling",
   :block/created-at 1639158210959,
   :block/updated-at 1639158210959}
