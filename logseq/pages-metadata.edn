@@ -7,6 +7,9 @@
  {:block/name "achievement",
   :block/created-at 1639315537333,
   :block/updated-at 1639315537333}
+ {:block/name "advising",
+  :block/created-at 1653507665587,
+  :block/updated-at 1653507665587}
  {:block/name "android",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -73,6 +76,9 @@
  {:block/name "cognitive psychology",
   :block/created-at 1639489972307,
   :block/updated-at 1639489972307}
+ {:block/name "college success",
+  :block/created-at 1653507810469,
+  :block/updated-at 1653507810469}
  {:block/name "color blindness",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -103,6 +109,9 @@
  {:block/name "dec 14th, 2021",
   :block/created-at 1639440000000,
   :block/updated-at 1639489034418}
+ {:block/name "dec 15th, 2021",
+  :block/created-at 1653507665594,
+  :block/updated-at 1653507665594}
  {:block/name "dec 7th, 2021",
   :block/created-at 1638883316635,
   :block/updated-at 1638976219887}
@@ -238,6 +247,9 @@
  {:block/name "ipad",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
+ {:block/name "jun 1st, 2022",
+  :block/created-at 1654098907966,
+  :block/updated-at 1654098907966}
  {:block/name "kindness",
   :block/created-at 1639486397931,
   :block/updated-at 1639486397931}
@@ -268,6 +280,9 @@
  {:block/name "management",
   :block/created-at 1638900533695,
   :block/updated-at 1638900533695}
+ {:block/name "may 25th, 2022",
+  :block/created-at 1653507669149,
+  :block/updated-at 1654099162376}
  {:block/name "may 28th, 2021",
   :block/created-at 1622160000000,
   :block/updated-at 1622160000000}
@@ -307,6 +322,9 @@
  {:block/name "oppression",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
+ {:block/name "orientation",
+  :block/created-at 1653507665589,
+  :block/updated-at 1653507665589}
  {:block/name "pdf",
   :block/created-at 1638976249852,
   :block/updated-at 1638976249852}
@@ -385,6 +403,9 @@
  {:block/name "student success",
   :block/created-at 1638976249853,
   :block/updated-at 1638976249853}
+ {:block/name "student support",
+  :block/created-at 1653507665590,
+  :block/updated-at 1653507665590}
  {:block/name "students as partners",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
