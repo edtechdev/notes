@@ -886,6 +886,9 @@
  {:block/name "caring",
   :block/created-at 1662567512973,
   :block/updated-at 1662567512973}
+ {:block/name "carpal tunnel syndrome",
+  :block/created-at 1662650707872,
+  :block/updated-at 1662650707872}
  {:block/name "case studies",
   :block/created-at 1662473840865,
   :block/updated-at 1662473840865}
@@ -6704,7 +6707,7 @@
   :block/updated-at 1662597608652}
  {:block/name "sep 8th, 2022",
   :block/created-at 1662628338421,
-  :block/updated-at 1662628928500}
+  :block/updated-at 1662650723342}
  {:block/name "service     learning",
   :block/created-at 1662578474442,
   :block/updated-at 1662578474442}
