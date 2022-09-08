@@ -1,0 +1,7 @@
+- [[Organizational culture]]
+- [[Culture of evidence]]
+- [[Change management]]
+- [[Scholarship of teaching and learning]]
+
+- https://link.springer.com/content/pdf/10.1007/s10734-010-9368-9.pdf
+- https://d1wqtxts1xzle7.cloudfront.net/66543034/Developing_a_quality_culture_through_the20210422-19974-w5ce5r.pdf?1619108247=&response-content-disposition=inline%3B+filename%3DDeveloping_a_quality_culture_through_the.pdf&Expires=1623268773&Signature=NaPK-Aj7Y~1aaUJemvRcW2sOr1inUpeimUssk6HVewEomzcgF0II6I7sR7Q76s-sfhax1aPyEA9L9oVyL1pJLifwzY0idioVYBBwvVOksYDk~ONAgsJpMfB8SMKboMR9pMPUpf0YnQ2jO9-S6BXyUjEmvLM8qwCJ-R~QYxKrHJ8vlvwqD8FkqBx-HH3T5ev1qQIQxqXgLKK7vxGUKN~r7qRm7~W6fkb40x1lLXEO8h30~vLYuXZKYJWsOYktxcelQgxvkVasW4fSfz82fB-u~-bKoYceo2Orl~sC93TAIEap6-~e-3BgrAc~Pii9xqh9z5-CbnohvwXmtyUBDuDFyw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA

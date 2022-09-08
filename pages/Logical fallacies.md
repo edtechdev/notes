@@ -1,0 +1,2 @@
+  - https://bookofbadarguments.com/
+  - http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm

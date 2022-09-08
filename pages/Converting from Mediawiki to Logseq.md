@@ -1,0 +1,22 @@
+- Converting from [[Mediawiki]] to [[Logseq]]
+- Use this tool which requires installing [[PHP]] with various extensions, as well as [[Pandoc]]
+	- https://github.com/outofcontrol/mediawiki-to-gfm
+	- On Windows, you can install [Ubuntu for Windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+- In Mediawiki
+	- go to Special:Allpages and copy and paste the list of pages into a text document
+	- go to Special:Export to export an XML file with the [[Content from all the pages
+	- See instructions at https://www.mediawiki.org/wiki/Help:Export
+- Use mediawiki-to-gfm to convert the mediawiki xml file to markdown files
+- [Cleanup file names](https://askubuntu.com/questions/1165503/how-to-rename-all-files-in-a-folder):
+	- sudo apt install rename
+	- Change underscores to spaces: rename -n 's/_/ /g' *.md
+	- Remove special characters:
+		- rename -n 's/?//g' *md
+		- rename -n 's/:/ /g' *md
+- Cleanup markdown files
+	- I used [Visual Studio Code](https://code.visualstudio.com/) since it lets me search and replace with regex across all files in a folder
+	- Change bullet lists from asterix (*) to a dash (-)
+	- Change markdown links back to wikilinks with double brackets.
+	- Remove "Category:" and similar from wikilinks
+	- Remove or change headers
+	- Remove comments that pandoc added

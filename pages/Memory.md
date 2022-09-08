@@ -1,0 +1,52 @@
+- [[Forgetting]]
+- [[Short-term memory]]
+- [[Working memory]]
+- [[Recall]]
+- [[Recognition]]
+- [[Memory consolidation]]
+- [[Hippocampus]]
+- [[Neocortex]]
+- [[Cognitive psychology]]
+- [[False memory]]
+- [[Memory palace]]
+
+- [[Neuroscience]]
+
+- Peak-end rule https://www.sciencedirect.com/science/article/abs/pii/S0749597822000334#b0145
+
+- Where stored in the [[brain]]: https://www.biorxiv.org/content/10.1101/2021.10.13.463791v1
+
+- 7 penances of memory https://www.researchgate.net/publication/283638241_The_Seven_Sins_of_Memory_How_They_Affect_Your_Program
+- https://www.hmhbooks.com/shop/books/The-Seven-Sins-of-Memory-Updated-Edition/9780358325680?fbclid=IwAR3gXYHAznzU78VRBlvWzpYWO_KPHEhTsaIT5RkV-CbfDqqm1DwT9KU25NY
+- https://en.m.wikipedia.org/wiki/The_Seven_Sins_of_Memory
+- https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/
+- https://twitter.com/marcxsmith/status/1399674299410259970?s=19
+- https://link.springer.com/article/10.3758/s13421-019-00896-7
+
+- [[History of psychology]], [[Psychohistory]] Marking the Mind: A History of Memory https://www.amazon.com/dp/0521726417/
+
+- [[Systematic review]] https://psyarxiv.com/dwz2q/
+
+- [[Neuroscience]] and event segmentation https://www.sciencedaily.com/releases/2022/03/220307113030.htm
+
+- [[Prospective memory]] and [[ADHD]] https://twitter.com/jessejanderson/status/1503400592059686913?t=gxIQ4bqiawusrh4P9y-qVQ&s=19
+
+- Controversies in philosophy of memory https://www.routledge.com/Current-Controversies-in-Philosophy-of-Memory/SantAnna-McCarroll-Kourken/p/book/9780367432751#
+
+- [[Neuroscience]] https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/
+
+- Format of memories, [[Working memory]] https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/
+
+- And [[Time]], temporal context https://www.nature.com/articles/s41586-022-04783-1
+	-  [[Reinforcement learning]] https://markmcelroy.com/rethinking-the-potential-of-the-daily-note/
+
+- Remembering as [[Simulation]]
+	-  https://www.tandfonline.com/doi/abs/10.1080/09515089.2022.2082934?forwardService=showFullText&tokenAccess=XBEFEZY3QFIQGUWIICVI&tokenDomain=eprints&doi=10.1080%2F09515089.2022.2082934&doi=10.1080%2F09515089.2022.2082934&doi=10.1080%2F09515089.2022.2082934&target=10.1080%2F09515089.2022.2082934&journalCode=cphp20
+
+- [[Search engine]] https://www.psypost.org/2022/06/people-attribute-information-they-found-online-to-their-own-memory-instead-of-the-internet-63311
+
+- Good or bad, [[emotion]], [[Ethics]] https://www.sciencedaily.com/releases/2022/07/220720121006.htm
+
+- [[Evolutionary psychology]] https://link.springer.com/article/10.1007/s10648-022-09696-z?utm_source=dlvr.it&utm_medium=twitter
+
+[[Cognitive Psychology]]

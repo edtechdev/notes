@@ -1,0 +1,1 @@
+  - http://www.ascd.org/Publications/Books/Overview/Better-Learning-Through-Structured-Teaching-A-Framework-for-the-Gradual-Release-of-Responsibility-2nd-Edition.aspx

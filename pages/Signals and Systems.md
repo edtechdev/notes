@@ -1,0 +1,1 @@
+  - https://www.amazon.com/Practical-Signal-Processing-Mark-Owen/dp/1107411823

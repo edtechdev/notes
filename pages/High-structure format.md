@@ -1,0 +1,1 @@
+Perhaps use [[course structure]] instead

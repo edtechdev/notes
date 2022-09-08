@@ -1,0 +1,1 @@
+1.  redirect  [[Optical character recognition]]

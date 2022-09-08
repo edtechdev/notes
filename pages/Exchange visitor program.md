@@ -1,0 +1,2 @@
+  - https://global.ucf.edu/international-students-scholars-and-professionals/international-students-and-scholars/j-scholars/
+  - https://valenciacollege.edu/students/exchange/

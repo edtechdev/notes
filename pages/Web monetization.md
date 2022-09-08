@@ -1,0 +1,2 @@
+  - https://interledger.org/rfcs/0026-payment-pointers/
+  - https://write.as/coil/introducing-rafiki-an-all-in-one-solution-for-interledger-wallets

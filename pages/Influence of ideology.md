@@ -1,0 +1,1 @@
+  - https://www.scientificamerican.com/article/awareness-of-our-biases-is-essential-to-good-science/

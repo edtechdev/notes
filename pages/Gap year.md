@@ -1,0 +1,1 @@
+  - https://www.chronicle.com/newsletter/the-edge/2019-01-22?cid=ed&source=ams&sourceId=5264026

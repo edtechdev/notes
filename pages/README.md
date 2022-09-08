@@ -1,0 +1,3 @@
+- Learning Notes
+- Major categories:
+	- [[Learning]], [[Teaching]], [[Assessment]], [[Feedback]], [[Equity]]

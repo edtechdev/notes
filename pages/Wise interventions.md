@@ -1,0 +1,16 @@
+- [[Growth mindset]]
+- [[Values affirmation]]
+- [[Goal]] setting
+- [[Utility value intervention]]
+- [[Testimonials]]
+
+- https://www.wiseinterventions.org/
+- https://www.researchgate.net/publication/258182797_Social-Psychological_Interventions_in_Education_They're_Not_Magic
+- https://www.pnas.org/content/117/26/14900
+- In [[Physics education]] https://arxiv.org/abs/2112.10732
+
+- Providing wise [[Black students]] depends on [[Trust]] https://sparq.stanford.edu/solutions/wise-critiques-help-students-succeed
+
+- [[Checklist]] - Developing a wise feedback statement https://collegetransitioncollaborative.org/wise-feedback-statement/
+
+[[Student Success]] [[Equity]] [[Psychology]]

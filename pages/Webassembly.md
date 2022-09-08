@@ -1,0 +1,1 @@
+  - https://javascript.plainenglish.io/next-js-webassembly-77df3537690

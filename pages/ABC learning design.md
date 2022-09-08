@@ -1,0 +1,3 @@
+  - https://abc-ld.org/
+  - https://blogs.ucl.ac.uk/abc-ld/
+  - https://drive.google.com/drive/mobile/folders/12xIkLv36tr1hdVqLkS1Y2uIZT-tCBnjo?usp=sharing

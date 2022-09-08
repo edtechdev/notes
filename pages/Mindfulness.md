@@ -1,0 +1,81 @@
+- [[Mindfulness apps]]
+- [[Mindfulness-based Stress Reduction]]
+- [[Stress]]
+- [[Anxiety]]
+- [[Meditation]]
+- [[Distraction]]
+- [[Attention]]
+- [[Flow]]
+
+- https://drive.google.com/file/d/1dHsoY0Oe5zSyPtXl3X3Q0sGQWDoBAd4a/view?usp=sharing
+- [[Self assessment]]
+	-  https://depts.washington.edu/uwcssc/sites/default/files//hw00/d40/uwcssc/sites/default/files/Kentucky%20Inventory%20of%20Mindfulness%20Skills.pdf
+	-  https://onlinelibrary.wiley.com/doi/abs/10.1002/jclp.20778
+	-  http://www.ruthbaer.com/academics/KIMS.pdf
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3855679/
+- https://twitter.com/fillthewhole/status/1397098407991332865?s=19
+- https://www.themindfulnessinitiative.org/implementing-mindfulness-in-schools-an-evidence-based-guide
+- Scoping review, using [[Tiddlywiki]]: https://link.springer.com/article/10.1007/s12671-019-01136-4
+	-  Tiddlywiki file: https://repository.nie.edu.sg/bitstream/10497/20862/5/Mindfulness_TM_2017.html
+- https://cognitiontoday.com/infinite-benefits-of-mindfulness-on-cognition-and-quality-of-life/
+- https://mindrxiv.org/hjp6z/
+- [[Desirable difficulties]] https://www.theatlantic.com/family/archive/2022/05/how-to-practice-mindfulness/629906/
+
+Any downsides to mindfulness? https://digest.bps.org.uk/2021/05/05/mindfulness-can-make-independent-minded-people-less-likely-to-help-others/
+
+- And [[Problem solving]]: https://hbr.org/2019/01/how-mindfulness-can-help-engineers-solve-problems
+
+- And Racism [[Allyship]] https://www.psypost.org/2022/01/practicing-even-a-small-amount-of-mindfulness-meditation-can-boost-interracial-helping-behavior-62395
+
+- For teachers, [[Faculty-student interaction]] https://psycnet.apa.org/record/2021-91322-001?utm_source=dlvr.it&utm_medium=twitter
+
+- For teachers, [[Meta-analysis]] https://doi.apa.org/record/2018-61329-001?doi=1
+
+- Criticism, doesn't address structural problems, https://www.edweek.org/teaching-learning/superficial-self-care-stressed-out-teachers-say-no-thanks/2022/03
+
+- [[Null effect]], [[Well-being]] https://www.tes.com/magazine/news/general/mindfulness-has-no-impact-student-wellbeing
+	-  https://twitter.com/deevybee/status/1547090268876414976?t=OtkTSn0CpTRs9WtTGW7tYA&s=19
+
+- [[Null effect]] https://psyarxiv.com/38xv6/
+
+- [[Course]] Mindfulness-based Emotional Balance https://www.researchgate.net/publication/340732138_Mindfulness-Based_Emotional_Balance_History_of_development_curriculum_and_research
+	-  [[Emotional regulation]], [[Resilience]]
+
+- And [[Classroom management]] https://www.sciencedirect.com/science/article/abs/pii/S0742051X22000774?dgcid=rss_sd_all&utm_medium=twitter&utm_source=dlvr.it
+
+- [[Habits]] https://hbr.org/2019/12/how-to-break-up-with-your-bad-habits?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit
+
+- [[Amygdala]] https://hbr.org/2015/12/calming-your-brain-during-conflict?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit
+
+- [[Pedagogy]] https://cft.vanderbilt.edu/guides-sub-pages/contemplative-pedagogy/
+
+- For [[Teachers]] https://greatergood.berkeley.edu/article/item/seven_ways_mindfulness_can_help_teachers
+
+- [[Anxiety]], [[Depression]] https://www.sciencedirect.com/science/article/abs/pii/S0193953X1730076X?via%3Dihub
+
+- [[Self-esteem]], [[Anxiety]], [[Depression]] https://www.sciencedirect.com/science/article/abs/pii/S0191886916301416
+
+- [[College transition]]
+	-  https://link.springer.com/article/10.1007/s12671-015-0398-3
+	-  https://www.researchgate.net/publication/312233343_Promoting_Healthy_Transition_to_College_through_Mindfulness_Training_with_1st_year_College_Students_Pilot_Randomized_Controlled_Trial
+
+- [[Stress]] and [[Sleep]] https://link.springer.com/article/10.1007/s12671-021-01772-9
+
+- [[First generation students]] https://www.researchgate.net/publication/351735770_Cognitive_Enhancement_of_First_Generation_College_Students_through_Mindfulness_Meditation
+
+- [[Creativity]] https://www.sciencedirect.com/science/article/abs/pii/S0191886915006133
+- [[Innovation]] https://par.nsf.gov/servlets/purl/10043005
+
+- [[First generation students]] https://www.proquest.com/openview/a28f9d19cfc37952d75d2e7af28a50c1/1?pq-origsite=gscholar&cbl=18750
+
+- [[Healthy]] eating https://www.mdpi.com/2072-6643/12/8/2450/htm
+
+- [[Composition]], [[Freshmen]] https://go.gale.com/ps/i.do?id=GALE%7CA650643297&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10520147&p=AONE&sw=w&userGroupName=ccla_z3950
+
+- [[Teacher education]], [[Well-being]] https://www.learntechlib.org/primary/p/221093/
+
+- MYRIAD study, [[Teenagers]] https://myriadproject.org/what-we-did/what-did-we-find/
+	-  https://twitter.com/AdrianBethune/status/1547226377660743680?t=FZhaolx-GdADDhCTs14QEQ&s=19
+
+[[Mental Health]] [[Recommended]]

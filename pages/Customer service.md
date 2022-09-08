@@ -1,0 +1,2 @@
+  - https://hbr.org/amp/2019/02/why-is-customer-service-so-bad-because-its-profitable
+  - https://hbr.org/2021/11/fighting-bias-on-the-front-lines

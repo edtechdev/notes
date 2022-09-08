@@ -1,0 +1,10 @@
+- https://docs.datomic.com/on-prem/query/query.html
+- Alternatives like Datahike, used in [[Homebase]]. https://twitter.com/logseq/status/1381106882593521666?s=19
+
+- [[Natural language processing]]
+	-  https://github.com/den1k/nldl
+	-  https://github.com/harc/nl-datalog
+
+- https://www.instantdb.dev/essays/datalogjs
+
+[[Open Source]]

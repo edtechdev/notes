@@ -1,0 +1,6 @@
+  - Password management
+      - Bitwarden
+      - Lastpass
+  - Ad blocking, [[privacy]]
+      - Ublock origin
+      - https://github.com/ClearURLs/Addon

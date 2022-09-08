@@ -1,0 +1,1 @@
+  - https://www.insidehighered.com/news/2021/06/01/faculty-call-community-college-president-resign

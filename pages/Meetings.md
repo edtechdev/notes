@@ -1,0 +1,1 @@
+  - https://medium.com/the-ascent/quiet-people-in-meetings-are-incredible-7bb05ef9acd1

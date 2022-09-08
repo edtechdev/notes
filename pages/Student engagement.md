@@ -1,0 +1,47 @@
+- [[Boredom]]
+- [[Motivation]]
+- [[Performativity]]
+
+- [[Online learning]]
+	-  https://www.sciencedirect.com/science/article/pii/S0360131522001324?dgcid=raven_sd_via_email#!
+	-  https://www.tandfonline.com/doi/epub/10.1080/00461520.2022.2089147
+	-  https://files.eric.ed.gov/fulltext/EJ1179659.pdf
+
+- Debate https://link.springer.com/article/10.1007/s10734-021-00798-1
+
+- [[Ecological pedagogy]] model https://www.tandfonline.com/doi/abs/10.1080/00461520.2022.2038603?journalCode=hedp20
+
+- [[High-impact practices]] https://www.advance-he.ac.uk/knowledge-hub/engaged-student-learning-high-impact-strategies-enhance-student-achievement
+
+- And [[Educational technology]] https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-021-00270-1
+
+- https://mro.massey.ac.nz/bitstream/handle/10179/15151/Educational%20interface%20postprint.pdf?sequence=1&isAllowed=y
+	-  https://link.springer.com/article/10.1007/s10734-021-00798-1
+
+- https://teachinginsights.ocsld.org/student-engagement-what-is-it-and-why-does-it-matter/#more-641
+- Review of handbook: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.717026/full
+- https://www.timeshighereducation.com/campus/forget-everything-you-think-you-know-about-online-engagement
+- https://www.aacu.org/publications-research/periodicals/engaged-learning-are-we-all-same-page
+
+- https://www.ascd.org/el/articles/show-and-tell-a-video-column-why-do-students-disengage
+
+- http://engagementcookbook.com/doku.php
+
+- https://wcetfrontiers.org/2019/11/20/what-we-talk-about-when-we-talk-student-engagement/
+
+- [[Literature review]] https://www.advance-he.ac.uk/knowledge-hub/student-engagement-literature-review
+
+- Critiques https://link.springer.com/article/10.1057/s41307-016-0027-3
+	-  https://research-information.bris.ac.uk/files/138454933/Macfarlane_Tomlinson.pdf
+
+- Holistic view https://www.tandfonline.com/doi/abs/10.1080/07294360.2015.1024635
+
+- [[Nudges]] https://www.tandfonline.com/doi/abs/10.1080/07294360.2020.1860912
+
+- https://www.chronicle.com/article/a-stunning-level-of-student-disconnection
+
+- [[Scoping review]] https://teachinginhighereducation.wordpress.com/2022/05/18/reflecting-on-student-engagement-using-a-conceptual-map/
+
+- [[Compliance]] https://www.tandfonline.com/doi/abs/10.1080/23735082.2022.2085771
+
+[[Teaching]]

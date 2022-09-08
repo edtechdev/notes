@@ -1,0 +1,6 @@
+- Tim Ingold
+	-  https://www.amazon.com/dp/0415617472/
+	-  https://www.amazon.com/dp/0415576849/
+- And [[Outdoor education]] https://www.tandfonline.com/doi/abs/10.1080/14729679.2019.1599295
+- And [[Sports education]] https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-021-00326-6
+- See also [[Physical education]]

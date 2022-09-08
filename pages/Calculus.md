@@ -1,0 +1,52 @@
+- [[Precalculus]]
+- [[Gateway course]]
+
+- [[Teaching]] and [[Learning]] Calculus https://www.researchgate.net/publication/303972722_Teaching_and_Learning_of_Calculus
+
+- Calculus [[Exams]], [[Memorization]] https://link.springer.com/article/10.1007/s40753-015-0023-9
+
+- [[Weed-out class]]) role
+	-  https://link.springer.com/article/10.1007/s40753-022-00180-1
+	-  1987: https://www.maa.org/sites/default/files/pdf/pubs/books/members/NTE8_optimized.pdf
+
+- [[Gateway course]], [[Equity]] https://www.edsurge.com/news/2022-02-10-colleges-can-make-calculus-a-gateway-not-a-gatekeeper-to-stem-fields
+
+- [[Weed-out class]], [[Equity]] https://www.tandfonline.com/doi/abs/10.1080/00221546.2021.1879586?journalCode=uhej20
+	-  https://www.researchgate.net/publication/348612581_It_Seems_Like_They_Purposefully_Try_to_Make_as_Many_Kids_Drop_An_Analysis_of_Logics_and_Mechanisms_of_Racial-Gendered_Inequality_in_Introductory_Mathematics_Instruction
+	-  More articles https://twitter.com/LuisLeyvaEdu/status/1500154966518169603?t=-JW1x1TWVqojMr9yPV7ujA&s=19
+
+- https://www.utdanacenter.org/blog/decades-later-problematic-role-calculus-gatekeeper-opportunity-persists
+
+- What is [[assessed]] in Calculus?
+	-  [[Final exams]]: https://link.springer.com/article/10.1007/s40753-015-0023-9
+	-  Meaning: https://link.springer.com/article/10.1007/s11858-020-01212-3
+
+- 	-  Epistemology: https://teachinginhighereducation.wordpress.com/2021/09/17/rethinking-assessment-in-the-knowledge-economy-how-assessment-produces-knowledge-and-knowers/amp/
+
+- [[High school]] preparation: https://link.springer.com/epdf/10.1007/s11858-021-01231-8?sharing_token=avkKtJUNstEasQp5cvMpp_e4RwlQNchNByi7wbcMAY4nbSp9BFelCt27BmvKS7bEkrUuDdYTWu7h-br0ElcYhbmrxRvosv1lDzSmIelly5UwM8vPWvfpjHk6Jjggx5Ft3NQQiSasCqE0mRHoUIbh6T440378ZAK1SuRVhKhbNc8%3D
+
+- [[High school]] https://hechingerreport.org/opinion-it-may-be-time-to-rethink-the-emphasis-on-taking-calculus-in-high-school/
+
+- [[Chain rule]]: https://www.tandfonline.com/doi/abs/10.1080/10511970.2021.1975180
+
+- [[Biology]], biocalculus: https://www.lifescied.org/doi/full/10.1187/cbe.15-04-0096
+
+- Using [[DFWI rates]] https://edsource.org/2022/high-calculus-failure-rates-thwart-students-across-csu/664771
+
+- [[Teacher noticing]] https://www.tandfonline.com/doi/full/10.1080/0020739X.2021.1961171
+
+- [[Higher education reform]] https://edsource.org/2022/college-calculus-doesnt-have-to-be-a-roadblock/666774
+
+- [[Attitudes]], [[Modeling]] https://www.tandfonline.com/doi/abs/10.1080/0020739X.2021.2023771
+
+- [[common exams]] https://link.springer.com/article/10.1186/s40594-017-0070-7
+
+- [[Case studies]], math sequence https://www.maa.org/programs/faculty-and-departments/curriculum-development-resources/national-studies-college-calculus/ptc-publications
+
+- [[Black students]] https://link.springer.com/article/10.1007/s40753-022-00177-w
+
+- Umbral Calculus https://youtu.be/D0EUFP7-P1M
+
+- https://youtu.be/5M2RWtD4EzI
+
+[[Mathematics]]

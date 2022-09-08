@@ -1,0 +1,107 @@
+- [[Feedback literacy]]
+- [[Video feedback]]
+- [[Assessment]]
+- [[Formative assessment]]
+- [[Peer assessment]]
+- [[Peer observation]]
+- [[Advice]]
+- [[Coaching]]
+- [[Teaching]]
+
+- [[Systematic review]] https://journals.sagepub.com/doi/full/10.3102/0034654312474350
+
+- https://www.teaching-matters-blog.ed.ac.uk/feedback-from-one-way-information-to-an-active-dialogic-process/
+
+- Daily feedback, [[Achievement goal theory]] https://www.sciencedirect.com/science/article/pii/S1096751622000288?dgcid=author#!
+	-  [[Learning journal]] https://twitter.com/hbellhaeuser/status/1546750290539462656?t=-LIlPf98VuBoyQcNNJOMVw&s=19
+	-  Negative [[Time management]] https://econtent.hogrefe.com/doi/10.1026/0049-8637/a000218
+
+- Active feedback https://figshare.edgehill.ac.uk/articles/educational_resource/Active_Feedback/19929290
+
+- Feedback for [[Learning]] and [[Assessment]] https://feedbackforlearning.org/
+
+- Vs. [[Advice]] https://www.hbs.edu/faculty/Pages/item.aspx?num=56638
+
+- Ignoring feedback, focusing on [[Learning management system]] https://www.tandfonline.com/doi/abs/10.1080/02602938.2020.1787331?journalCode=caeh20
+
+- GREAT, [[Empathy]] https://www.ascd.org/el/articles/getting-great-at-feedback
+
+- [[Systematic review]] https://www.tandfonline.com/doi/full/10.1080/02602938.2022.2073434
+
+- https://hbr.org/2019/05/what-good-feedback-really-looks-like
+
+- Feedback models
+	-  https://www.frontiersin.org/articles/10.3389/feduc.2021.720195/full
+	-  https://www.sciencedirect.com/science/article/pii/S1747938X21000397
+
+- https://davidcarless.edu.hku.hk/new-paradigm-feedback-practices/
+- https://davidcarless.edu.hku.hk/feedback-for-student-learning/
+	-  https://www.researchgate.net/publication/357205795_Feedback_for_student_learning_in_higher_education
+
+- Feedback encounters, [[incidental learning]] https://www.tandfonline.com/doi/10.1080/02602938.2022.2059446
+
+- [[Teacher feedback]] literacy
+	-  https://www.researchgate.net/publication/342093080_Teacher_feedback_literacy_and_its_interplay_with_student_feedback_literacy
+	-  https://www.tandfonline.com/doi/abs/10.1080/02602938.2021.1980768?journalCode=caeh20&
+
+- https://www.ascd.org/el/articles/the-secret-of-effective-feedback
+- [[Metaphors for learning]], feedback: https://www.sciencedirect.com/science/article/abs/pii/S0360131521001482?via%3Dihub
+- https://www.tandfonline.com/doi/abs/10.1080/0969594X.2021.1926221?forwardService=showFullText&tokenAccess=CD5T6NCGK47SRQCQUZ7J&tokenDomain=eprints&doi=10.1080%2F0969594x.2021.1926221&doi=10.1080%2F0969594x.2021.1926221&doi=10.1080%2F0969594x.2021.1926221&target=10.1080%2F0969594X.2021.1926221&journalCode=caie20
+- https://www.tandfonline.com/doi/epub/10.1080/13562517.2021.1913723
+- Immediate vs delayed feedback
+	-  https://psyarxiv.com/4mvyh/
+	-  https://journals.sagepub.com/doi/10.1177/1747021820977739
+- group feedback: https://www.tandfonline.com/doi/abs/10.1080/03075079.2019.1688283
+- https://www.sciencedirect.com/science/article/abs/pii/S0747563221002478?dgcid=raven_sd_aip_email
+- https://www.sciencedirect.com/science/article/pii/S0742051X21001116?dgcid=coauthor
+- [[Video]] based feedback: https://articlegateway.com/index.php/JHETP/article/view/4224
+- https://hbr.org/amp/2019/03/the-feedback-fallacy
+- Feedback-seeking behavior: https://journals.sagepub.com/doi/abs/10.1177/0149206313484521
+- Positive feedback improves grades: https://www.tandfonline.com/doi/abs/10.1080/02602938.2021.1910140?journalCode=caeh20
+- Conditions for effective feedback: https://www.tandfonline.com/doi/epub/10.1080/07294360.2019.1657807
+
+- Negative aspects of feedback, [[Toxic workplace]], https://hbr.org/amp/2019/03/the-feedback-fallacy
+
+- In-text [[assignments]]: https://www.tandfonline.com/doi/full/10.1080/02602938.2021.1969335
+
+- https://hbr.org/amp/2019/05/what-good-feedback-really-looks-like
+
+- https://www.apa.org/monitor/2021/10/career-constructive-criticism
+
+- Thanks for the Feedback: The Science and Art of Receiving Feedback Well https://www.amazon.com/dp/0143127136/ref=cm_sw_r_apan_glt_fabc_FC3FRDD7YFFC43NXX4A6
+
+- Pre-task [[guidance]] vs post-task feedback https://www.tandfonline.com/doi/full/10.1080/07294360701658765
+	-  Reminds me of [[transparent assignments]], [[Scaffolding]]
+	-  See figure 3, guidance and feedback loop
+
+- Internal feedback https://www.tandfonline.com/doi/full/10.1080/02602938.2020.1823314
+	-  https://player.vimeo.com/video/654039642?h=6685b01d6a%22
+
+- Active feedback https://figshare.edgehill.ac.uk/articles/educational_resource/Active_Feedback/19929290
+
+- [[Myths]] about feedback https://www.teachersgoinggradeless.com/blog/2017/06/02/feedback-myths
+	-  [[Metaphors for learning]]
+
+- Negative feedback from computers and people, [[Stress]] and [[Self-esteem]] https://www.sciencedirect.com/science/article/abs/pii/S0747563222000929
+
+- https://www.ncl.ac.uk/learning-and-teaching/effective-practice/assessment/good-feedback/effective-feedback/
+
+- Developing [[feedback literacy]] https://explorance.com/blog/methods-for-developing-student-feedback-literacy/
+
+- [[Emotion]] https://onlinelibrary.wiley.com/doi/full/10.1111/medu.14700
+
+- [[Mobile learning]], feedback [[app]] https://link.springer.com/article/10.1007/s10758-021-09575-6#Tab3
+
+- [[Ipsative]] design, [[Self-comparison]] https://www.tandfonline.com/doi/abs/10.1080/02602938.2021.1968338
+
+- [[Book]] Thanks for the feedback https://www.penguinrandomhouse.com/books/313485/thanks-for-the-feedback-by-douglas-stone-and-sheila-heen/
+
+- Feedback sandwich https://twitter.com/emollick/status/1565035592928346113?t=4yviwn9cWoPGNQpn7A-PrA&s=19
+	-  [[Performance review]] https://www.sciencedirect.com/science/article/pii/S0749597816301807?via%3Dihub
+
+- [[First year seminar]] https://www.tandfonline.com/doi/abs/10.1080/13562517.2015.1052786?journalCode=cthe20
+
+- [[Software]]
+	-  https://floopedu.com/
+
+[[Assessment]] [[Fundamentals]]

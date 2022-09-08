@@ -1,0 +1,3 @@
+  - https://journals.sagepub.com/doi/full/10.3102/0013189X19890332
+  - https://www.dartmouth.edu/hrs/profldev/performance_management/rater_errors.html
+  - https://www.youtube.com/watch?v=YjUh4w4JlDU&t=562s

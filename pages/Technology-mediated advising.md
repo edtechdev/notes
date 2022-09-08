@@ -1,0 +1,1 @@
+  - https://ccrc.tc.columbia.edu/publications/technology-advising-redesign-early-adopter-colleges.html

@@ -1,0 +1,32 @@
+- [[Evaluating teaching]]
+- [[Evidence-based teaching]]
+
+- Institutional commitment, [[Educational development]]
+	-  https://www.acenet.edu/News-Room/Pages/ACE-Issues-White-Paper-Examining-Institutional-Commitment-to-Teaching-Excellence.aspx
+	-  https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.acenet.edu/Documents/Institutional-Commitment-to-Teaching-Excellence.pdf&ved=2ahUKEwjProiRsaz5AhV1ZTABHWAmA3EQFnoECAkQAQ&usg=AOvVaw1Zur_61E6KzPcgIZEjwHHY
+
+- https://www.teachingexcellence.eu/
+- https://cte.ku.edu/benchmarks-teaching-effectiveness-project
+- https://bayviewalliance.org/
+- https://www.colorado.edu/teaching-quality-framework/
+
+- https://www.greatteaching.com/
+
+- https://www.publicbooks.org/how-college-teaching-can-have-a-future/
+
+- [[Student]] perspectives, [[Respect]] https://research.library.mun.ca/8370/
+- How [[Undergraduate students]] understand it https://www.tandfonline.com/doi/abs/10.1080/07294360.2020.1847048
+
+- Inspiring teaching and learning https://www.tandfonline.com/doi/epub/10.1080/0309877X.2022.2029833
+
+- [[K12]] [[Meta-analysis]] https://www.frontiersin.org/articles/10.3389/feduc.2021.824504/full
+
+- [[Scoping review]] https://www.frontiersin.org/articles/10.3389/feduc.2022.861458/full
+
+- How universities prevent it https://www.tandfonline.com/doi/epub/10.1080/03075079.2020.1828327
+
+- Perceptions from [[Leadership in higher education]], [[Agriculture]] on teaching excellence https://www.nactateachers.org/attachments/article/2824/7.%20%20DiBenedetto.pdf
+
+- [[Teaching faculty]], [[data]] https://campusmorningmail.com.au/news/on-the-hunt-for-exceptional-educators/
+
+[[Teaching]][[Evaluation]]
