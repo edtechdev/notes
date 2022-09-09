@@ -4095,6 +4095,9 @@
  {:block/name "knowledge management tools",
   :block/created-at 1662473830080,
   :block/updated-at 1662473830080}
+ {:block/name "knowledge retention",
+  :block/created-at 1662726928926,
+  :block/updated-at 1662726928926}
  {:block/name "knowledge survey",
   :block/created-at 1662567530666,
   :block/updated-at 1662567530666}
@@ -6087,6 +6090,9 @@
  {:block/name "racism",
   :block/created-at 1662567507994,
   :block/updated-at 1662567507994}
+ {:block/name "random call",
+  :block/created-at 1662726928938,
+  :block/updated-at 1662726928938}
  {:block/name "randomized controlled trials",
   :block/created-at 1662567524124,
   :block/updated-at 1662567524124}
@@ -6375,6 +6381,9 @@
  {:block/name "rhetoric",
   :block/created-at 1662567509653,
   :block/updated-at 1662567509653}
+ {:block/name "rhythm",
+  :block/created-at 1662726939389,
+  :block/updated-at 1662726939389}
  {:block/name "rights",
   :block/created-at 1662469551181,
   :block/updated-at 1662469551181}
@@ -6708,6 +6717,9 @@
  {:block/name "sep 8th, 2022",
   :block/created-at 1662628338421,
   :block/updated-at 1662650723342}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1662726928940,
+  :block/updated-at 1662726928940}
  {:block/name "service     learning",
   :block/created-at 1662578474442,
   :block/updated-at 1662578474442}
@@ -6990,6 +7002,9 @@
  {:block/name "sql",
   :block/created-at 1662567517808,
   :block/updated-at 1662567517808}
+ {:block/name "stable diffusion",
+  :block/created-at 1662726928923,
+  :block/updated-at 1662726928923}
  {:block/name "staff",
   :block/created-at 1662578523043,
   :block/updated-at 1662578523043}

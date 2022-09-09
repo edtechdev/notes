@@ -1,0 +1,4 @@
+- [[Machine Learning]]
+- [[Artificial intelligence]]
+- https://lexica.art/
+-
