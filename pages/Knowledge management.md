@@ -1,5 +1,5 @@
 - [[Personal knowledge management]]
 - [[Wikis]]
 - [[Documentation tools]]
-
-- [https://www.youtube.com/watch?v=YIMulToefqk Measuring knowledgement management success]
+- [Measuring knowledgement management success](https://www.youtube.com/watch?v=YIMulToefqk) #video
+- {{video https://www.youtube.com/watch?v=YIMulToefqk}}
