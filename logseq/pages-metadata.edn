@@ -6066,6 +6066,9 @@
  {:block/name "questions",
   :block/created-at 1662469569372,
   :block/updated-at 1662469569372}
+ {:block/name "quick capture",
+  :block/created-at 1662991162727,
+  :block/updated-at 1662991162727}
  {:block/name "quiz",
   :block/created-at 1662567507582,
   :block/updated-at 1662567507582}
