@@ -1,41 +1,31 @@
 - [[Focus]]
 - [[Distraction]]
 - [[Working memory]]
-
 - [[Engagement]]
-
 - [[Eye tracking]]
 - [[Noticing]]
-
 - No one knows what attention is: https://link.springer.com/article/10.3758/s13414-019-01846-w
-
 - https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1574?campaign=wolearlyview
 - Attention management, self control, overcoming distractions: https://hbr.org/amp/2018/03/to-control-your-life-control-what-you-pay-attention-to
-- https://www.journalofcognition.org/articles/10.5334/joc.58/
+- [[Working memory]] https://www.journalofcognition.org/articles/10.5334/joc.58/
 - https://www.nature.com/articles/s41586-021-03390-w
 - Joint attention https://twitter.com/anniemurphypaul/status/1396818693997449216?s=19
 - https://pubmed.ncbi.nlm.nih.gov/17417935/
 - Attention span https://journals.physiology.org/doi/full/10.1152/advan.00109.2016
 - https://epigeum.com/downloads/uct_accessible/uk/01_lecturing1/html/course_files/2_30.html
 - Length of lecture/class session
-	-  https://www.studyinternational.com/news/lectures-often-long-breaks-keep-students-interested/
+	- https://www.studyinternational.com/news/lectures-often-long-breaks-keep-students-interested/
 - https://journals.sagepub.com/doi/full/10.1177/1362168817713766
 - Attention contagion
-	-  https://psycnet.apa.org/record/2021-24992-001
-	-  https://osf.io/3ncsm/
-	-  https://osf.io/y5hsg/
-- https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1570?campaign=wolearlyview
-
+	- https://psycnet.apa.org/record/2021-24992-001
+	- https://osf.io/3ncsm/
+	- https://osf.io/y5hsg/
+- [What is attention] (https://onlinelibrary.wiley.com/doi/abs/10.1002/wcs.1570?campaign=wolearlyview)
 - Attention fatigue: https://elemental.medium.com/how-soft-fascination-helps-restore-your-tired-brain-27669cd0be9d
-
 - When teaching: https://www.aacu.org/liberaleducation/2021/summer/lang
-
 - And [[Consciousness]] https://youtu.be/DWu3fgNfgAs
-
 - Controlling attention to mitigate [[social]] [[Anxiety]] https://www.psypost.org/2022/03/the-ability-to-control-ones-attention-might-eliminate-the-attentional-bias-associated-with-social-anxiety-study-suggests-62701
-
 - Attention span during [[lecture]] https://journals.physiology.org/doi/full/10.1152/advan.00109.2016
-
 - [[Human capital]], [[Grit]], [[Persistence]] https://www.nber.org/papers/w30133
-
-[[Learning]][[Psychology]]
+  
+  [[Learning]][[Psychology]]
