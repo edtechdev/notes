@@ -6740,7 +6740,7 @@
   :block/updated-at 1663163678589}
  {:block/name "sep 15th, 2022",
   :block/created-at 1663260214742,
-  :block/updated-at 1663260288269}
+  :block/updated-at 1663260849648}
  {:block/name "sep 6th, 2022",
   :block/created-at 1662469232407,
   :block/updated-at 1662476546250}
@@ -8193,6 +8193,9 @@
  {:block/name "what is the evidence for active learning?",
   :block/created-at 1662473809790,
   :block/updated-at 1662473809790}
+ {:block/name "what works",
+  :block/created-at 1663260819966,
+  :block/updated-at 1663260819966}
  {:block/name "whatsapp",
   :block/created-at 1662567553254,
   :block/updated-at 1662567553254}
