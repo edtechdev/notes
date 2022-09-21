@@ -724,6 +724,9 @@
  {:block/name "bookmark",
   :block/created-at 1662469551481,
   :block/updated-at 1662469551481}
+ {:block/name "bookmarklet",
+  :block/created-at 1663618243964,
+  :block/updated-at 1663618243964}
  {:block/name "books",
   :block/created-at 1662469570769,
   :block/updated-at 1662469570769}
@@ -1078,6 +1081,9 @@
  {:block/name "classroom",
   :block/created-at 1662567499171,
   :block/updated-at 1662567499171}
+ {:block/name "classroom activity",
+  :block/created-at 1663618244197,
+  :block/updated-at 1663618244197}
  {:block/name "classroom management",
   :block/created-at 1662567514074,
   :block/updated-at 1662567514074}
@@ -3049,6 +3055,9 @@
  {:block/name "framing",
   :block/created-at 1662567513318,
   :block/updated-at 1662567513318}
+ {:block/name "free rider",
+  :block/created-at 1663618244160,
+  :block/updated-at 1663618244160}
  {:block/name "free speech",
   :block/created-at 1662473809426,
   :block/updated-at 1662473809426}
@@ -6741,6 +6750,18 @@
  {:block/name "sep 15th, 2022",
   :block/created-at 1663260214742,
   :block/updated-at 1663261396576}
+ {:block/name "sep 16th, 2022",
+  :block/created-at 1663618243974,
+  :block/updated-at 1663618243974}
+ {:block/name "sep 17th, 2022",
+  :block/created-at 1663618244132,
+  :block/updated-at 1663618244132}
+ {:block/name "sep 18th, 2022",
+  :block/created-at 1663618244199,
+  :block/updated-at 1663618244199}
+ {:block/name "sep 19th, 2022",
+  :block/created-at 1663618244166,
+  :block/updated-at 1663618244166}
  {:block/name "sep 6th, 2022",
   :block/created-at 1662469232407,
   :block/updated-at 1662476546250}
@@ -8112,6 +8133,9 @@
  {:block/name "web",
   :block/created-at 1662469566098,
   :block/updated-at 1662469566098}
+ {:block/name "web clip",
+  :block/created-at 1663618243962,
+  :block/updated-at 1663618243962}
  {:block/name "web components",
   :block/created-at 1662567553409,
   :block/updated-at 1662567553409}
