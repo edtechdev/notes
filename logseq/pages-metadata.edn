@@ -73,6 +73,9 @@
  {:block/name "academic discipline",
   :block/created-at 1662494069677,
   :block/updated-at 1662494069677}
+ {:block/name "academic dismissal",
+  :block/created-at 1663845407074,
+  :block/updated-at 1663845407074}
  {:block/name "academic freedom",
   :block/created-at 1662567498913,
   :block/updated-at 1662567498913}
@@ -3142,6 +3145,9 @@
  {:block/name "generalizability",
   :block/created-at 1662567509470,
   :block/updated-at 1662567509470}
+ {:block/name "generation",
+  :block/created-at 1663845244313,
+  :block/updated-at 1663845244313}
  {:block/name "generation effect",
   :block/created-at 1662473834303,
   :block/updated-at 1662473834303}
@@ -5376,6 +5382,9 @@
  {:block/name "overestimation",
   :block/created-at 1662469557935,
   :block/updated-at 1662469557935}
+ {:block/name "overgeneralization",
+  :block/created-at 1663845244310,
+  :block/updated-at 1663845244310}
  {:block/name "p hacking",
   :block/created-at 1662567538020,
   :block/updated-at 1662567538020}
@@ -6762,6 +6771,15 @@
  {:block/name "sep 19th, 2022",
   :block/created-at 1663618244166,
   :block/updated-at 1663618244166}
+ {:block/name "sep 20th, 2022",
+  :block/created-at 1663845244233,
+  :block/updated-at 1663845244233}
+ {:block/name "sep 21st, 2022",
+  :block/created-at 1663845244318,
+  :block/updated-at 1663845244318}
+ {:block/name "sep 22nd, 2022",
+  :block/created-at 1663845244417,
+  :block/updated-at 1663846013301}
  {:block/name "sep 6th, 2022",
   :block/created-at 1662469232407,
   :block/updated-at 1662476546250}
