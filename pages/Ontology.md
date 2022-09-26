@@ -1,5 +1,6 @@
-  - [[Information architecture]]
-  - [[Schema]]
-  - [[Schema.org]]
-
-  - https://ontologforum.org/
+- [[Information architecture]]
+- [[Schema]]
+- [[Schema.org]]
+- https://ontologforum.org/
+- https://iaoa.org/
+- https://archivo.dbpedia.org/list
