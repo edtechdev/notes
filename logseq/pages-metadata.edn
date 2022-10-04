@@ -522,7 +522,7 @@
   :block/updated-at 1662567510271}
  {:block/name "attention",
   :block/created-at 1662567507757,
-  :block/updated-at 1662567507757}
+  :block/updated-at 1663021479440}
  {:block/name "attention deficit hyperactivity disorder",
   :block/created-at 1662567508623,
   :block/updated-at 1662567508623}
@@ -532,6 +532,9 @@
  {:block/name "attitudes",
   :block/created-at 1662473814232,
   :block/updated-at 1662473814232}
+ {:block/name "attractiveness",
+  :block/created-at 1664799176080,
+  :block/updated-at 1664799176080}
  {:block/name "audience",
   :block/created-at 1662567511046,
   :block/updated-at 1662567511046}
@@ -622,6 +625,9 @@
  {:block/name "bayesian reasoning",
   :block/created-at 1662473847036,
   :block/updated-at 1662473847036}
+ {:block/name "beauty",
+  :block/created-at 1664799176079,
+  :block/updated-at 1664799176079}
  {:block/name "behavior",
   :block/created-at 1662567511666,
   :block/updated-at 1662567511666}
@@ -1194,7 +1200,7 @@
   :block/updated-at 1662567516278}
  {:block/name "cognitive science",
   :block/created-at 1662567516413,
-  :block/updated-at 1662567516413}
+  :block/updated-at 1662898303951}
  {:block/name "cognitive task analysis",
   :block/created-at 1662567516362,
   :block/updated-at 1662567516362}
@@ -1888,6 +1894,9 @@
  {:block/name "delegating",
   :block/created-at 1662567518057,
   :block/updated-at 1662567518057}
+ {:block/name "delegation",
+  :block/created-at 1664799175893,
+  :block/updated-at 1664799175893}
  {:block/name "delete",
   :block/created-at 1662469588364,
   :block/updated-at 1662469588364}
@@ -2400,7 +2409,7 @@
   :block/updated-at 1662469587538}
  {:block/name "embodied cognition",
   :block/created-at 1662567507767,
-  :block/updated-at 1662567507767}
+  :block/updated-at 1664196040234}
  {:block/name "embodied learning",
   :block/created-at 1662567518150,
   :block/updated-at 1662567518150}
@@ -2409,7 +2418,7 @@
   :block/updated-at 1662578487691}
  {:block/name "emoji",
   :block/created-at 1662567520414,
-  :block/updated-at 1662567520414}
+  :block/updated-at 1663782433297}
  {:block/name "emojis",
   :block/created-at 1662473847493,
   :block/updated-at 1662473847493}
@@ -3109,6 +3118,9 @@
  {:block/name "game engines",
   :block/created-at 1662567524574,
   :block/updated-at 1662567524574}
+ {:block/name "game-based learning",
+  :block/created-at 1664799176392,
+  :block/updated-at 1664799176392}
  {:block/name "games",
   :block/created-at 1662567508507,
   :block/updated-at 1662567508507}
@@ -3626,6 +3638,9 @@
  {:block/name "hyflex",
   :block/created-at 1662567512121,
   :block/updated-at 1662567512121}
+ {:block/name "hype",
+  :block/created-at 1664799176382,
+  :block/updated-at 1664799176382}
  {:block/name "hypertext",
   :block/created-at 1662567511023,
   :block/updated-at 1662567511023}
@@ -3863,6 +3878,9 @@
  {:block/name "instructional design",
   :block/created-at 1662473814645,
   :block/updated-at 1662473814645}
+ {:block/name "instructional quality",
+  :block/created-at 1664799175881,
+  :block/updated-at 1664799175881}
  {:block/name "instructors",
   :block/created-at 1662469563457,
   :block/updated-at 1662469563457}
@@ -4059,6 +4077,9 @@
  {:block/name "journaling",
   :block/created-at 1662567521075,
   :block/updated-at 1662567521075}
+ {:block/name "journalism",
+  :block/created-at 1664799176382,
+  :block/updated-at 1664799176382}
  {:block/name "journals",
   :block/created-at 1662494071964,
   :block/updated-at 1662494071964}
@@ -4109,7 +4130,7 @@
   :block/updated-at 1662473811935}
  {:block/name "knowledge management",
   :block/created-at 1662567507690,
-  :block/updated-at 1662567507690}
+  :block/updated-at 1662769192631}
  {:block/name "knowledge management tool",
   :block/created-at 1662567530710,
   :block/updated-at 1662567530710}
@@ -4220,7 +4241,7 @@
   :block/updated-at 1662567511449}
  {:block/name "learning as gardening",
   :block/created-at 1662567531313,
-  :block/updated-at 1662567531313}
+  :block/updated-at 1662769244652}
  {:block/name "learning as programming",
   :block/created-at 1662567531386,
   :block/updated-at 1662567531386}
@@ -5196,6 +5217,18 @@
  {:block/name "ocr",
   :block/created-at 1662567537129,
   :block/updated-at 1662567537129}
+ {:block/name "oct 1st, 2022",
+  :block/created-at 1664799176394,
+  :block/updated-at 1664799176394}
+ {:block/name "oct 2nd, 2022",
+  :block/created-at 1664799176295,
+  :block/updated-at 1664799176295}
+ {:block/name "oct 3rd, 2022",
+  :block/created-at 1664799175379,
+  :block/updated-at 1664846515172}
+ {:block/name "oct 4th, 2022",
+  :block/created-at 1664859949914,
+  :block/updated-at 1664901299217}
  {:block/name "odor",
   :block/created-at 1662469588069,
   :block/updated-at 1662469588069}
@@ -5264,7 +5297,7 @@
   :block/updated-at 1662567666603}
  {:block/name "ontology",
   :block/created-at 1662567531309,
-  :block/updated-at 1662567531309}
+  :block/updated-at 1664188188250}
  {:block/name "open     source",
   :block/created-at 1662578528675,
   :block/updated-at 1662578528675}
@@ -5936,7 +5969,7 @@
   :block/updated-at 1662567511447}
  {:block/name "progressive web app",
   :block/created-at 1662567509376,
-  :block/updated-at 1662567509376}
+  :block/updated-at 1663319419592}
  {:block/name "progressive web apps",
   :block/created-at 1662567541010,
   :block/updated-at 1662567541010}
@@ -6315,6 +6348,9 @@
  {:block/name "representations",
   :block/created-at 1662469587896,
   :block/updated-at 1662469587896}
+ {:block/name "reproducibility",
+  :block/created-at 1664916196166,
+  :block/updated-at 1664916196166}
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
@@ -6468,6 +6504,9 @@
  {:block/name "safe space",
   :block/created-at 1662567543697,
   :block/updated-at 1662567543697}
+ {:block/name "safety",
+  :block/created-at 1664799176374,
+  :block/updated-at 1664799176374}
  {:block/name "salary",
   :block/created-at 1662567522272,
   :block/updated-at 1662567522272}
@@ -6546,6 +6585,9 @@
  {:block/name "school ratings",
   :block/created-at 1662584627119,
   :block/updated-at 1662584627119}
+ {:block/name "school safety",
+  :block/created-at 1664799176375,
+  :block/updated-at 1664799176375}
  {:block/name "school segregation",
   :block/created-at 1662567544052,
   :block/updated-at 1662567544052}
@@ -6624,6 +6666,9 @@
  {:block/name "search engines",
   :block/created-at 1662567524968,
   :block/updated-at 1662567524968}
+ {:block/name "second person",
+  :block/created-at 1664799176175,
+  :block/updated-at 1664799176175}
  {:block/name "secondary education",
   :block/created-at 1638976249851,
   :block/updated-at 1638976249851}
@@ -6753,9 +6798,12 @@
  {:block/name "senses",
   :block/created-at 1662567545266,
   :block/updated-at 1662567545266}
+ {:block/name "sensorimotor theory",
+  :block/created-at 1664799176289,
+  :block/updated-at 1664799176289}
  {:block/name "sep 10th, 2022",
   :block/created-at 1662813701021,
-  :block/updated-at 1662813701021}
+  :block/updated-at 1662851672083}
  {:block/name "sep 11th, 2022",
   :block/created-at 1662983767582,
   :block/updated-at 1662983767582}
@@ -6794,7 +6842,7 @@
   :block/updated-at 1663846013301}
  {:block/name "sep 23rd, 2022",
   :block/created-at 1663951713608,
-  :block/updated-at 1663951713608}
+  :block/updated-at 1663965772989}
  {:block/name "sep 24th, 2022",
   :block/created-at 1664189452011,
   :block/updated-at 1664189452011}
@@ -6804,6 +6852,18 @@
  {:block/name "sep 26th, 2022",
   :block/created-at 1664189452212,
   :block/updated-at 1664212685693}
+ {:block/name "sep 27th, 2022",
+  :block/created-at 1664799175909,
+  :block/updated-at 1664799175909}
+ {:block/name "sep 28th, 2022",
+  :block/created-at 1664799176177,
+  :block/updated-at 1664799176177}
+ {:block/name "sep 29th, 2022",
+  :block/created-at 1664799176083,
+  :block/updated-at 1664799176083}
+ {:block/name "sep 30th, 2022",
+  :block/created-at 1664799176120,
+  :block/updated-at 1664799176120}
  {:block/name "sep 6th, 2022",
   :block/created-at 1662469232407,
   :block/updated-at 1662476546250}
@@ -7227,6 +7287,9 @@
  {:block/name "student athlete",
   :block/created-at 1662567510977,
   :block/updated-at 1662567510977}
+ {:block/name "student beliefs",
+  :block/created-at 1664799175878,
+  :block/updated-at 1664799175878}
  {:block/name "student club",
   :block/created-at 1662567522567,
   :block/updated-at 1662567522567}
@@ -7494,6 +7557,9 @@
  {:block/name "teacher power",
   :block/created-at 1662578521074,
   :block/updated-at 1662578521074}
+ {:block/name "teacher shortage",
+  :block/created-at 1664799176386,
+  :block/updated-at 1664799176386}
  {:block/name "teacher talk",
   :block/created-at 1662567549314,
   :block/updated-at 1662567549314}
@@ -7923,6 +7989,9 @@
  {:block/name "tutoring",
   :block/created-at 1662567499076,
   :block/updated-at 1662567499076}
+ {:block/name "twine",
+  :block/created-at 1664799176381,
+  :block/updated-at 1664799176381}
  {:block/name "twitter",
   :block/created-at 1662567533622,
   :block/updated-at 1662567533622}
@@ -8067,6 +8136,9 @@
  {:block/name "vertically integrated projects",
   :block/created-at 1662567552802,
   :block/updated-at 1662567552802}
+ {:block/name "vicarious learning",
+  :block/created-at 1664799176390,
+  :block/updated-at 1664799176390}
  {:block/name "video",
   :block/created-at 1662567508101,
   :block/updated-at 1662567508101}
