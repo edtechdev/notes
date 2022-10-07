@@ -2239,6 +2239,9 @@
  {:block/name "dual enrollment",
   :block/created-at 1662567508912,
   :block/updated-at 1662567508912}
+ {:block/name "due date",
+  :block/created-at 1665147705505,
+  :block/updated-at 1665147705505}
  {:block/name "dunning kruger effect",
   :block/created-at 1662567514328,
   :block/updated-at 1662567514328}
@@ -3949,7 +3952,7 @@
   :block/updated-at 1662567507813}
  {:block/name "internships",
   :block/created-at 1662567529911,
-  :block/updated-at 1662567529911}
+  :block/updated-at 1664902052182}
  {:block/name "interpreting educational research",
   :block/created-at 1662567509515,
   :block/updated-at 1662567509515}
@@ -5228,7 +5231,16 @@
   :block/updated-at 1664846515172}
  {:block/name "oct 4th, 2022",
   :block/created-at 1664859949914,
-  :block/updated-at 1664901299217}
+  :block/updated-at 1665147757711}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1664956320542,
+  :block/updated-at 1665003612786}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665038740945,
+  :block/updated-at 1665075411074}
+ {:block/name "oct 7th, 2022",
+  :block/created-at 1665120222031,
+  :block/updated-at 1665120250328}
  {:block/name "odor",
   :block/created-at 1662469588069,
   :block/updated-at 1662469588069}
