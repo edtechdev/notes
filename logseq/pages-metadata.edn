@@ -460,6 +460,9 @@
  {:block/name "artificial intelligence ethics",
   :block/created-at 1662567509407,
   :block/updated-at 1662567509407}
+ {:block/name "artificial intelligence in education",
+  :block/created-at 1665208444978,
+  :block/updated-at 1665208444978}
  {:block/name "artificial life",
   :block/created-at 1662567509744,
   :block/updated-at 1662567509744}
@@ -5231,7 +5234,7 @@
   :block/updated-at 1664846515172}
  {:block/name "oct 4th, 2022",
   :block/created-at 1664859949914,
-  :block/updated-at 1665147757711}
+  :block/updated-at 1665210525343}
  {:block/name "oct 5th, 2022",
   :block/created-at 1664956320542,
   :block/updated-at 1665003612786}
@@ -5240,7 +5243,13 @@
   :block/updated-at 1665075411074}
  {:block/name "oct 7th, 2022",
   :block/created-at 1665120222031,
-  :block/updated-at 1665120250328}
+  :block/updated-at 1665156202188}
+ {:block/name "oct 8th, 2022",
+  :block/created-at 1665208402402,
+  :block/updated-at 1665271655066}
+ {:block/name "oct 9th, 2022",
+  :block/created-at 1665305868247,
+  :block/updated-at 1665305916706}
  {:block/name "odor",
   :block/created-at 1662469588069,
   :block/updated-at 1662469588069}
@@ -5844,6 +5853,9 @@
  {:block/name "prejudice",
   :block/created-at 1662469550797,
   :block/updated-at 1662469550797}
+ {:block/name "premed education",
+  :block/created-at 1665352204027,
+  :block/updated-at 1665352204027}
  {:block/name "prerequisite",
   :block/created-at 1662469559597,
   :block/updated-at 1662469559597}
@@ -6546,6 +6558,9 @@
  {:block/name "scan",
   :block/created-at 1662494066375,
   :block/updated-at 1662494066375}
+ {:block/name "scarcity",
+  :block/created-at 1665352201775,
+  :block/updated-at 1665352201775}
  {:block/name "scavenger hunt",
   :block/created-at 1662473854666,
   :block/updated-at 1662473854666}
