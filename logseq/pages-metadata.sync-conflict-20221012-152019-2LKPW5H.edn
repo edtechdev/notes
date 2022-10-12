@@ -509,8 +509,8 @@
   :block/created-at 1662567510549,
   :block/updated-at 1662567510549}
  {:block/name "assumption",
-  :block/created-at 1665602356731,
-  :block/updated-at 1665602356731}
+  :block/created-at 1665413287086,
+  :block/updated-at 1665413287086}
  {:block/name "astronomy education",
   :block/created-at 1662473833088,
   :block/updated-at 1662473833088}
@@ -599,8 +599,8 @@
   :block/created-at 1662494065611,
   :block/updated-at 1662494065611}
  {:block/name "average",
-  :block/created-at 1665602356733,
-  :block/updated-at 1665602356733}
+  :block/created-at 1665413141078,
+  :block/updated-at 1665413141078}
  {:block/name "avoidance",
   :block/created-at 1662494071471,
   :block/updated-at 1662494071471}
@@ -665,8 +665,8 @@
   :block/created-at 1662567508515,
   :block/updated-at 1662567508515}
  {:block/name "beliefs about science",
-  :block/created-at 1665602432040,
-  :block/updated-at 1665602432040}
+  :block/created-at 1665559500554,
+  :block/updated-at 1665559500554}
  {:block/name "beliefs about teaching",
   :block/created-at 1662567512530,
   :block/updated-at 1662567512530}
@@ -2402,8 +2402,8 @@
   :block/created-at 1662473842103,
   :block/updated-at 1662473842103}
  {:block/name "elaborated feedback",
-  :block/created-at 1665602356726,
-  :block/updated-at 1665602356726}
+  :block/created-at 1665411266482,
+  :block/updated-at 1665411266482}
  {:block/name "elearning",
   :block/created-at 1662469558702,
   :block/updated-at 1662469558702}
@@ -5246,13 +5246,13 @@
   :block/updated-at 1662567537129}
  {:block/name "oct 10th, 2022",
   :block/created-at 1665388285280,
-  :block/updated-at 1665602598727}
+  :block/updated-at 1665404084242}
  {:block/name "oct 11th, 2022",
-  :block/created-at 1665602431779,
-  :block/updated-at 1665602431779}
+  :block/created-at 1665473178753,
+  :block/updated-at 1665506290557}
  {:block/name "oct 12th, 2022",
-  :block/created-at 1665602353313,
-  :block/updated-at 1665602684257}
+  :block/created-at 1665550157965,
+  :block/updated-at 1665591259363}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664799176394,
   :block/updated-at 1664799176394}
@@ -5264,7 +5264,7 @@
   :block/updated-at 1664846515172}
  {:block/name "oct 4th, 2022",
   :block/created-at 1664859949914,
-  :block/updated-at 1665602648908}
+  :block/updated-at 1665210525343}
  {:block/name "oct 5th, 2022",
   :block/created-at 1664956320542,
   :block/updated-at 1665003612786}
@@ -6408,9 +6408,6 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
- {:block/name "rescuetime",
-  :block/created-at 1664212961820,
-  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
