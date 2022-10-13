@@ -2002,6 +2002,9 @@
  {:block/name "developmental education",
   :block/created-at 1662567507586,
   :block/updated-at 1662567507586}
+ {:block/name "developmental mathematics",
+  :block/created-at 1665614493204,
+  :block/updated-at 1665614493204}
  {:block/name "developmental psychology",
   :block/created-at 1662473812869,
   :block/updated-at 1662473812869}
@@ -5252,7 +5255,10 @@
   :block/updated-at 1665602431779}
  {:block/name "oct 12th, 2022",
   :block/created-at 1665602353313,
-  :block/updated-at 1665602684257}
+  :block/updated-at 1665604158749}
+ {:block/name "oct 13th, 2022",
+  :block/created-at 1665638760270,
+  :block/updated-at 1665663377900}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664799176394,
   :block/updated-at 1664799176394}
@@ -6408,9 +6414,6 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
- {:block/name "rescuetime",
-  :block/created-at 1664212961820,
-  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
@@ -7281,6 +7284,9 @@
  {:block/name "stigma reduction",
   :block/created-at 1662567518332,
   :block/updated-at 1662567518332}
+ {:block/name "stimulus",
+  :block/created-at 1665638830236,
+  :block/updated-at 1665638830236}
  {:block/name "stopped-out students",
   :block/created-at 1662567546968,
   :block/updated-at 1662567546968}
