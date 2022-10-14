@@ -118,6 +118,9 @@
  {:block/name "accommodations",
   :block/created-at 1662567510253,
   :block/updated-at 1662567510253}
+ {:block/name "accountability",
+  :block/created-at 1665728558734,
+  :block/updated-at 1665728589443}
  {:block/name "accounting education",
   :block/created-at 1662567508235,
   :block/updated-at 1662567508235}
@@ -1924,6 +1927,9 @@
  {:block/name "delivery",
   :block/created-at 1662567499162,
   :block/updated-at 1662567499162}
+ {:block/name "dementia",
+  :block/created-at 1665728968739,
+  :block/updated-at 1665728968739}
  {:block/name "democracy",
   :block/created-at 1662469560705,
   :block/updated-at 1662469560705}
@@ -4323,6 +4329,9 @@
  {:block/name "learning journal",
   :block/created-at 1662494077808,
   :block/updated-at 1662494077808}
+ {:block/name "learning loss",
+  :block/created-at 1665729943200,
+  :block/updated-at 1665729943200}
  {:block/name "learning management system",
   :block/created-at 1662567513354,
   :block/updated-at 1662567513354}
@@ -5259,6 +5268,9 @@
  {:block/name "oct 13th, 2022",
   :block/created-at 1665638760270,
   :block/updated-at 1665663377900}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665728113817,
+  :block/updated-at 1665766589286}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664799176394,
   :block/updated-at 1664799176394}
@@ -5789,7 +5801,7 @@
   :block/updated-at 1662567512645}
  {:block/name "policy",
   :block/created-at 1662469556703,
-  :block/updated-at 1662469556703}
+  :block/updated-at 1665728335803}
  {:block/name "political bias in higher education",
   :block/created-at 1662567535182,
   :block/updated-at 1662567535182}
