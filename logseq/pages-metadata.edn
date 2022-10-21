@@ -166,6 +166,9 @@
  {:block/name "active shooter drills",
   :block/created-at 1662473832985,
   :block/updated-at 1662473832985}
+ {:block/name "activity",
+  :block/created-at 1666244604311,
+  :block/updated-at 1666244604311}
  {:block/name "activity theory",
   :block/created-at 1662567508353,
   :block/updated-at 1662567508353}
@@ -3100,6 +3103,9 @@
  {:block/name "fourier transform",
   :block/created-at 1662567524348,
   :block/updated-at 1662567524348}
+ {:block/name "framework",
+  :block/created-at 1666244641157,
+  :block/updated-at 1666244641157}
  {:block/name "framing",
   :block/created-at 1662567513318,
   :block/updated-at 1662567513318}
@@ -5300,7 +5306,7 @@
   :block/updated-at 1664799176394}
  {:block/name "oct 20th, 2022",
   :block/created-at 1666243784741,
-  :block/updated-at 1666244078858}
+  :block/updated-at 1666317975185}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664799176295,
   :block/updated-at 1664799176295}
