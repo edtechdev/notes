@@ -167,8 +167,8 @@
   :block/created-at 1662473832985,
   :block/updated-at 1662473832985}
  {:block/name "activity",
-  :block/created-at 1666244604311,
-  :block/updated-at 1666244604311}
+  :block/created-at 1666547542944,
+  :block/updated-at 1666547542944}
  {:block/name "activity theory",
   :block/created-at 1662567508353,
   :block/updated-at 1662567508353}
@@ -3104,8 +3104,8 @@
   :block/created-at 1662567524348,
   :block/updated-at 1662567524348}
  {:block/name "framework",
-  :block/created-at 1666244641157,
-  :block/updated-at 1666244641157}
+  :block/created-at 1666547542944,
+  :block/updated-at 1666547542944}
  {:block/name "framing",
   :block/created-at 1662567513318,
   :block/updated-at 1662567513318}
@@ -3587,8 +3587,8 @@
   :block/created-at 1662567527576,
   :block/updated-at 1662567527576}
  {:block/name "hochman method",
-  :block/created-at 1666406841542,
-  :block/updated-at 1666406841542}
+  :block/created-at 1666547543192,
+  :block/updated-at 1666547543192}
  {:block/name "hold",
   :block/created-at 1662567527650,
   :block/updated-at 1662567527650}
@@ -4708,8 +4708,8 @@
   :block/created-at 1662469558147,
   :block/updated-at 1662469558147}
  {:block/name "media literacy",
-  :block/created-at 1666335051733,
-  :block/updated-at 1666335051733}
+  :block/created-at 1666547543186,
+  :block/updated-at 1666547543186}
  {:block/name "media theory",
   :block/created-at 1662567533916,
   :block/updated-at 1662567533916}
@@ -5294,7 +5294,7 @@
   :block/updated-at 1665766589286}
  {:block/name "oct 15th, 2022",
   :block/created-at 1665819086092,
-  :block/updated-at 1665833043498}
+  :block/updated-at 1666547682239}
  {:block/name "oct 16th, 2022",
   :block/created-at 1666037028588,
   :block/updated-at 1666037028588}
@@ -5311,14 +5311,17 @@
   :block/created-at 1664799176394,
   :block/updated-at 1664799176394}
  {:block/name "oct 20th, 2022",
-  :block/created-at 1666243784741,
-  :block/updated-at 1666317975185}
+  :block/created-at 1666547542948,
+  :block/updated-at 1666547654975}
  {:block/name "oct 21st, 2022",
-  :block/created-at 1666334930629,
-  :block/updated-at 1666421371165}
+  :block/created-at 1666547543195,
+  :block/updated-at 1666547626393}
  {:block/name "oct 22nd, 2022",
-  :block/created-at 1666421371131,
-  :block/updated-at 1666478182628}
+  :block/created-at 1666547543388,
+  :block/updated-at 1666547596029}
+ {:block/name "oct 23rd, 2022",
+  :block/created-at 1666547543433,
+  :block/updated-at 1666547543433}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664799176295,
   :block/updated-at 1664799176295}
@@ -6471,6 +6474,9 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
+ {:block/name "rescuetime",
+  :block/created-at 1664212961820,
+  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
@@ -6727,8 +6733,8 @@
   :block/created-at 1662469586235,
   :block/updated-at 1662469586235}
  {:block/name "sci-hub",
-  :block/created-at 1666464739059,
-  :block/updated-at 1666464739059}
+  :block/created-at 1666547543382,
+  :block/updated-at 1666547543382}
  {:block/name "science",
   :block/created-at 1662469552822,
   :block/updated-at 1662469552822}
@@ -6828,6 +6834,9 @@
  {:block/name "self-awareness",
   :block/created-at 1662567528318,
   :block/updated-at 1662567528318}
+ {:block/name "self-care",
+  :block/created-at 1666547543387,
+  :block/updated-at 1666547543387}
  {:block/name "self-comparison",
   :block/created-at 1662567515552,
   :block/updated-at 1662567515552}
@@ -7672,8 +7681,8 @@
   :block/created-at 1662567512579,
   :block/updated-at 1662567512579}
  {:block/name "teacher certification",
-  :block/created-at 1666434372622,
-  :block/updated-at 1666434372622}
+  :block/created-at 1666547543377,
+  :block/updated-at 1666547543377}
  {:block/name "teacher education",
   :block/created-at 1662567512169,
   :block/updated-at 1662567512169}
