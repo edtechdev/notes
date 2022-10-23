@@ -3586,6 +3586,9 @@
  {:block/name "history of science",
   :block/created-at 1662567527576,
   :block/updated-at 1662567527576}
+ {:block/name "hochman method",
+  :block/created-at 1666406841542,
+  :block/updated-at 1666406841542}
  {:block/name "hold",
   :block/created-at 1662567527650,
   :block/updated-at 1662567527650}
@@ -4704,6 +4707,9 @@
  {:block/name "media",
   :block/created-at 1662469558147,
   :block/updated-at 1662469558147}
+ {:block/name "media literacy",
+  :block/created-at 1666335051733,
+  :block/updated-at 1666335051733}
  {:block/name "media theory",
   :block/created-at 1662567533916,
   :block/updated-at 1662567533916}
@@ -5307,6 +5313,12 @@
  {:block/name "oct 20th, 2022",
   :block/created-at 1666243784741,
   :block/updated-at 1666317975185}
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666334930629,
+  :block/updated-at 1666421371165}
+ {:block/name "oct 22nd, 2022",
+  :block/created-at 1666421371131,
+  :block/updated-at 1666478182628}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664799176295,
   :block/updated-at 1664799176295}
@@ -6714,6 +6726,9 @@
  {:block/name "schools",
   :block/created-at 1662469586235,
   :block/updated-at 1662469586235}
+ {:block/name "sci-hub",
+  :block/created-at 1666464739059,
+  :block/updated-at 1666464739059}
  {:block/name "science",
   :block/created-at 1662469552822,
   :block/updated-at 1662469552822}
@@ -7656,6 +7671,9 @@
  {:block/name "teacher beliefs",
   :block/created-at 1662567512579,
   :block/updated-at 1662567512579}
+ {:block/name "teacher certification",
+  :block/created-at 1666434372622,
+  :block/updated-at 1666434372622}
  {:block/name "teacher education",
   :block/created-at 1662567512169,
   :block/updated-at 1662567512169}
