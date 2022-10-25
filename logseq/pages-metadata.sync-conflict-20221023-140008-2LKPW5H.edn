@@ -5322,12 +5322,6 @@
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666547543433,
   :block/updated-at 1666547543433}
- {:block/name "oct 24th, 2022",
-  :block/created-at 1666595677736,
-  :block/updated-at 1666596420623}
- {:block/name "oct 25th, 2022",
-  :block/created-at 1666699050928,
-  :block/updated-at 1666699050928}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664799176295,
   :block/updated-at 1664799176295}
@@ -6480,9 +6474,6 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
- {:block/name "rescuetime",
-  :block/created-at 1664212961820,
-  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
@@ -7476,9 +7467,6 @@
  {:block/name "student parents",
   :block/created-at 1662567547955,
   :block/updated-at 1662567547955}
- {:block/name "student perception",
-  :block/created-at 1666699050849,
-  :block/updated-at 1666699050849}
  {:block/name "student privacy",
   :block/created-at 1662567538197,
   :block/updated-at 1662567538197}
