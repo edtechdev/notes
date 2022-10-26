@@ -5327,10 +5327,10 @@
   :block/updated-at 1666596420623}
  {:block/name "oct 25th, 2022",
   :block/created-at 1666699050928,
-  :block/updated-at 1666783911854}
+  :block/updated-at 1666737727660}
  {:block/name "oct 26th, 2022",
   :block/created-at 1666766595961,
-  :block/updated-at 1666781741708}
+  :block/updated-at 1666797190351}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664799176295,
   :block/updated-at 1664799176295}
@@ -6483,9 +6483,6 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
- {:block/name "rescuetime",
-  :block/created-at 1664212961820,
-  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
@@ -8276,7 +8273,7 @@
   :block/updated-at 1662567552311}
  {:block/name "values affirmation",
   :block/created-at 1662567507639,
-  :block/updated-at 1666783945440}
+  :block/updated-at 1662567507639}
  {:block/name "vendor",
   :block/created-at 1662469562567,
   :block/updated-at 1662469562567}
