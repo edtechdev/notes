@@ -2922,7 +2922,7 @@
   :block/updated-at 1662567523146}
  {:block/name "feedback",
   :block/created-at 1662567507647,
-  :block/updated-at 1662567507647}
+  :block/updated-at 1666772834030}
  {:block/name "feedback literacy",
   :block/created-at 1662567523196,
   :block/updated-at 1662567523196}
@@ -5327,7 +5327,10 @@
   :block/updated-at 1666596420623}
  {:block/name "oct 25th, 2022",
   :block/created-at 1666699050928,
-  :block/updated-at 1666699050928}
+  :block/updated-at 1666783911854}
+ {:block/name "oct 26th, 2022",
+  :block/created-at 1666766595961,
+  :block/updated-at 1666781741708}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664799176295,
   :block/updated-at 1664799176295}
@@ -7299,6 +7302,9 @@
  {:block/name "sql",
   :block/created-at 1662567517808,
   :block/updated-at 1662567517808}
+ {:block/name "sqlite",
+  :block/created-at 1666781721721,
+  :block/updated-at 1666781721721}
  {:block/name "stable diffusion",
   :block/created-at 1662726928923,
   :block/updated-at 1662726928923}
@@ -8270,7 +8276,7 @@
   :block/updated-at 1662567552311}
  {:block/name "values affirmation",
   :block/created-at 1662567507639,
-  :block/updated-at 1662567507639}
+  :block/updated-at 1666783945440}
  {:block/name "vendor",
   :block/created-at 1662469562567,
   :block/updated-at 1662469562567}
