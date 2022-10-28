@@ -3749,6 +3749,9 @@
  {:block/name "imitation",
   :block/created-at 1662567528518,
   :block/updated-at 1662567528518}
+ {:block/name "impact",
+  :block/created-at 1666870968843,
+  :block/updated-at 1666870968843}
  {:block/name "impact factor",
   :block/created-at 1662567513818,
   :block/updated-at 1662567513818}
@@ -5327,10 +5330,16 @@
   :block/updated-at 1666596420623}
  {:block/name "oct 25th, 2022",
   :block/created-at 1666699050928,
-  :block/updated-at 1666737727660}
+  :block/updated-at 1666871022210}
  {:block/name "oct 26th, 2022",
   :block/created-at 1666766595961,
   :block/updated-at 1666797190351}
+ {:block/name "oct 27th, 2022",
+  :block/created-at 1666870968846,
+  :block/updated-at 1666870997475}
+ {:block/name "oct 28th, 2022",
+  :block/created-at 1666958985865,
+  :block/updated-at 1666959909655}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664799176295,
   :block/updated-at 1664799176295}
@@ -8273,7 +8282,7 @@
   :block/updated-at 1662567552311}
  {:block/name "values affirmation",
   :block/created-at 1662567507639,
-  :block/updated-at 1662567507639}
+  :block/updated-at 1666783945440}
  {:block/name "vendor",
   :block/created-at 1662469562567,
   :block/updated-at 1662469562567}
