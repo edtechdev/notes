@@ -61,6 +61,9 @@
  {:block/name "abusive punishment",
   :block/created-at 1662567509043,
   :block/updated-at 1662567509043}
+ {:block/name "academia",
+  :block/created-at 1667207391412,
+  :block/updated-at 1667207391412}
  {:block/name "academia and society",
   :block/created-at 1662567508938,
   :block/updated-at 1662567508938}
@@ -5357,7 +5360,10 @@
   :block/updated-at 1664799176295}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667134301547,
-  :block/updated-at 1667134301547}
+  :block/updated-at 1667150941720}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667207360161,
+  :block/updated-at 1667220105969}
  {:block/name "oct 3rd, 2022",
   :block/created-at 1664799175379,
   :block/updated-at 1664846515172}
@@ -6507,9 +6513,6 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
- {:block/name "rescuetime",
-  :block/created-at 1664212961820,
-  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
