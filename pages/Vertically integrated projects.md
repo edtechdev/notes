@@ -1,5 +1,4 @@
-  - [[Undergraduate research]]
-
-  - http://www.vip-consortium.org/
-  - https://www.vip.gatech.edu/
-  - https://ascnhighered.org/ASCN/transforming_institutions/2021/program/posters/session_d/2/243647.html
+- [[Undergraduate research]]
+- http://www.vip-consortium.org/
+- https://www.vip.gatech.edu/
+- https://ascnhighered.org/ASCN/transforming_institutions/2021/program/posters/session_d/2/243647.html
