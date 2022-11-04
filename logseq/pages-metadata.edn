@@ -277,6 +277,9 @@
  {:block/name "after-school program",
   :block/created-at 1662473821912,
   :block/updated-at 1662473821912}
+ {:block/name "age",
+  :block/created-at 1667466756011,
+  :block/updated-at 1667466756011}
  {:block/name "ageism",
   :block/created-at 1662567509768,
   :block/updated-at 1662567509768}
@@ -439,6 +442,9 @@
  {:block/name "apprenticeship",
   :block/created-at 1662469557029,
   :block/updated-at 1662469557029}
+ {:block/name "approach to learning",
+  :block/created-at 1667513083208,
+  :block/updated-at 1667513083208}
  {:block/name "apps",
   :block/created-at 1662567509338,
   :block/updated-at 1662567509338}
@@ -754,6 +760,9 @@
  {:block/name "book",
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
+ {:block/name "book review",
+  :block/created-at 1667467552860,
+  :block/updated-at 1667467552860}
  {:block/name "bookmark",
   :block/created-at 1662469551481,
   :block/updated-at 1662469551481}
@@ -829,6 +838,9 @@
  {:block/name "business model",
   :block/created-at 1662578475423,
   :block/updated-at 1662578475423}
+ {:block/name "business school",
+  :block/created-at 1667516132328,
+  :block/updated-at 1667516132328}
  {:block/name "busy work",
   :block/created-at 1662584590550,
   :block/updated-at 1662584590550}
@@ -3136,6 +3148,34 @@
  {:block/name "freshmen",
   :block/created-at 1662469566201,
   :block/updated-at 1662469566201}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https:",
+  :block/created-at 1667545798335,
+  :block/updated-at 1667545798335}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com",
+  :block/created-at 1667545798337,
+  :block/updated-at 1667545798337}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice",
+  :block/created-at 1667545798338,
+  :block/updated-at 1667545798338}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017",
+  :block/created-at 1667545798341,
+  :block/updated-at 1667545798341}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11",
+  :block/created-at 1667545798343,
+  :block/updated-at 1667545798343}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11/14",
+  :block/created-at 1667545798345,
+  :block/updated-at 1667545798345}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11/14/significant-learning-benefits-getting-rid-grades-essay)], [[grades",
+  :block/created-at 1667545798329,
+  :block/updated-at 1667545798329}
  {:block/name "friendly",
   :block/created-at 1662469550892,
   :block/updated-at 1662469550892}
@@ -3232,6 +3272,9 @@
  {:block/name "geosciences education",
   :block/created-at 1662473833088,
   :block/updated-at 1662473833088}
+ {:block/name "gerontology",
+  :block/created-at 1667466654179,
+  :block/updated-at 1667466654179}
  {:block/name "gesture",
   :block/created-at 1662567511398,
   :block/updated-at 1662567511398}
@@ -3292,6 +3335,9 @@
  {:block/name "gpt",
   :block/created-at 1665829289510,
   :block/updated-at 1665829289510}
+ {:block/name "grade forgiveness",
+  :block/created-at 1667546703559,
+  :block/updated-at 1667546703559}
  {:block/name "grade inflation",
   :block/created-at 1662567517353,
   :block/updated-at 1662567517353}
@@ -4446,6 +4492,9 @@
  {:block/name "lesson study",
   :block/created-at 1662567532354,
   :block/updated-at 1662567532354}
+ {:block/name "letter grade",
+  :block/created-at 1667516316703,
+  :block/updated-at 1667516316703}
  {:block/name "letter of recommendation",
   :block/created-at 1662567522897,
   :block/updated-at 1662567522897}
@@ -4608,6 +4657,9 @@
  {:block/name "management",
   :block/created-at 1662567509925,
   :block/updated-at 1662567509925}
+ {:block/name "management education",
+  :block/created-at 1667516117039,
+  :block/updated-at 1667516117039}
  {:block/name "management training",
   :block/created-at 1662567512448,
   :block/updated-at 1662567512448}
@@ -4824,6 +4876,9 @@
  {:block/name "meta-analysis",
   :block/created-at 1662567499013,
   :block/updated-at 1662567499013}
+ {:block/name "metabolism",
+  :block/created-at 1667455671550,
+  :block/updated-at 1667455671550}
  {:block/name "metacognition",
   :block/created-at 1662567507887,
   :block/updated-at 1662567507887}
@@ -5100,6 +5155,9 @@
  {:block/name "narrative",
   :block/created-at 1662567512234,
   :block/updated-at 1662567512234}
+ {:block/name "narrative evaluation",
+  :block/created-at 1667515346664,
+  :block/updated-at 1667515346664}
  {:block/name "native realism",
   :block/created-at 1662473830145,
   :block/updated-at 1662473830145}
@@ -5238,6 +5296,15 @@
  {:block/name "nov 1st, 2022",
   :block/created-at 1667302126240,
   :block/updated-at 1667310325350}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667369590808,
+  :block/updated-at 1667369625004}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667454409430,
+  :block/updated-at 1667545834442}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667545280576,
+  :block/updated-at 1667547621512}
  {:block/name "novice",
   :block/created-at 1662469557558,
   :block/updated-at 1662469557558}
@@ -5631,6 +5698,9 @@
  {:block/name "partisanship",
   :block/created-at 1662567538276,
   :block/updated-at 1662567538276}
+ {:block/name "pass fail grading",
+  :block/created-at 1667512532447,
+  :block/updated-at 1667512532447}
  {:block/name "passion",
   :block/created-at 1662567538400,
   :block/updated-at 1662567538400}
@@ -5670,6 +5740,9 @@
  {:block/name "peer assessment",
   :block/created-at 1662567508306,
   :block/updated-at 1662567508306}
+ {:block/name "peer comparison",
+  :block/created-at 1667516788834,
+  :block/updated-at 1667516788834}
  {:block/name "peer institution",
   :block/created-at 1662567538581,
   :block/updated-at 1662567538581}
@@ -5709,6 +5782,9 @@
  {:block/name "perceived competence",
   :block/created-at 1662584620588,
   :block/updated-at 1662584620588}
+ {:block/name "percentage grading",
+  :block/created-at 1667516329918,
+  :block/updated-at 1667516329918}
  {:block/name "perception",
   :block/created-at 1662567512834,
   :block/updated-at 1662567512834}
@@ -6372,6 +6448,9 @@
  {:block/name "readability",
   :block/created-at 1662567510134,
   :block/updated-at 1662567510134}
+ {:block/name "readiness",
+  :block/created-at 1667516521006,
+  :block/updated-at 1667516521006}
  {:block/name "reading",
   :block/created-at 1662567508373,
   :block/updated-at 1662567508373}
@@ -7161,6 +7240,9 @@
  {:block/name "social",
   :block/created-at 1662469552001,
   :block/updated-at 1662469552001}
+ {:block/name "social absence",
+  :block/created-at 1667467635712,
+  :block/updated-at 1667467635712}
  {:block/name "social and emotional learning",
   :block/created-at 1662567546037,
   :block/updated-at 1662567546037}
@@ -7203,6 +7285,9 @@
  {:block/name "social networking tools",
   :block/created-at 1662567515209,
   :block/updated-at 1662567515209}
+ {:block/name "social presence",
+  :block/created-at 1667467576808,
+  :block/updated-at 1667467576808}
  {:block/name "social psychology",
   :block/created-at 1662567508350,
   :block/updated-at 1662567508350}
@@ -7419,6 +7504,9 @@
  {:block/name "storytelling",
   :block/created-at 1662567512234,
   :block/updated-at 1662567512234}
+ {:block/name "strategic learning",
+  :block/created-at 1667513100327,
+  :block/updated-at 1667513100327}
  {:block/name "strategic plan",
   :block/created-at 1662567547130,
   :block/updated-at 1662567547130}
