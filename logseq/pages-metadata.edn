@@ -278,8 +278,8 @@
   :block/created-at 1662473821912,
   :block/updated-at 1662473821912}
  {:block/name "age",
-  :block/created-at 1667466756011,
-  :block/updated-at 1667466756011}
+  :block/created-at 1667580153072,
+  :block/updated-at 1667580153072}
  {:block/name "ageism",
   :block/created-at 1662567509768,
   :block/updated-at 1662567509768}
@@ -443,8 +443,8 @@
   :block/created-at 1662469557029,
   :block/updated-at 1662469557029}
  {:block/name "approach to learning",
-  :block/created-at 1667513083208,
-  :block/updated-at 1667513083208}
+  :block/created-at 1667580153090,
+  :block/updated-at 1667580153090}
  {:block/name "apps",
   :block/created-at 1662567509338,
   :block/updated-at 1662567509338}
@@ -761,8 +761,8 @@
   :block/created-at 1638900533694,
   :block/updated-at 1638900533694}
  {:block/name "book review",
-  :block/created-at 1667467552860,
-  :block/updated-at 1667467552860}
+  :block/created-at 1667580153080,
+  :block/updated-at 1667580153080}
  {:block/name "bookmark",
   :block/created-at 1662469551481,
   :block/updated-at 1662469551481}
@@ -839,8 +839,8 @@
   :block/created-at 1662578475423,
   :block/updated-at 1662578475423}
  {:block/name "business school",
-  :block/created-at 1667516132328,
-  :block/updated-at 1667516132328}
+  :block/created-at 1667580153105,
+  :block/updated-at 1667580153105}
  {:block/name "busy work",
   :block/created-at 1662584590550,
   :block/updated-at 1662584590550}
@@ -2602,6 +2602,9 @@
  {:block/name "equality",
   :block/created-at 1662574847107,
   :block/updated-at 1662574847107}
+ {:block/name "equitable grading",
+  :block/created-at 1667580153320,
+  :block/updated-at 1667580153320}
  {:block/name "equitable teaching",
   :block/created-at 1662473825061,
   :block/updated-at 1662473825061}
@@ -3273,8 +3276,8 @@
   :block/created-at 1662473833088,
   :block/updated-at 1662473833088}
  {:block/name "gerontology",
-  :block/created-at 1667466654179,
-  :block/updated-at 1667466654179}
+  :block/created-at 1667580153071,
+  :block/updated-at 1667580153071}
  {:block/name "gesture",
   :block/created-at 1662567511398,
   :block/updated-at 1662567511398}
@@ -3336,8 +3339,8 @@
   :block/created-at 1665829289510,
   :block/updated-at 1665829289510}
  {:block/name "grade forgiveness",
-  :block/created-at 1667546703559,
-  :block/updated-at 1667546703559}
+  :block/created-at 1667580153315,
+  :block/updated-at 1667580153315}
  {:block/name "grade inflation",
   :block/created-at 1662567517353,
   :block/updated-at 1662567517353}
@@ -4493,8 +4496,8 @@
   :block/created-at 1662567532354,
   :block/updated-at 1662567532354}
  {:block/name "letter grade",
-  :block/created-at 1667516316703,
-  :block/updated-at 1667516316703}
+  :block/created-at 1667580153110,
+  :block/updated-at 1667580153110}
  {:block/name "letter of recommendation",
   :block/created-at 1662567522897,
   :block/updated-at 1662567522897}
@@ -4658,8 +4661,8 @@
   :block/created-at 1662567509925,
   :block/updated-at 1662567509925}
  {:block/name "management education",
-  :block/created-at 1667516117039,
-  :block/updated-at 1667516117039}
+  :block/created-at 1667580153104,
+  :block/updated-at 1667580153104}
  {:block/name "management training",
   :block/created-at 1662567512448,
   :block/updated-at 1662567512448}
@@ -4877,8 +4880,8 @@
   :block/created-at 1662567499013,
   :block/updated-at 1662567499013}
  {:block/name "metabolism",
-  :block/created-at 1667455671550,
-  :block/updated-at 1667455671550}
+  :block/created-at 1667580153068,
+  :block/updated-at 1667580153068}
  {:block/name "metacognition",
   :block/created-at 1662567507887,
   :block/updated-at 1662567507887}
@@ -5156,8 +5159,8 @@
   :block/created-at 1662567512234,
   :block/updated-at 1662567512234}
  {:block/name "narrative evaluation",
-  :block/created-at 1667515346664,
-  :block/updated-at 1667515346664}
+  :block/created-at 1667580153093,
+  :block/updated-at 1667580153093}
  {:block/name "native realism",
   :block/created-at 1662473830145,
   :block/updated-at 1662473830145}
@@ -5297,14 +5300,17 @@
   :block/created-at 1667302126240,
   :block/updated-at 1667310325350}
  {:block/name "nov 2nd, 2022",
-  :block/created-at 1667369590808,
-  :block/updated-at 1667369625004}
+  :block/created-at 1667580152961,
+  :block/updated-at 1667580152961}
  {:block/name "nov 3rd, 2022",
-  :block/created-at 1667454409430,
-  :block/updated-at 1667545834442}
+  :block/created-at 1667580153122,
+  :block/updated-at 1667580645886}
  {:block/name "nov 4th, 2022",
-  :block/created-at 1667545280576,
-  :block/updated-at 1667547621512}
+  :block/created-at 1667580153323,
+  :block/updated-at 1667580153323}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667631881281,
+  :block/updated-at 1667632071196}
  {:block/name "novice",
   :block/created-at 1662469557558,
   :block/updated-at 1662469557558}
@@ -5699,8 +5705,8 @@
   :block/created-at 1662567538276,
   :block/updated-at 1662567538276}
  {:block/name "pass fail grading",
-  :block/created-at 1667512532447,
-  :block/updated-at 1667512532447}
+  :block/created-at 1667580153119,
+  :block/updated-at 1667580153119}
  {:block/name "passion",
   :block/created-at 1662567538400,
   :block/updated-at 1662567538400}
@@ -5741,8 +5747,8 @@
   :block/created-at 1662567508306,
   :block/updated-at 1662567508306}
  {:block/name "peer comparison",
-  :block/created-at 1667516788834,
-  :block/updated-at 1667516788834}
+  :block/created-at 1667580153114,
+  :block/updated-at 1667580153114}
  {:block/name "peer institution",
   :block/created-at 1662567538581,
   :block/updated-at 1662567538581}
@@ -5783,8 +5789,8 @@
   :block/created-at 1662584620588,
   :block/updated-at 1662584620588}
  {:block/name "percentage grading",
-  :block/created-at 1667516329918,
-  :block/updated-at 1667516329918}
+  :block/created-at 1667580153109,
+  :block/updated-at 1667580153109}
  {:block/name "perception",
   :block/created-at 1662567512834,
   :block/updated-at 1662567512834}
@@ -6449,8 +6455,8 @@
   :block/created-at 1662567510134,
   :block/updated-at 1662567510134}
  {:block/name "readiness",
-  :block/created-at 1667516521006,
-  :block/updated-at 1667516521006}
+  :block/created-at 1667580153112,
+  :block/updated-at 1667580153112}
  {:block/name "reading",
   :block/created-at 1662567508373,
   :block/updated-at 1662567508373}
@@ -7241,8 +7247,8 @@
   :block/created-at 1662469552001,
   :block/updated-at 1662469552001}
  {:block/name "social absence",
-  :block/created-at 1667467635712,
-  :block/updated-at 1667467635712}
+  :block/created-at 1667580153074,
+  :block/updated-at 1667580153074}
  {:block/name "social and emotional learning",
   :block/created-at 1662567546037,
   :block/updated-at 1662567546037}
@@ -7286,8 +7292,8 @@
   :block/created-at 1662567515209,
   :block/updated-at 1662567515209}
  {:block/name "social presence",
-  :block/created-at 1667467576808,
-  :block/updated-at 1667467576808}
+  :block/created-at 1667580153075,
+  :block/updated-at 1667580153075}
  {:block/name "social psychology",
   :block/created-at 1662567508350,
   :block/updated-at 1662567508350}
@@ -7505,8 +7511,8 @@
   :block/created-at 1662567512234,
   :block/updated-at 1662567512234}
  {:block/name "strategic learning",
-  :block/created-at 1667513100327,
-  :block/updated-at 1667513100327}
+  :block/created-at 1667580153090,
+  :block/updated-at 1667580153090}
  {:block/name "strategic plan",
   :block/created-at 1662567547130,
   :block/updated-at 1662567547130}
