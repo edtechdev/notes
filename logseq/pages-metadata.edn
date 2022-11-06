@@ -175,6 +175,9 @@
  {:block/name "activity theory",
   :block/created-at 1662567508353,
   :block/updated-at 1662567508353}
+ {:block/name "activitypub",
+  :block/created-at 1667648318066,
+  :block/updated-at 1667648318066}
  {:block/name "actor network theory",
   :block/created-at 1662473809897,
   :block/updated-at 1662473809897}
@@ -4815,7 +4818,7 @@
   :block/updated-at 1662473837645}
  {:block/name "memorization",
   :block/created-at 1662567511943,
-  :block/updated-at 1662567511943}
+  :block/updated-at 1667680508488}
  {:block/name "memory",
   :block/created-at 1662567507755,
   :block/updated-at 1662567507755}
@@ -5311,6 +5314,9 @@
  {:block/name "nov 5th, 2022",
   :block/created-at 1667631881281,
   :block/updated-at 1667632071196}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667715155333,
+  :block/updated-at 1667736181085}
  {:block/name "novice",
   :block/created-at 1662469557558,
   :block/updated-at 1662469557558}
@@ -6463,6 +6469,9 @@
  {:block/name "reading level",
   :block/created-at 1662473821994,
   :block/updated-at 1662473821994}
+ {:block/name "reading research articles",
+  :block/created-at 1667736127775,
+  :block/updated-at 1667736127775}
  {:block/name "reading wars",
   :block/created-at 1662567539386,
   :block/updated-at 1662567539386}
