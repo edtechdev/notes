@@ -5317,6 +5317,9 @@
  {:block/name "nov 6th, 2022",
   :block/created-at 1667715155333,
   :block/updated-at 1667736181085}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667806586893,
+  :block/updated-at 1667810170598}
  {:block/name "novice",
   :block/created-at 1662469557558,
   :block/updated-at 1662469557558}
@@ -8374,6 +8377,9 @@
  {:block/name "urban planning",
   :block/created-at 1662567552112,
   :block/updated-at 1662567552112}
+ {:block/name "url",
+  :block/created-at 1667810170594,
+  :block/updated-at 1667810170594}
  {:block/name "usability",
   :block/created-at 1662567516356,
   :block/updated-at 1662567516356}
