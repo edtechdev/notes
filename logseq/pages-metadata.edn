@@ -1,6 +1,15 @@
 [{:block/name "$1 $2",
   :block/created-at 1662578487142,
   :block/updated-at 1662578487142}
+ {:block/name "2022_11_08",
+  :block/created-at 1667910375677,
+  :block/updated-at 1667910375677}
+ {:block/name "2022_11_08/sync-conflict-20221108-072558-2lkpw5h",
+  :block/created-at 1667910359837,
+  :block/updated-at 1667910359837}
+ {:block/name "2022_11_08/sync-conflict-20221108-072608-2lkpw5h",
+  :block/created-at 1667910370276,
+  :block/updated-at 1667910370276}
  {:block/name "21st century skills",
   :block/created-at 1662567507418,
   :block/updated-at 1662567507418}
@@ -2848,6 +2857,9 @@
  {:block/name "faculty development",
   :block/created-at 1662567509022,
   :block/updated-at 1662567509022}
+ {:block/name "faculty diversity",
+  :block/created-at 1667826529502,
+  :block/updated-at 1667826529502}
  {:block/name "faculty fellow",
   :block/created-at 1662567522669,
   :block/updated-at 1662567522669}
@@ -3154,37 +3166,12 @@
  {:block/name "freshmen",
   :block/created-at 1662469566201,
   :block/updated-at 1662469566201}
- {:block/name
-  "freshmen][the significant learning benefits of getting rid of grades (essay)](https:",
-  :block/created-at 1667545798335,
-  :block/updated-at 1667545798335}
- {:block/name
-  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com",
-  :block/created-at 1667545798337,
-  :block/updated-at 1667545798337}
- {:block/name
-  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice",
-  :block/created-at 1667545798338,
-  :block/updated-at 1667545798338}
- {:block/name
-  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017",
-  :block/created-at 1667545798341,
-  :block/updated-at 1667545798341}
- {:block/name
-  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11",
-  :block/created-at 1667545798343,
-  :block/updated-at 1667545798343}
- {:block/name
-  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11/14",
-  :block/created-at 1667545798345,
-  :block/updated-at 1667545798345}
- {:block/name
-  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11/14/significant-learning-benefits-getting-rid-grades-essay)], [[grades",
-  :block/created-at 1667545798329,
-  :block/updated-at 1667545798329}
  {:block/name "friendly",
   :block/created-at 1662469550892,
   :block/updated-at 1662469550892}
+ {:block/name "friends",
+  :block/created-at 1667895425902,
+  :block/updated-at 1667895425902}
  {:block/name "frustration",
   :block/created-at 1662469553554,
   :block/updated-at 1662469553554}
@@ -3786,6 +3773,9 @@
  {:block/name "ignorance",
   :block/created-at 1662567528453,
   :block/updated-at 1662567528453}
+ {:block/name "ignore",
+  :block/created-at 1668005341213,
+  :block/updated-at 1668005341213}
  {:block/name "illusion",
   :block/created-at 1662567519298,
   :block/updated-at 1662567519298}
@@ -5319,7 +5309,13 @@
   :block/updated-at 1667736181085}
  {:block/name "nov 7th, 2022",
   :block/created-at 1667806586893,
-  :block/updated-at 1667810170598}
+  :block/updated-at 1667873492804}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667893076306,
+  :block/updated-at 1667910370596}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1667988956299,
+  :block/updated-at 1668005360406}
  {:block/name "novice",
   :block/created-at 1662469557558,
   :block/updated-at 1662469557558}
@@ -6613,6 +6609,9 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
+ {:block/name "rescuetime",
+  :block/created-at 1664212961820,
+  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
@@ -8178,7 +8177,7 @@
   :block/updated-at 1662473817036}
  {:block/name "toxic boss",
   :block/created-at 1662567508857,
-  :block/updated-at 1662567508857}
+  :block/updated-at 1667826494358}
  {:block/name "toxic bosses",
   :block/created-at 1662567520557,
   :block/updated-at 1662567520557}
