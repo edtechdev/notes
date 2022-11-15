@@ -451,6 +451,9 @@
  {:block/name "appreciative advising",
   :block/created-at 1662567508958,
   :block/updated-at 1662567508958}
+ {:block/name "appreciative inquiry",
+  :block/created-at 1668542721193,
+  :block/updated-at 1668542721193}
  {:block/name "apprenticeship",
   :block/created-at 1662469557029,
   :block/updated-at 1662469557029}
@@ -5318,7 +5321,7 @@
   :block/updated-at 1668447430553}
  {:block/name "nov 15th, 2022",
   :block/created-at 1668527273765,
-  :block/updated-at 1668538763006}
+  :block/updated-at 1668545064336}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667302126240,
   :block/updated-at 1667310325350}
@@ -7791,6 +7794,9 @@
  {:block/name "swimming",
   :block/created-at 1662567548602,
   :block/updated-at 1662567548602}
+ {:block/name "swot",
+  :block/created-at 1668542721195,
+  :block/updated-at 1668542721195}
  {:block/name "sycophant",
   :block/created-at 1662567548552,
   :block/updated-at 1662567548552}
