@@ -4,12 +4,12 @@
  {:block/name "2022_11_08",
   :block/created-at 1667910375677,
   :block/updated-at 1667910375677}
- {:block/name "2022_11_08/sync-conflict-20221108-072558-2lkpw5h",
-  :block/created-at 1667910359837,
-  :block/updated-at 1667910359837}
- {:block/name "2022_11_08/sync-conflict-20221108-072608-2lkpw5h",
-  :block/created-at 1667910370276,
-  :block/updated-at 1667910370276}
+ {:block/name "2022_11_09",
+  :block/created-at 1668065617930,
+  :block/updated-at 1668065617930}
+ {:block/name "2022_11_09/sync-conflict-20221109-112910-2lkpw5h",
+  :block/created-at 1668028412136,
+  :block/updated-at 1668028412136}
  {:block/name "21st century skills",
   :block/created-at 1662567507418,
   :block/updated-at 1662567507418}
@@ -2086,6 +2086,9 @@
  {:block/name "differentiated instruction",
   :block/created-at 1662567518813,
   :block/updated-at 1662567518813}
+ {:block/name "difficult dialogues",
+  :block/created-at 1668745227774,
+  :block/updated-at 1668745227774}
  {:block/name "diffusion of innovations",
   :block/created-at 1662473811998,
   :block/updated-at 1662473811998}
@@ -3178,6 +3181,34 @@
  {:block/name "freshmen",
   :block/created-at 1662469566201,
   :block/updated-at 1662469566201}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https:",
+  :block/created-at 1667545798335,
+  :block/updated-at 1667545798335}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com",
+  :block/created-at 1667545798337,
+  :block/updated-at 1667545798337}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice",
+  :block/created-at 1667545798338,
+  :block/updated-at 1667545798338}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017",
+  :block/created-at 1667545798341,
+  :block/updated-at 1667545798341}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11",
+  :block/created-at 1667545798343,
+  :block/updated-at 1667545798343}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11/14",
+  :block/created-at 1667545798345,
+  :block/updated-at 1667545798345}
+ {:block/name
+  "freshmen][the significant learning benefits of getting rid of grades (essay)](https://www.insidehighered.com/advice/2017/11/14/significant-learning-benefits-getting-rid-grades-essay)], [[grades",
+  :block/created-at 1667545798329,
+  :block/updated-at 1667545798329}
  {:block/name "friendly",
   :block/created-at 1662469550892,
   :block/updated-at 1662469550892}
@@ -5333,7 +5364,10 @@
   :block/updated-at 1668640509872}
  {:block/name "nov 17th, 2022",
   :block/created-at 1668690779781,
-  :block/updated-at 1668696417927}
+  :block/updated-at 1668745793690}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668748840491,
+  :block/updated-at 1668748865620}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667302126240,
   :block/updated-at 1667310325350}
@@ -6657,9 +6691,6 @@
  {:block/name "reputation",
   :block/created-at 1662469566714,
   :block/updated-at 1662469566714}
- {:block/name "rescuetime",
-  :block/created-at 1664212961820,
-  :block/updated-at 1664212961820}
  {:block/name "research",
   :block/created-at 1662567508255,
   :block/updated-at 1662567508255}
@@ -8172,6 +8203,9 @@
  {:block/name "think-pair-share",
   :block/created-at 1662567529654,
   :block/updated-at 1662567529654}
+ {:block/name "thinking",
+  :block/created-at 1668745227774,
+  :block/updated-at 1668745227774}
  {:block/name "threshold concept",
   :block/created-at 1662567550695,
   :block/updated-at 1662567550695}
