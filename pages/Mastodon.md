@@ -1,10 +1,26 @@
-  - [[Twitter]]
-  - [[Social media]]
-
-  - https://github.com/joyeusenoelle/GuideToMastodon
-
-  - Cross-post to Twitter
-      - https://crossposter.masto.donte.com.br/
-      - https://moa.party/
-
-[[Open Source]] [[Social Media]]
+- [[Twitter]]
+- [[Social media]]
+- [[Open Source]]
+- [[Fediverse]]
+- [[ActivityPub]]
+- https://github.com/joyeusenoelle/GuideToMastodon
+- Cross-post to Twitter
+	- https://crossposter.masto.donte.com.br/
+	- https://moa.party/
+- [GitHub - nathanlesage/academics-on-mastodon: A list of various lists consisting of academics on Mastodon](https://github.com/nathanlesage/academics-on-mastodon)
+- [denise | A guide to potential liability pitfalls for people running a Mastodon instance](https://denise.dreamwidth.org/91757.html)
+- [GitHub - codesections/mastodon-de-mob: A tool for Mastodon users to protect themselves against harassment](https://github.com/codesections/mastodon-de-mob)
+- [GitHub - kensanata/mastodon-blocker: a little command line script to help you block people on Mastodon](https://github.com/kensanata/mastodon-blocker)
+- [[Client]] list
+	- Tusky - [[Android]]
+	- Pinafore - [[PWA]]
+	- [Yoyogi](https://fasiha.github.io/yoyogi/)
+- [[Hosting]], [[Server]]
+	- [Scaling Mastodon in the Face of an Exodus | Nora Codes](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
+	- https://gopinath.org/2022-11-11-hosting-ktistec-on-oracle-cloud
+- [[Installation]]
+	- [How to run a small social network site for your friends](https://runyourown.social/)
+	- [Setting up a personal Mastodon instance](https://vitobotta.com/2022/11/07/setting-up-a-personal-mastodon-instance/)
+	- [Installing Mastodon on Reclaim Cloud | bavatuesdays](https://bavatuesdays.com/installing-mastodon-on-reclaim-cloud/)
+	-
+	- {{video https://www.youtube.com/watch?v=2a9YrLsE45Y}}

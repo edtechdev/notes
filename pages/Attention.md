@@ -25,7 +25,7 @@
 - When teaching: https://www.aacu.org/liberaleducation/2021/summer/lang
 - And [[Consciousness]] https://youtu.be/DWu3fgNfgAs
 - Controlling attention to mitigate [[social]] [[Anxiety]] https://www.psypost.org/2022/03/the-ability-to-control-ones-attention-might-eliminate-the-attentional-bias-associated-with-social-anxiety-study-suggests-62701
-- Attention span during [[lecture]] https://journals.physiology.org/doi/full/10.1152/advan.00109.2016
+- Attention span during [[Lecture]] https://journals.physiology.org/doi/full/10.1152/advan.00109.2016
 - [[Human capital]], [[Grit]], [[Persistence]] https://www.nber.org/papers/w30133
   
   [[Learning]][[Psychology]]

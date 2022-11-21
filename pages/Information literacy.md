@@ -2,34 +2,22 @@
 - [[Reading]]
 - [[Social media]]
 - [[Misinformation]]
-
 - http://eldwiki.lib.ucdavis.edu/index.php/Information_Literacy
 - https://libguides.madisoncollege.edu/InfoLitStudents
-
 - [[Bibliography]] https://www.zotero.org/teach_bibliography/library
-
 - [[Misinformation]] https://undark.org/2021/05/03/psychology-misinformation-public-square/
 - https://twitter.com/profpatch/status/1394314717276028929?s=19
 - https://journals.sagepub.com/doi/abs/10.3102/0013189X211017495?journalCode=edra
 - [[social media]]: https://journals.sagepub.com/doi/full/10.1177/09567976211024535
-
 - Digital inoculation against misinformation: https://www.wired.com/story/prebunking-health-misinformation-tropes-can-stop-their-spread/
-
 - https://river.me/blog/book-review-looking-for-information/
-
 - Triggering large prediction errors helps change false [[Predict observe explain]] technique: https://www.psypost.org/2021/11/psychologists-have-found-that-triggering-large-prediction-errors-helps-to-change-false-beliefs-62110
-
 - Special issue, [[Lateral reading]] https://www.emerald.com/insight/publication/issn/2398-5348/vol/123/iss/1/2
-
 - https://projectinfolit.org/
-	-  Asking [[First year seminar]], [[Writing]], [[composition]] classes https://projectinfolit.org/pubs/provocation-series/essays/principled-uncertainty.html
-
+	- Asking [[First year seminar]], [[Writing]], [[composition]] classes https://projectinfolit.org/pubs/provocation-series/essays/principled-uncertainty.html
 - Polluted information networks https://projectinfolit.org/smart-talk-interviews/polluted-information-networks/
-
 - [[Search engine]], search behavior, [[Plagiarism]] https://adahdouh.wordpress.com/2022/05/15/search-behavior-does-context-make-difference/
-
-- [[digital literacy]] https://slejournal.springeropen.com/articles/10.1186/s40561-022-00204-y
-
+- [[Digital literacy]] https://slejournal.springeropen.com/articles/10.1186/s40561-022-00204-y
 - Dismantling [[evaluation]] https://www.inthelibrarywiththeleadpipe.org/2021/dismantling-evaluation/
-
-[[Literacies]]
+  
+  [[Literacies]]

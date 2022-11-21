@@ -3,9 +3,13 @@
 - [[Indieweb]]
 - [[Web]]
 - [[Social media]]
-
+- [[Indieweb]]
 - https://www.fediverse.to/
 - https://fediverse.space/
 - https://communitywiki.org/trunk
-
-[[Software]]
+- [[Apps]], [[Client]] list
+	- https://fediverse.party/
+	- [[Mastodon]]
+	- https://bookwyrm.social/ - [[Reading]], [[Books]]
+	- https://gopinath.org/2022-11-11-hosting-ktistec-on-oracle-cloud
+-

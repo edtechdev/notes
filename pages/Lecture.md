@@ -1,44 +1,30 @@
 - https://www.techlearning.com/news/why-traditional-lectures-wont-end-anytime-soon-in-higher-ed-despite-better-approaches-being-available
-
-Why the lecture method persists
-
 - EDUCATIONAL REFORM: WHY THE ACADEMY DOESN’T CHANGE
-	-  http://qa16.nea.org/assets/img/PubThoughtAndAction/TAA_02_07.pdf
-	-  Cited by https://scholar.google.com/scholar?cites=5178911608504155668&as_sdt=40005&sciodt=0,10&hl=en
+	- http://qa16.nea.org/assets/img/PubThoughtAndAction/TAA_02_07.pdf
+	- Cited by https://scholar.google.com/scholar?cites=5178911608504155668&as_sdt=40005&sciodt=0,10&hl=en
 - Questioning the lecture format http://qa16.nea.org/assets/img/PubThoughtAndAction/TAA_05_05.pdf
-
 - [[Attention]]
 - [[Passive learning]]
 - [[Active learning]]
 - [[Lecture capture]]
-
 - Factors influencing [[Time]] spent lecturing https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00333-3
-
 - And [[Purpose of education]] https://youtu.be/Ujdnmk2UH-U
-
 - https://twitter.com/hintondm/status/1085600247542370307?t=9j0ygJXdJSoeqJqY82_1uw&s=19
-
 - [[Learning by teaching]] https://twitter.com/michael_nielsen/status/1473401557316030465?t=gYB78yAx9sKbGxkBWXXUOfyHyYFlcR9AHL6IZH7SZa0&s=19
-
 - https://twitter.com/hintondm/status/1085600247542370307?s=19
 - https://science.sciencemag.org/content/367/6476/345
-	-  https://www.youtube.com/watch?v=S7CtknlvSaY
+	- https://www.youtube.com/watch?v=S7CtknlvSaY
 - length of lecture / class session
-	-  https://www.studyinternational.com/news/lectures-often-long-breaks-keep-students-interested/
+	- https://www.studyinternational.com/news/lectures-often-long-breaks-keep-students-interested/
 - https://journals.sagepub.com/doi/full/10.1177/1362168817713766
 - https://www.amjmed.com/article/S0002-9343(16)31217-7/pdf
-
 - https://www.lifescied.org/doi/10.1187/05-06-0082
-
 - More [[Online learning]] lectures than face-to-face: https://www.thebrighterside.news/amp/surprising-results-in-study-comparing-online-to-in-person-student-engagement
-
 - Bad lectures
-	-  violating [[inclusive teaching]]: https://youtu.be/8puiI7RD_fM
-	-  https://youtu.be/8puiI7RD_fM
-
+	- violating [[inclusive teaching]]: https://youtu.be/8puiI7RD_fM
+	- https://youtu.be/8puiI7RD_fM
 - And [[Student engagement]] https://www.edutopia.org/article/8-evidence-based-tips-make-your-lectures-more-engaging-and-memorable
-
 - Defense
-	-  https://edarxiv.org/h8zt6/
-
-[[Not Recommended]]
+	- https://edarxiv.org/h8zt6/
+	  
+	  [[Not Recommended]]

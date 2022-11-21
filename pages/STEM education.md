@@ -1,37 +1,25 @@
 - http://stemteachingtools.org/
 - Pre-college
-	-  https://www.stempushnetwork.org/
-
+	- https://www.stempushnetwork.org/
 - Organizations that promote [[Evidence-based teaching]] and STEM education
-	-  NSITE https://qubeshub.org/community/groups/nsite
-	-  TRESTLE https://trestlenetwork.ku.edu/resources/
-	-  STEM2
-	-  https://www.stem2network.org/
-	-  https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00262-z
-	-  https://ascnhighered.org/ASCN/transforming_institutions/2021/program/presentations/session_xii/242459.html
-	-  AAU https://www.aau.edu/education-community-impact/undergraduate-education/undergraduate-stem-education-initiative
-
+	- NSITE https://qubeshub.org/community/groups/nsite
+	- TRESTLE https://trestlenetwork.ku.edu/resources/
+	- STEM2
+	- https://www.stem2network.org/
+	- https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00262-z
+	- https://ascnhighered.org/ASCN/transforming_institutions/2021/program/presentations/session_xii/242459.html
+	- AAU https://www.aau.edu/education-community-impact/undergraduate-education/undergraduate-stem-education-initiative
 - Why do students study STEM? https://www.psychologytoday.com/us/blog/nudging-ahead/201707/why-would-anyone-want-major-in-stem
-
 - People vs thing orientation and [[gender]] differences: https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00189/full
-
 - [[Educational development]]: https://www.tandfonline.com/doi/abs/10.1080/13562517.2018.1517735?journalCode=cthe20
-
 - Most [[Lecture]]: https://www.science.org/lookup/doi/10.1126/science.aap8892
-
 - STEM pipeline https://link.springer.com/article/10.1007/s11024-021-09445-6
-
 - STEM courses are harder, [[Gateway course]], [[Grades]], [[GPA]] https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00343-1
-
 - Fewer [[STEM pipeline]] https://edsource.org/2022/increasing-female-representation-in-stem-careers-starts-with-exposure/670097
-
 - STEM knowledge in non-STEM [[wages]] https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1868359
-
 - [[Peer institution]] https://www.frontiersin.org/articles/10.3389/fpsyg.2022.754233/full
-
 - [[Meritocracy]] [[Misconception]] https://www.amazon.com/Misconceiving-Merit-Paradoxes-Excellence-Engineering-ebook/dp/B09ZTJHCSJ
-	-  https://twitter.com/MaryBlairLoy/status/1538720421163372544
-
+	- https://twitter.com/MaryBlairLoy/status/1538720421163372544
 - [[Community college]] https://ccrc.tc.columbia.edu/publications/community-college-stem-pathways.html
-
-[[STEM education]]
+  
+  [[STEM education]]

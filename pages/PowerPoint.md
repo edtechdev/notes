@@ -2,36 +2,23 @@
 - [[Presentation]]
 - [[Information overload]]
 - [[Lecture]]
-
 - And [[Learning]], [[Meta-analysis]] https://www.sciencedirect.com/science/article/abs/pii/S0360131518302070
-
 - https://link.springer.com/article/10.1007/s10755-006-9017-5
-
 - And [[memory]] retention https://www.sciencedirect.com/science/article/abs/pii/S0360131508002017
-
 - And [[Pedagogy]] https://www.tandfonline.com/doi/abs/10.3200/CTCH.56.1.39-46
-
 - https://workchronicles.com/presentation-hell/
-
 - https://youtu.be/_3loq22TxSc
-
 - https://www.inc.com/geoffrey-james/science-just-discovered-your-brain-really-hates-powerpoint.html
-
 - [[Myths]] about presenting with powerpoint
-	-  6x6 rule https://www.forbes.com/sites/propointgraphics/2017/07/05/debunking-the-presentation-6x6-rule/?sh=1a154f461689
-	-  https://www.youtube.com/watch?v=aIuZ3B8Vi68
-
+	- 6x6 rule https://www.forbes.com/sites/propointgraphics/2017/07/05/debunking-the-presentation-6x6-rule/?sh=1a154f461689
+	- https://www.youtube.com/watch?v=aIuZ3B8Vi68
 - Use of [[Animation]]
-	-  https://www.researchgate.net/publication/228931807_Less_is_more_when_developing_PowerPoint_Animations
-
+	- https://www.researchgate.net/publication/228931807_Less_is_more_when_developing_PowerPoint_Animations
 - tips for designing slides
-	-  https://twitter.com/TessaRDavis/status/1359819223212699648
-	-  https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554
-
+	- https://twitter.com/TessaRDavis/status/1359819223212699648
+	- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554
 - [[Font]] https://readabilityformulas.com/articles/better-typography-and-more-readable-text.php
-
 - https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx
-
 - [[Humor]] https://twitter.com/UnofficialOA/status/1504911642521665536?t=nQrTRupp62KmzpKym9O4sg&s=19
-
-[[Software]]
+  
+  [[Software]]
