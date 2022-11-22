@@ -4,6 +4,7 @@
 - [[Fediverse]]
 - [[ActivityPub]]
 - https://github.com/joyeusenoelle/GuideToMastodon
+- https://github.com/DanielSchuman/Policy/wiki/Mastodon
 - Cross-post to Twitter
 	- https://crossposter.masto.donte.com.br/
 	- https://moa.party/
