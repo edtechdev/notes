@@ -3,33 +3,21 @@
 - [[Adaptive learning]]
 - [[Machine learning]]
 - [[Neural network]]
-
 - https://docs.google.com/document/d/1V1drRG1XlWTBrEwgGqd-cCySUB12JrcoamB5i16-Ezw/edit?usp=drivesdk
-
 - Problem with term, [[Machine learning]] https://spectrum.ieee.org/stop-calling-everything-ai-machinelearning-pioneer-says
-
 - [[Learning sciences]] https://sites.google.com/uci.edu/shayan-doroudi/publications/history-ai-ed
-
 - https://www.jisc.ac.uk/reports/ai-in-tertiary-education
 - https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
-
 - AI-generated [[video]] https://www.synthesia.io/
-
 - AI-generated [[avatars]] https://samsunglabs.github.io/MegaPortraits/
-
 - [[Essays]] https://www.jasper.ai/
-
 - https://link.springer.com/epdf/10.1007/s40593-021-00270-2?sharing_token=Hu3l0l5DS3NFPcWbNrgk_Pe4RwlQNchNByi7wbcMAY5lMI0OpGkDlp3a8sXEGSL-HTs92jgatZg0Ub7lcpKSPetU8GKpdFoMx9kajh-3Xoao8oBaX47gJVV--u1DKkbX_mXoFAU19DEOU0RQEVBzvPu089_1YTDJM3O19QsDEXI%3D
-
 - In [[Higher education]]: https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003081654/artificial-intelligence-capitalist-university-john-preston
 - [[Measure]] for [[Trust]] in AI in education: https://edarxiv.org/bcjme/
-
 - [[Writing]] https://hai.stanford.edu/news/meet-coauthor-experiment-human-ai-collaborative-writing
-
 - Generate [[Images]] https://huggingface.co/spaces/dalle-mini/dalle-mini
-
 - Explainable AI https://www.sciencedirect.com/science/article/pii/S2666920X22000297?via%3Dihub
-
 - https://www.elementsofai.com/
-
-[[Machine Learning]]
+  
+  [[Machine Learning]]
+- [AI Maturity Webinar Resources and Further Reading - National centre for AI](https://nationalcentreforai.jiscinvolve.org/wp/2022/11/16/maturity-webinar-further-reading/)
