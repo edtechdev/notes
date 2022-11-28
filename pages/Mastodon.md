@@ -16,6 +16,8 @@
 	- Tusky - [[Android]]
 	- Pinafore - [[PWA]]
 	- [Yoyogi](https://fasiha.github.io/yoyogi/)
+- [[Server]]s, Instances
+	- [[Co-op]] - [collectively owned instances](https://codeberg.org/fediverse/fediparty/wiki/Collectively-owned-instances)
 - [[Hosting]], [[Server]]
 	- [Scaling Mastodon in the Face of an Exodus | Nora Codes](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
 	- https://gopinath.org/2022-11-11-hosting-ktistec-on-oracle-cloud

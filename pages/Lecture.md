@@ -7,7 +7,7 @@
 - [[Passive learning]]
 - [[Active learning]]
 - [[Lecture capture]]
-- Factors influencing [[Time]] spent lecturing https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00333-3
+- Factors influencing [[Time]] spent lecturing, [[Class time]] https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00333-3
 - And [[Purpose of education]] https://youtu.be/Ujdnmk2UH-U
 - https://twitter.com/hintondm/status/1085600247542370307?t=9j0ygJXdJSoeqJqY82_1uw&s=19
 - [[Learning by teaching]] https://twitter.com/michael_nielsen/status/1473401557316030465?t=gYB78yAx9sKbGxkBWXXUOfyHyYFlcR9AHL6IZH7SZa0&s=19

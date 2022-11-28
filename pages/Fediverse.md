@@ -12,4 +12,5 @@
 	- [[Mastodon]]
 	- https://bookwyrm.social/ - [[Reading]], [[Books]]
 	- https://gopinath.org/2022-11-11-hosting-ktistec-on-oracle-cloud
+	- [Misskey - wao.wtf](https://wao.wtf/)
 -
