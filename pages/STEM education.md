@@ -16,7 +16,8 @@
 - STEM pipeline https://link.springer.com/article/10.1007/s11024-021-09445-6
 - STEM courses are harder, [[Gateway course]], [[Grades]], [[GPA]] https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00343-1
 - Fewer [[STEM pipeline]] https://edsource.org/2022/increasing-female-representation-in-stem-careers-starts-with-exposure/670097
-- STEM knowledge in non-STEM [[wages]] https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1868359
+- STEM knowledge in non-STEM - [STEM Knowledge in Non-STEM Occupations: Implications for Community Colleges](https://www.tandfonline.com/doi/full/10.1080/10668926.2020.1868359)
+	- [[Salary]], [[STEM education]], [[Community college]]
 - [[Peer institution]] https://www.frontiersin.org/articles/10.3389/fpsyg.2022.754233/full
 - [[Meritocracy]] [[Misconception]] https://www.amazon.com/Misconceiving-Merit-Paradoxes-Excellence-Engineering-ebook/dp/B09ZTJHCSJ
 	- https://twitter.com/MaryBlairLoy/status/1538720421163372544
