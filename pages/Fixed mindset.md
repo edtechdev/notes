@@ -4,5 +4,5 @@
 - [[Self-efficacy]]
 - [[Competence]]
 - [[Intelligence]]
-
-[[Not Recommended]] [[Psychology]]
+  
+  [[Not Recommended]] [[Psychology]]
