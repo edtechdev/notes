@@ -1,6 +1,7 @@
 - [[Bias]]
 - [[Academic publishing]]
 - [[Research]]
+- [[Research reform]]
 - Mitigating bias in [[Undergraduate research]] labs: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01305/full
 - In [[educational research]]: https://www.tandfonline.com/doi/abs/10.1080/1743727X.2020.1804541
 - In promotion and [[tenure]] decisions: https://sfdora.org/2019/03/12/breaking-habits-reducing-bias-in-hiring-promotion-and-tenure-decisions/
