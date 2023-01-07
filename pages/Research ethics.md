@@ -1,0 +1,5 @@
+- [[Informed consent]]
+- [[Institutional review board]]
+- [[Research]]
+- [[Research method]]
+- [[Ethics]]
