@@ -1,6 +1,7 @@
 - [[Course design rubric]]
 - [[Authentic assessment]]
 - [[Exemplar]]
+- [[Feedback]]
 - Providing [[Feedback]]:
 	- https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-julyaugust-2021/novel-rubric
 	- https://www.ascd.org/el/articles/how-to-provide-better-feedback-through-rubrics
