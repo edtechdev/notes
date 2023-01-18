@@ -1,59 +1,42 @@
 - [[Active reading]]
 - [[Close reading]]
 - [[Lateral reading]]
+- [[Reading research articles]]
+- [[Reading word problems]]
+- [[Pre-reading]]
 - [[Annotation]]
 - [[Speed reading]]
 - [[Writing]]
 - [[Literacy]]
-
 - [[Meta-analysis]], [[Placement]], [[Achievement]], [[Grades]] https://www.tandfonline.com/doi/abs/10.1080/10790195.2022.2062626
-
 - [[Situated learning]] https://link.springer.com/article/10.1007/s11145-022-10321-2
-
 - https://medium.com/inspired-ideas-prek-12/trusted-sources-and-voices-on-the-science-of-reading-21798b2d6a4b
-
 - https://theconversation.com/why-we-remember-more-by-reading-especially-print-than-from-audio-or-video-159522
-
 - Silent reading: https://www.tandfonline.com/doi/abs/10.1080/10573569.2021.1944830?journalCode=urwl20
-
 - Reading and understanding [[Research]] articles:
-	-  [[Social science]] https://twitter.com/emollick/status/1545912409025560576?t=1pFnMl8oX_8v5MmpGlrhdA&s=19
-	-  https://teachcreate.org/
-	-  https://www.lifescied.org/doi/10.1187/cbe.15-07-0146
-	-  https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/
-	-  https://bluebook.life/2022/04/08/reverse-engineering-an-article-a-small-group-activity/
-	-  https://figshare.edgehill.ac.uk/articles/poster/Supporting_undergraduates_to_read_academic_journals/19771642/1
-	-  https://www.lifescied.org/doi/10.1187/cbe.11-07-0057
-
+	- [[Social science]] https://twitter.com/emollick/status/1545912409025560576?t=1pFnMl8oX_8v5MmpGlrhdA&s=19
+	- https://teachcreate.org/
+	- https://www.lifescied.org/doi/10.1187/cbe.15-07-0146
+	- https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/
+	- https://bluebook.life/2022/04/08/reverse-engineering-an-article-a-small-group-activity/
+	- https://figshare.edgehill.ac.uk/articles/poster/Supporting_undergraduates_to_read_academic_journals/19771642/1
+	- https://www.lifescied.org/doi/10.1187/cbe.11-07-0057
 - https://theconversation.com/amp/up-to-80-of-uni-students-dont-read-their-assigned-readings-here-are-6-helpful-tips-for-teachers-165952
-
 - Scan text for active reading: https://sass.queensu.ca/psyc100/
-
 - Barbell method: https://zettelkasten.de/posts/barbell-method-reading/
-
 - [[Screen]] / [[Ebook]] vs paper
-	-  https://www.tandfonline.com/doi/abs/10.1080/01443410.2021.2016635?journalCode=cedp20
-	-  [[Forgetting]] https://www.thetimes.co.uk/article/remember-facts-forget-google-books-learning-memory-0j9mjm7wp
-
+	- https://www.tandfonline.com/doi/abs/10.1080/01443410.2021.2016635?journalCode=cedp20
+	- [[Forgetting]] https://www.thetimes.co.uk/article/remember-facts-forget-google-books-learning-memory-0j9mjm7wp
 - Learn better from [[summaries]] https://spdrdng.com/posts/read-summaries-only-not-chapters-youll-learn-more
-
 - [[Syntopical reading]] https://www.maggiedelano.com/garden/syntopical-reading-in-roam
-
 - Resolving multiple texts, [[Pre-reading]] https://www.tandfonline.com/doi/abs/10.1080/00461520.2017.1329015?journalCode=hedp20
-
 - [[STEM education]] https://www.sciencedirect.com/science/article/abs/pii/S1871187122000311
 - Student perceptions of critical reading https://www.tandfonline.com/doi/abs/10.1080/10790195.2022.2033648
-
 - Reading on a smart phone, [[Mobile device]] https://www.psypost.org/2022/04/reading-on-a-smartphone-promotes-overactivity-in-the-prefrontal-cortex-and-lowers-reading-comprehension-study-finds-62848
-
 - Reading [[fiction]] https://lithub.com/its-official-according-to-science-reading-fiction-makes-you-nicer/
-
 - https://normaneng.org/getting-students-to-do-the-readings/
-
 - [[Formative assessment]], [[Textbook]] https://www.tandfonline.com/doi/abs/10.1080/10790195.2022.2062489
-
 - Core readings, texts, [[Community college]] https://www.tgqf.org/
-
 - Effects of leisure reading on older adults' [[Cognitive decline]] https://onlinelibrary.wiley.com/doi/10.1002/cl2.1117
-
-[[Literacies]]
+  
+  [[Literacies]]

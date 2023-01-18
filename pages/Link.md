@@ -1,4 +1,4 @@
-  - [[Hypertext]]
-  - [[Knowledge management]]
-
-  - https://linkingmanifesto.org/
+- [[URL]]
+- [[Hypertext]]
+- [[Knowledge management]]
+- https://linkingmanifesto.org/
