@@ -3,6 +3,7 @@
 - [[Lateral reading]]
 - [[Reading research articles]]
 - [[Reading word problems]]
+- [[Reading apprenticeship]]
 - [[Pre-reading]]
 - [[Annotation]]
 - [[Speed reading]]
