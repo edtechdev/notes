@@ -1,3 +1,2 @@
-  - https://journals.sagepub.com/doi/abs/10.1177/0098628320979886
-
-See also [[Help-seeking skills]]
+- [The Persistence of Stigma Reduction After Teaching Abnormal Psychology Using Celebrity Narratives - Anne Ferrari, 2021](https://journals.sagepub.com/doi/abs/10.1177/0098628320979886)
+- See also [[Help-seeking]]
