@@ -39,7 +39,7 @@ Helps with [[Coping with failure]]
 - [[Physics education]] https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00342-2
 - Critique, measuring how people define [[Intelligence]] https://www.lifescied.org/doi/full/10.1187/cbe.19-09-0169
 - [[STEM identity]] https://www.edworkingpapers.com/ai22-509
-- [[Posters]] https://www.youcubed.org/resource/posters/
+- [[Poster]] [Posters Archives - YouCubed](https://www.youcubed.org/resource/posters/)
 - [[Dissemination]] through a department https://www.jstem.org/jstem/index.php/JSTEM/article/view/2536
 - [[Stress]], [[Anxiety]] reappraisal https://www.scientificamerican.com/article/a-single-quick-lsquo-mindset-rsquo-exercise-protects-against-adolescent-stress/
 	- https://www.nature.com/articles/s41586-022-04907-7

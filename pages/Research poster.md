@@ -1,3 +1,4 @@
+- [[Poster]]
 - [[Conference]]
 - [[Undergraduate research]]
 - [[Scientific communication]]
