@@ -27,7 +27,7 @@
 - Barbell method: https://zettelkasten.de/posts/barbell-method-reading/
 - [[Screen]] / [[Ebook]] vs paper
 	- https://www.tandfonline.com/doi/abs/10.1080/01443410.2021.2016635?journalCode=cedp20
-	- [[Forgetting]] https://www.thetimes.co.uk/article/remember-facts-forget-google-books-learning-memory-0j9mjm7wp
+	- [[Forget]] https://www.thetimes.co.uk/article/remember-facts-forget-google-books-learning-memory-0j9mjm7wp
 - Learn better from [[summaries]] https://spdrdng.com/posts/read-summaries-only-not-chapters-youll-learn-more
 - [[Syntopical reading]] https://www.maggiedelano.com/garden/syntopical-reading-in-roam
 - Resolving multiple texts, [[Pre-reading]] https://www.tandfonline.com/doi/abs/10.1080/00461520.2017.1329015?journalCode=hedp20
