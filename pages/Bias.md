@@ -1,5 +1,6 @@
 - [[Bias in teaching]]
 - [[Bias in research]]
+- [[Bias in algorithms]]
 - [[Biased algorithms in education]]
 - [[Bias in technology]]
 - [[Bias in mathematics]]
