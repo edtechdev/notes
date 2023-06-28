@@ -1,4 +1,4 @@
-- [[Intelligent tutoring]]
+- [[Intelligent tutoring system]]
 - [[Natural language processing]]
 - [[Adaptive learning]]
 - [[Machine learning]]

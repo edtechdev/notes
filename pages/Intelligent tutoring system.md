@@ -1,7 +1,8 @@
 - [[Tutoring]]
-- [[Intelligent tutoring]]
 - [[Adaptive learning]]
+- [[Personalized learning]]
 - [[Artificial intelligence]]
+- [[Artificial intelligence in education]]
 - [[Expertise]]
 - [[Information technology]] DARPA
   tutor

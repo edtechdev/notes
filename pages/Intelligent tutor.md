@@ -1,1 +1,1 @@
-alias:: [[Intelligent tutoring]]
+alias:: [[Intelligent tutoring system]]
