@@ -2,6 +2,7 @@
 - [[Mentoring]]
 - [[Mentoring faculty]]
 - [[Mentoring students]]
+- [[Academic coaching]]
 - https://hbr.org/amp/2018/08/most-managers-dont-know-how-to-coach-people-but-they-can-learn
 - Effects on [[Student retention]] and
   [[Student success]]:
