@@ -1,0 +1,5 @@
+- [[Image generation]]
+- [[Video generation]]
+- [[Generative AI]]
+- [[Artificial intelligence]]
+-
