@@ -1,5 +1,5 @@
 - [[Learning outcome]]
-- [[Clarify expectations]]
+- [[Clarifying student expectations]]
 - [[Bloom's taxonomy]]
 - [[Lesson plan]]
 - [[Course design]]
