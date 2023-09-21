@@ -1,7 +1,7 @@
 - [[Image editor]]
 - [[Clip art]]
 - [[Photo]]
-- [[OCR]]
+- [[Optical character recognition]]
 - Free images
   https://twitter.com/rodriguesjm6/status/1476580189316562953?t=vWE9xH7qN_xXhKuzZnyiAg&s=19
 - [[OER]] Stock[[photos]]
