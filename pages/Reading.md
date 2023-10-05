@@ -38,6 +38,7 @@
 - https://normaneng.org/getting-students-to-do-the-readings/
 - [[Formative assessment]], [[Textbook]] https://www.tandfonline.com/doi/abs/10.1080/10790195.2022.2062489
 - Core readings, texts, [[Community college]] https://www.tgqf.org/
+	- [[General education]]
 - Effects of leisure reading on older adults' [[Cognitive decline]] https://onlinelibrary.wiley.com/doi/10.1002/cl2.1117
   
   [[Literacies]]
