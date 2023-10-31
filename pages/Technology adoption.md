@@ -1,0 +1,3 @@
+- See technology acceptance models
+- [[Faculty adoption]]
+-
