@@ -1,2 +1,2 @@
-- [[Knowledge management tools]]
+- [[Knowledge management tool]]
 - [[Knowledge Management]]
