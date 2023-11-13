@@ -1,0 +1,8 @@
+- [[Classroom]]
+- [[Homeschool]]
+- [[Online learning]]
+- [[Informal learning]]
+- [[Workplace learning]]
+- [[Continuing education]]
+- [[School]]
+-
