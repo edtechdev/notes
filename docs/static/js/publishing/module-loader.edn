@@ -1,1 +1,0 @@
-{:module-uris {:main [], :code-editor ["static/js/code-editor.js"], :excalidraw ["static/js/excalidraw.js"], :tldraw ["static/js/tldraw.js"]}, :module-infos {:main nil, :code-editor #{:main}, :excalidraw #{:main}, :tldraw #{:main}}}
