@@ -32,7 +32,7 @@
   https://www.ft.com/content/a23e808b-e293-4cc0-b077-9168cff135e4
 	- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4046264
 	- https://twitter.com/EdBradon/status/1522919855246221314?t=fLFWYZEAxSsTwafJtsL78g&s=19
-	- [[Fidelity of     implementation]],
+	- [[Fidelity of implementation]] ,
 	  [[Improvement science]]
 - [[Values affirmation]]
   https://www.chronicle.com/newsletter/the-edge/2022-06-01
