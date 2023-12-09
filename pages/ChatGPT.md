@@ -1,3 +1,4 @@
+- [[gpt4]]
 - [[GPT index]]
 - [[Artificial intelligence]]
 - [[LLM]]
