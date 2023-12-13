@@ -4,6 +4,6 @@
 - [[Asian students]]
 - [[Latino students]]
 - [[Native American students]]
-- [[minoritized students]]
+- [[Minoritized students]]
 - [[Underrepresented students]]
 -

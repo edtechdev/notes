@@ -3,7 +3,7 @@
 - [[Equity]]
 - [[Black students]]
 - [[Latino students]]
-- [[minoritized students]]
+- [[Minoritized students]]
 - [[Cultural psychology]]
 - [[First generation students]]
 -

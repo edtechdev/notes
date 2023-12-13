@@ -43,7 +43,7 @@
 		- [[Study skills]], [[Time management]]
 		- [[Mindset]], [[Growth mindset]], [[Fixed mindset]]
 		- [[Help-seeking]], [[Help-seeking skills]]
-	- [[First generation students]], [[Low socioeconomic status students]], [[Underrepresented students]], [[minoritized students]], [[Black students]], [[Latino students]], [[Native American students]], [[Indigenous students]], [[Asian students]], [[Asian american students]], [[International students]], [[Female students]], [[Male students]], [[Transfer students]], [[Freshmen]], [[Sophomore students]], [[Students with disabilities]], [[Adult learners]], [[Student parents]], [[Neurodiversity]]
+	- [[First generation students]], [[Low socioeconomic status students]], [[Underrepresented students]], [[Minoritized students]], [[Black students]], [[Latino students]], [[Native American students]], [[Indigenous students]], [[Asian students]], [[Asian american students]], [[International students]], [[Female students]], [[Male students]], [[Transfer students]], [[Freshmen]], [[Sophomore students]], [[Students with disabilities]], [[Adult learners]], [[Student parents]], [[Neurodiversity]]
 	- [[Struggling students]]
 - [[Assessment]]
 	- [[Formative assessment]], [[Low stakes assessment]]

@@ -27,7 +27,7 @@
 - Vs [[Accessibility]]: https://oxifblog.wordpress.com/2019/04/17/accessibility-vs-inclusion-whats-the-difference/amp/
 - Equity and Inclusion in Higher Education: Strategies for Teaching https://www.amazon.com/dp/1947602993/
 - https://sites.lafayette.edu/addyt/2021/10/17/the-elephant-in-the-room-tackling-personal-barriers-to-the-adoption-of-inclusive-teaching/
-- Envisioning [[minoritized students]] Minority College Students https://www.amazon.com/dp/1891859846/
+- Envisioning [[Minoritized students]] Minority College Students https://www.amazon.com/dp/1891859846/
 - https://journals.publishing.umich.edu/tia/article/id/182/
 - [[Measure]], [[Assessment]] instruments https://sites.lafayette.edu/addyt/2021/12/04/measuring-inclusion-efforts-tools-for-assessment-feedback-and-reflection/
 - And [[Sense of belonging]] https://www.tandfonline.com/doi/full/10.1080/07294360.2021.1945547?src=&
