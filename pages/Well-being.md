@@ -5,6 +5,8 @@
 - [[Stress]]
 - [[Depression]]
 - [[Loneliness]]
+- [[Faculty well-being]]
+- [[Employee well-being]]
 - Embedding in curriculum for [[part-time students]] https://positivedigitalpractices.weebly.com/
 - [[Online learning]] https://www.frontiersin.org/articles/10.3389/feduc.2022.924868/full#.Yv9riVYfrQk.twitter
 - [[Systematic review]] https://www.sciencedirect.com/science/article/pii/S1747938X22000331?dgcid=raven_sd_aip_email
