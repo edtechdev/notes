@@ -1,0 +1,5 @@
+- [[Artificial intelligence in education]]
+- [[Information literacy]]
+- [[Digital literacy]]
+- https://canvas.sydney.edu.au/courses/51655
+-
