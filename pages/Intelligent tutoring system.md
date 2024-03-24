@@ -3,6 +3,8 @@
 - [[Personalized learning]]
 - [[Artificial intelligence]]
 - [[Artificial intelligence in education]]
+- [[AI assistant]]
+- [[Pedagogical agent]]
 - [[Expertise]]
 - [[Information technology]] DARPA
   tutor

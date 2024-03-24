@@ -1,4 +1,4 @@
-- [[Intelligent tutoring
+- [[Intelligent tutoring system]]
 - [[Adaptive learning]]
 - https://link.springer.com/article/10.1007%2Fs10648-020-09587-1
 - [[Facial expression]] to induce

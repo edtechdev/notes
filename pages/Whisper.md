@@ -1,2 +1,2 @@
 - [[Speech recognition]]
--
+- [Build and deploy fast and portable speech recognition applications with ONNX Runtime and Whisper | by Nat Kershaw | Microsoft Azure | Medium](https://medium.com/microsoftazure/build-and-deploy-fast-and-portable-speech-recognition-applications-with-onnx-runtime-and-whisper-5bf0969dd56b)
