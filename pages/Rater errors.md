@@ -1,1 +1,4 @@
-  - https://www.dartmouth.edu/hrs/profldev/performance_management/rater_errors.html
+- https://www.dartmouth.edu/hrs/profldev/performance_management/rater_errors.html
+- [[Performance evaluation]]
+- [[Bias]]
+-
