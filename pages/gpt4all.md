@@ -1,2 +1,6 @@
 - [[Open LLM]]
+- Ollama
+- LM Studio
+- LiteLLM
+- [[Retrieval augmented generation]]
 -
