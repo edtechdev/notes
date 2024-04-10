@@ -1,6 +1,7 @@
 - [[AI assistant]]
 - [[AutoGPT]]
 - [[autogen]]
+- [[Intelligent tutoring system]]
 - Xagent
 - Devin, Devika
 - CrewAI
