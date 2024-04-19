@@ -5,7 +5,8 @@
 - [[Teaching excellence]]
 - [[Course evaluation]]
 - [[Bias in higher education]]
-- [[Bias in teaching]]
+- [[Bias in teaching]], [[Gender bias]]
+	- https://docs.google.com/document/d/14JiF-fT--F3Qaefjv2jMRFRWUS8TaaT9JjbYke1fgxE/edit?usp=drivesdk
 - [[Not Recommended]]
 - [[Grades]]
 - [[Satisfaction]] with
@@ -59,11 +60,11 @@
   https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/9/2591/files/2021/11/Report-on-Student-Course-Feedback-11.3.21.pdf
 - https://www.lifescied.org/doi/10.1187/cbe.21-08-0198
 - https://www.timeshighereducation.com/blog/its-time-drop-tyranny-student-reviews-teaching
-### Improving Student Response Rates for Online End of Course Surveys
-
-One difficulty with online end of course surveys is getting your
-students to actually complete the survey.  Below are some tips for
-improving response rates.
+- ### Improving Student Response Rates for Online End of Course Surveys
+  
+  One difficulty with online end of course surveys is getting your
+  students to actually complete the survey.  Below are some tips for
+  improving response rates.
 - Encourage and remind students to complete the end of course
   evaluation multiple times.   Send out emails to students with the
   link to the online evaluation form, and remind them at the end of
@@ -93,10 +94,10 @@ improving response rates.
   survey, such as bonus points.  You should be careful not to design
   the incentive in a way that punishes students who choose not to
   complete the survey, however.
-### Interpreting Student Evaluations of Teaching
-
-You got your students to complete the survey, now what?  How do I
-interpret their responses?  What use is this data?
+- ### Interpreting Student Evaluations of Teaching
+  
+  You got your students to complete the survey, now what?  How do I
+  interpret their responses?  What use is this data?
 - It can be hard to read criticisms of your teaching, just as it is
   hard to read criticisms of your research papers, or to hear
   criticisms in general\!  Take it with a grain of salt.  If a student
@@ -123,7 +124,7 @@ interpret their responses?  What use is this data?
   recommend strategies for addressing any valid issues or concerns the
   students bring up.  We can observe and/or survey your students to
   further help you improve your course.
-### Other General Frequently Asked Questions about Student Evaluations
+- ### Other General Frequently Asked Questions about Student Evaluations
 - Don’t higher student ratings just mean that the course was easier or
   grade inflated?  Or the instructor was more friendly or attractive?
 - There are some factors that influence student ratings that don’t
@@ -146,11 +147,11 @@ interpret their responses?  What use is this data?
   comments or that their feedback should be ignored. Try to translate
   student feedback into constructive changes and improvements in your
   teaching.
-### Tips for Increasing Your Student Ratings
-
-There are no silver bullets or magic formulas to good ratings, but here
-are some strategies that have been shown to improve student ratings and
-engagement.
+- ### Tips for Increasing Your Student Ratings
+  
+  There are no silver bullets or magic formulas to good ratings, but here
+  are some strategies that have been shown to improve student ratings and
+  engagement.
 - Have teaching & learning support conduct a Midterm Student Feedback
   (MSF) survey with your students in the middle of the semester,
   rather than waiting until the end of the semester when it is too

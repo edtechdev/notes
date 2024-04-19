@@ -1,4 +1,4 @@
 - [[Prompt engineering]]
-- [[Autonomous agent]]
+- [[AI agents]]
 - [[AI assistant]]
 -

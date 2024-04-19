@@ -1,3 +1,5 @@
 - [[Management training]]
 - [[Business school]]
+- [[Management]]
+- [[Leadership education]]
 -

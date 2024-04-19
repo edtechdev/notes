@@ -1,4 +1,4 @@
-- [[Autonomous agent]]
+- [[AI agents]]
 - [[AutoGPT]]
 - [[autogen]]
 -

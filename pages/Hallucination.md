@@ -1,5 +1,5 @@
 - [[LLM]]
 - [[ChatGPT]]
-- [[Bard]]
+- [[Gemini]]
 - [[Misinformation]]
 -
