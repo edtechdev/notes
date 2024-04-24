@@ -1,3 +1,4 @@
+- [[ActivityPub]]
 - [[Open source]]
 - [[Decentralized web]]
 - [[Indieweb]]

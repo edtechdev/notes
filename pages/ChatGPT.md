@@ -1,5 +1,5 @@
 - [[gpt4]]
-- [[GPT index]]
+- [[LlamaIndex]]
 - [[Artificial intelligence]]
 - [[LLM]]
 -

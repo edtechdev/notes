@@ -1,2 +1,2 @@
-- [[GPT index]]
+- [[LlamaIndex]]
 -

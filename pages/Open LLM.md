@@ -1,3 +1,3 @@
-- [[LLM]], [[ChatGPT]], [[GPT index]], [[Open source]], [[Open assistant]]
+- [[LLM]], [[ChatGPT]], [[LlamaIndex]], [[Open source]], [[Open assistant]]
 - [Opening up ChatGPT: tracking openness, transparency, and accountability in instruction-tuned text generators](https://opening-up-chatgpt.github.io/)
 -
