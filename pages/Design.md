@@ -31,7 +31,7 @@
 	  [[Patriarchy]],
 	  [[Disability]],  [[Feminist     pedagogy]],
 	  [[Anti-racism]],
-	  [[Equity]],  [[Critical     pedagogy]]
+	  [[Equity]],  [[Critical pedagogy]]
 - Decolonizing design
   https://twitter.com/edifiedlistener/status/1474100214516625411?t=txmC7nFmhRAWmXgB9Dk7jA&s=19
 - And [[Change management]] in
