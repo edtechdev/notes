@@ -2,7 +2,7 @@
 - [[Teaching inventory]]
 	- [[Mindset]]
 	- [[Beliefs about teaching]], [[Beliefs about learning]]
-	- [[Faculty beliefs]]
+	- [[Faculty beliefs]], [[Faculty mindset]]
 	- https://poorvucenter.yale.edu/Observation-Protocols-Teaching-Inventories
 	-
 - [[Teaching]], [[Teaching excellence]], [[Teaching Mistakes]], [[Metaphors for teaching]], [[Instructional quality]], [[Teaching strategies]]
@@ -14,6 +14,7 @@
 	- [[Pedagogy of care]], [[Trauma-aware teaching]]
 	- [[Facilitation]], [[Discussion]]
 	- [[Active learning]], [[Passive learning]], [[Collaborative learning]], [[ICAP framework]], [[Effective teams]]
+	- [[Project-based learning]], [[Problem-based learning]], [[Team-based learning]], [[Peer-led team learning]], [[Peer institution]]
 	- [[Lecture]], [[Storytelling]], [[Narrative]], [[Presentation]]
 	- [[Classroom management]]
 	- [[First day]], [[Last day]], [[Syllabus]]
