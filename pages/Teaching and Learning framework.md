@@ -31,7 +31,7 @@
 	- [[Self-regulated learning]]
 	- [[Student motivation]], [[Motivation]], [[Engagement]], [[Student engagement]]
 	- [[Bloom's taxonomy]], [[Maslow's hierarchy of needs]], [[Higher order thinking]], [[Creativity]], [[Critical thinking]]
-	- [[Social and emotional learning]]
+	- [[Social-emotional learning]]
 		- [[Sense of belonging]], [[Mindfulness]]
 		- [[Stress]], [[Anxiety]], [[Math anxiety]], [[Test anxiety]], [[Mental Health]]
 		- [[Pedagogy of care]], [[Humanizing]], [[Trauma-aware teaching]]
