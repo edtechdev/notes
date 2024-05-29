@@ -6,7 +6,7 @@
 - [[Beliefs]]
 - [[Misconception]]
 - [[Counter-narrative]]
--
+- [[Scientific communication]]
 - https://sciedandmisinfo.stanford.edu/
 - https://sciencerising.org/countering-disinformation-presentation-and-training-resources/
 - Psychological inoculation

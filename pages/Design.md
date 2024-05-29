@@ -29,7 +29,7 @@
 	- [[Decolonizing education]],
 	  [[Neotraditionalism]],
 	  [[Patriarchy]],
-	  [[Disability]],  [[Feminist     pedagogy]],
+	  [[Disability]], [[Feminist pedagogy]] ,
 	  [[Anti-racism]],
 	  [[Equity]],  [[Critical pedagogy]]
 - Decolonizing design
