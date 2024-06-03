@@ -1,5 +1,8 @@
 - [[Video generation]]
 - [[Midjourney]]
 - [[Stable diffusion]]
-- [[Bing]]
+- [[Visual understanding]]
+- [[Image editor]]
+- [[Generative AI]]
+- [[Multimodal AI]]
 -

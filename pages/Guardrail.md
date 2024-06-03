@@ -1,0 +1,5 @@
+- [[LLM]]
+- [[Bias in algorithms]]
+- [[Hallucination]]
+- [Constitutional AI: Harmlessness from AI Feedback \ Anthropic](https://www.anthropic.com/news/constitutional-ai-harmlessness-from-ai-feedback)
+-
