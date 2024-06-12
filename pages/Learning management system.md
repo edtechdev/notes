@@ -1,4 +1,4 @@
-- [[Canvas]]
+- [[LTI]]
 - [[Online teaching]]
 - [[Open source]]
 	- [[Moodle]]
