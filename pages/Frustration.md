@@ -1,0 +1,8 @@
+- [[Confusion]]
+- [[Impasse]]
+- [[Satisfaction]]
+- [[Learning from failure]]
+- [[Failure]]
+- [[Coping with failure]]
+- [[Affect]]
+-

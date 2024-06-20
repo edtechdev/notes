@@ -1,3 +1,9 @@
 - [[Decentralized web]]
 - [[P2P]]
+- [[Blockchain]]
+- [[Web3]]
+- [[IPFS]]
+- [[Fediverse]]
+- [[WebRTC]]
+- [[Webassembly]]
 -

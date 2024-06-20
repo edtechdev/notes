@@ -1,7 +1,7 @@
 - [[Poster]]
 - [[Conference]]
 - [[Undergraduate research]]
-- [[Scientific communication]]
+- [[Science communication]]
 - https://biorender.com/poster-builder
 - https://stephanieevergreen.com/better-posters/
 - Assertion evidence

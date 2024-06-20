@@ -83,7 +83,7 @@
 	- [[Social media]], [[Social networking tools]]
 	-
 - [[Discipline]]
-	- [[STEM education]], [[Science education]], [[Physics education]], [[Biology education]], [[Mathematics education]], [[Engineering education]], [[Chemistry education]], [[Computer science education]], [[Statistics education]]
+	- [[STEM education]], [[Science education]], [[Physics education]], [[Biology education]], [[Mathematics education]], [[Engineering education]], [[Chemistry education]], [[Computer science education]], [[Statistics education]], [[Lab]]
 	- [[Humanities]], [[Philosophy]], [[Teaching history]], [[Literature]]
 	- [[Writing]], [[Composition]], [[Speech]], [[Communication]], [[Technical communication]]
 	- [[Social Science]], [[Teaching psychology]], [[Sociology]], [[Counseling]], [[Psychology]]

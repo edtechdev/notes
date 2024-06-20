@@ -1,0 +1,6 @@
+- [[End-user development]]
+- [[Notion]]
+- [[Spreadsheet]]
+- [[Visual programming]]
+- [[Code generation]]
+-
