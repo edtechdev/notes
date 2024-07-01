@@ -7,7 +7,7 @@
 - Learning generic skills
   https://www.frontiersin.org/articles/10.3389/feduc.2022.885917/full
 - Skills fetish, [[Human capital]],
-  [[employment]],
+  [[Employment]],
   [[Productivity]]
   https://www.timeshighereducation.com/blog/skills-fetish-fragmenting-education-and-careers
 	- https://www.tandfonline.com/doi/full/10.1080/01425692.2022.2045186

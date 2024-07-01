@@ -7,7 +7,7 @@
   had no impact https://sites.google.com/site/jackmountjoyeconomics/
 - https://twitter.com/mikeitzkowitz/status/1458073834096111625?s=20
 - For students, [[tuition]] costs not related to
-  later [[Salary]],[[income]]
+  later [[Salary]],[[Income]]
   https://twitter.com/mikeitzkowitz/status/1542684273953705985?t=wylaS6GqKDVKcznG82SN4w&s=19
 - https://www.edsurge.com/amp/news/2020-11-19-is-college-worth-it-decoding-new-approaches-to-calculating-roi
 - [[Value of higher education]]:

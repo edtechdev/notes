@@ -1,12 +1,9 @@
 - [[Educational development]]
 - [[Faculty development]]
-
 - https://edta.info.yorku.ca/
-
 - [[Professional development]] of, [[Lifeworld]] https://www.tandfonline.com/doi/full/10.1080/1360144X.2021.1950725
-
-- [[competencies]]
-	-  https://quod.lib.umich.edu/t/tia/17063888.0028.005/--developing-competency-models-of-faculty-developers?rgn=main;view=fulltext
-	-  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5794230/
-
-[[Educational Development]]
+- [[Competency]]
+	- https://quod.lib.umich.edu/t/tia/17063888.0028.005/--developing-competency-models-of-faculty-developers?rgn=main;view=fulltext
+		- [[Educational development]]
+	- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5794230/
+		- [[Educational Development]] [[Evaluating educational development]]
