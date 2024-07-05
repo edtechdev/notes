@@ -1,4 +1,5 @@
 - [[Cognitive psychology]]
+- [[Cognition]]
 - [[Learning sciences]]
 - [[Embodied cognition]]
 - [[Disciplines]]

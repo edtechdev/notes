@@ -1,8 +1,7 @@
-  - [[Situated cognition]]
-  - [[Embodied cognition]]
-  - [[Distributed cognition]]
-  - [[Extended cognition]]
-
-  - http://philsci-archive.pitt.edu/19976/
-
-[[Cognitive Psychology]]
+- [[Situated cognition]]
+- [[Embodied cognition]]
+- [[Distributed cognition]]
+- [[Extended cognition]]
+- http://philsci-archive.pitt.edu/19976/
+- [[Cognitive science]]
+- [[Cognitive Psychology]]
