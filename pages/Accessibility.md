@@ -5,6 +5,9 @@
 - [[Students with disabilities]]
 - [[Inclusive design]]
 - [[ARIA]]
+- [[Color contrast]]
+- [[Transcript]]
+- [[Speech recognition]], [[Whisper]]
 -
 - https://tetralogical.com/blog/2021/12/24/browsing-with-assistive-technology-videos/
 - https://equalentry.com/

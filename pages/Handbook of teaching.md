@@ -3,7 +3,7 @@
 - [[Educational development]]
 - [[Open textbooks]]
   collapsed:: true
-	- [[Graduate students]],  [[Teaching     assistants]], early career
+	- [[Graduate students]], [[Teaching assistant]] , early career
 	  [[faculty]]
 	  https://pressbooks.lib.vt.edu/universityteaching/
 - Existing teaching handbooks

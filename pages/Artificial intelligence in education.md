@@ -1,2 +1,6 @@
 - [[AI detection]]
+- [[Intelligent tutoring system]]
+- [[Artificial intelligence]]
+- [[Generative AI]]
+- [[LLM]]
 -
