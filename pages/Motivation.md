@@ -1,5 +1,6 @@
 - [[Intrinsic motivation]]
 - [[Extrinsic motivation]]
+- [[Student motivation]]
 - [[Interest]]
 - [[Achievement]]
 - [[Self-determination theory]]
@@ -10,25 +11,17 @@
 - [[Sense of belonging]]
 - [[Purpose]]
 - [[Self-efficacy]]
-
+- [[Engagement]], [[Student engagement]]
 - [[Myths about learning]] https://www.apa.org/ed/schools/myth-busters
-
 - https://tll.mit.edu/creating-learning-environments-to-support-student-motivation-post-pandemic/
-	-  [[Handout]] https://tll.mit.edu/wp-content/uploads/2022/04/Fong-Motivation-Reflection-and-Practical-Strategies.pdf
-	-  https://www.youtube.com/watch?v=m8wWkZxuJhk
-
+	- [[Handout]] https://tll.mit.edu/wp-content/uploads/2022/04/Fong-Motivation-Reflection-and-Practical-Strategies.pdf
+	- https://www.youtube.com/watch?v=m8wWkZxuJhk
 - https://www.cultofpedagogy.com/student-motivation/
-
 - [[Predictive analytics]], [[Intelligence]], [[Achievement]] https://psycnet.apa.org/record/2021-28255-001?doi=1
-
 - And [[Self-determination theory]] https://www.semanticscholar.org/paper/Intrinsic-and-extrinsic-motivation-from-a-theory-Ryan-Deci/e38678e016b68271d5bdde31dbf01106c583933a
-
 - 3 components instead of 2, [[Achievement]] https://www.researchgate.net/publication/327022757_Intrinsic_and_Extrinsic_Motivation_Time_for_Expansion_and_Clarification
-
 - https://www.scienceofmotivation.org/
-
 - https://www.edweek.org/leadership/what-teachers-can-do-to-boost-student-motivation
-
 - https://pepsmccrea.com/series/motivation/
 - https://www.amazon.com/Cambridge-Handbook-Motivation-Handbooks-Psychology/dp/131663079X/
 - https://youtu.be/rrkrvAUbU9Y
@@ -36,25 +29,15 @@
 - https://blackandwhiteduality.blogspot.com/2021/05/students-and-motivation.html?zx=49bf284db8f1498e
 - Teacher motivation: https://www.sciencedirect.com/science/article/abs/pii/S0959475221000177?dgcid=raven_sd_aip_email
 - Class activity: https://twitter.com/benjaminheddy/status/1430551574951219201?s=20
-
 - Correlates in [[K12]] education https://doi.apa.org/record/2022-61115-001?doi=1
-
 - [[Meta-analysis]] and outcomes, [[Achievement]], [[Well-being]] https://selfdeterminationtheory.org/wp-content/uploads/2021/02/2021_HowardBureauGuayChongRyan_Student-Motivation_PrePrint.pdf
-
 - [[Meta-analysis]]: https://journals.sagepub.com/doi/abs/10.3102/00346543211042426
-
 - Vs [[Achievement]] https://bold.expert/which-comes-first-motivation-or-achievement/
-
 - And [[Stress]]: https://www.apa.org/monitor/2021/10/feature-workers-motivation
-
 - [[Achievement]] motivation review https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-050720-103500?journalCode=devpsych
-
 - Academic motivation during the pandemic https://www.researchgate.net/publication/357600222_Academic_Motivation_in_a_Pandemic_Context_A_Conceptual_Review_of_Prominent_Theories_and_an_Integrative_Model
-
 - [[Assessment]] [[Measure]] in [[Statistics]], [[Psychology]] https://journals.sagepub.com/doi/10.1177/00986283211066485
-
 - Effect on motivation for [[Neoliberalism in higher education]] https://www.tandfonline.com/doi/full/10.1080/17508487.2022.2037680
-
 - And [[Non-traditional students]], [[Androgogy]] https://www.tcrecord.org/Content.asp?ContentID=24026
-
-[[Psychology]]
+  
+  [[Psychology]]
