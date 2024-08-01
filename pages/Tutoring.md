@@ -3,6 +3,7 @@
 - [[Academic support]]
 - [[Learning center]]
 - [[Tutor tracking]]
+- [[Tutor training]]
 - https://studentsupportaccelerator.org/
 - https://www.google.com/books/edition/How_Tutoring_Works/vvQuEAAAQBAJ?hl=en
 - MindFit at West Virginia, supports students with [[ADHD]], [[Autism]]
