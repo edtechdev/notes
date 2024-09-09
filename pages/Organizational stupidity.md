@@ -3,4 +3,5 @@
 - [[Change Management]]
 - [[Management]]
 - [[Leadership]]
+- [[Performativity]]
 -
