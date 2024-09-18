@@ -1,3 +1,9 @@
+- AI in education collections:
+	- [ai literacy modules](https://docs.google.com/spreadsheets/d/1awaUhBIlTV4YkHElBxZUzr9WH9HztPVTUpkdhKk4QvY/htmlview#gid=1378750365?trk=feed-detail_comments-list_comment-text)
+	- ⁠[ai syllabus policies](https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit?usp=sharing)
+	- ⁠[college ai policies](https://docs.google.com/spreadsheets/u/0/d/1BaBrJbItfiML64fvtRDrUS2rL9cju0yTkG4E8xNul5A/htmlview)
+	- ⁠[prompt libraries for educators](https://www.controlaltachieve.com/2024/03/ai-prompt-libraries-for-educators.html)
+	- ⁠[ai product tracker](https://sr.ithaka.org/our-work/generative-ai-product-tracker/)
 - [[AI detection]]
 - [[AI literacy]]
 - [[Intelligent tutoring system]]
