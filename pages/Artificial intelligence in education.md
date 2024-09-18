@@ -1,6 +1,11 @@
 - [[AI detection]]
+- [[AI literacy]]
 - [[Intelligent tutoring system]]
 - [[Artificial intelligence]]
+- [[Prompt engineering]]
+- [[AI agents]], [[AI assistant]]
 - [[Generative AI]]
-- [[LLM]]
+- [[Image generation]], [[Video generation]], [[Code generation]]
+- [[LLM]], [[Open LLM]]
+- [[Course policy]], [[Higher education policy]]
 -
