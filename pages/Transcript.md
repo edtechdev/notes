@@ -1,2 +1,4 @@
 - [[Caption]]
+- [[Speech recognition]]
+- [[Whisper]]
 -
