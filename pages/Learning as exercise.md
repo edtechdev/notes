@@ -3,7 +3,7 @@ Analogies like working out in a gym as part of training for sports.
 Used to try to help students see the purpose of working on &quot;boring&quot; (abstract) problems in math or other courses - because they help prepare them for future applications in science, engineering, etc.
 
 - [[Growth mindset]]
-- [[Desirable difficulty]]
+- [[Desirable difficulties]]
 - [[Motivation]]
 - https://twitter.com/DennisDill/status/1402075575242661892?s=20
 - Limitations of &quot;brain as muscle&quot; metaphor https://twitter.com/anniemurphypaul/status/1404534600475582464?s=19
