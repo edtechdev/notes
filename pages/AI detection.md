@@ -1,4 +1,6 @@
 - [[Artificial intelligence in education]]
 - [[Plagiarism detection]]
 - [[Not Recommended]]
+- [[Bias in algorithms]]
+- [[Carceral pedagogy]]
 -
