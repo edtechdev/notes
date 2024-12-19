@@ -8,6 +8,7 @@
 - [[Advice]]
 - [[Coaching]]
 - [[Teaching]]
+- [[Wise feedback]]
 - [[Systematic review]] https://journals.sagepub.com/doi/full/10.3102/0034654312474350
 - https://www.teaching-matters-blog.ed.ac.uk/feedback-from-one-way-information-to-an-active-dialogic-process/
 - Daily feedback, [[Achievement goal theory]] https://www.sciencedirect.com/science/article/pii/S1096751622000288?dgcid=author#!

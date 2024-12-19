@@ -9,6 +9,6 @@
 - In [[Physics education]] https://arxiv.org/abs/2112.10732
 - Providing wise [[Black students]] depends on [[Trust]] https://sparq.stanford.edu/solutions/wise-critiques-help-students-succeed
 - [[Checklist]] - Developing a wise feedback statement https://collegetransitioncollaborative.org/wise-feedback-statement/
-	- [[Feedback]], [[Exam]], [[Struggling students]]
+	- [[Feedback]], [[Exam]], [[Struggling students]], [[Wise feedback]]
 - [[Student Success]] [[Equity]] [[Psychology]],
 -
