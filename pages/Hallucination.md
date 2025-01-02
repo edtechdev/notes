@@ -2,4 +2,5 @@
 - [[ChatGPT]]
 - [[Gemini]]
 - [[Misinformation]]
+- [[Bias in algorithms]]
 -

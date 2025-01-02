@@ -1,3 +1,4 @@
+- [[Wise interventions]], [[interventions]]
 - [[Behavioral economics]]
 - [[Persuasion]]
 - [[Texting]]

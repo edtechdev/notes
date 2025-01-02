@@ -1,4 +1,4 @@
 - [[Scientific literacy]]
-- [[Research method]]
+- [[Research Methods]]
 - [[Bias in research]]
 -

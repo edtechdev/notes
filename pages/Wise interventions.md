@@ -1,3 +1,5 @@
+- [[interventions]]
+- [[Wise feedback]]
 - [[Growth mindset]]
 - [[Values affirmation]]
 - [[Goal]] setting

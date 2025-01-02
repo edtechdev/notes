@@ -99,7 +99,6 @@
 	- [[Research vs teaching]]
 	- [[Research practice gap]]
 	- [[Interpreting educational research]]
-	- [[Research method]], [[Research Methods]], [[Teaching research methods]]
 	- [[Research tools]]
 	- [[Data analysis]], [[Data Science]], [[Statistics]]
 - [[Higher Education]]

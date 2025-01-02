@@ -1,3 +1,3 @@
 - [[Research ethics]]
-- [[Research method]]
+- [[Research Methods]]
 - [[Ethics]]

@@ -23,7 +23,7 @@
 - Critiques https://link.springer.com/article/10.1057/s41307-016-0027-3
 	- https://research-information.bris.ac.uk/files/138454933/Macfarlane_Tomlinson.pdf
 - Holistic view https://www.tandfonline.com/doi/abs/10.1080/07294360.2015.1024635
-- [[Nudges]] https://www.tandfonline.com/doi/abs/10.1080/07294360.2020.1860912
+- [[Nudge]] https://www.tandfonline.com/doi/abs/10.1080/07294360.2020.1860912
 - https://www.chronicle.com/article/a-stunning-level-of-student-disconnection
 - [[Scoping review]] https://teachinginhighereducation.wordpress.com/2022/05/18/reflecting-on-student-engagement-using-a-conceptual-map/
 - [[Compliance]] https://www.tandfonline.com/doi/abs/10.1080/23735082.2022.2085771

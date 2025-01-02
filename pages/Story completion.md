@@ -1,4 +1,4 @@
-- [[Research method]]
+- [[Research Methods]], [[Teaching research methods]]
 - [[Qualitative Research]]
 - [[Storytelling]]
 - [[Narrative]]
