@@ -2,7 +2,7 @@
 	- [[Canvas]]
 - [[Syllabus]] tips
 - [[Course design]]
-- [[Clarifying student expectations]]
+- [[Clarify student expectations]]
 - [[Transparent assignments]]
 - Facilitation
 	- [[Framing]]
