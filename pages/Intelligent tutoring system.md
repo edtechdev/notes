@@ -1,6 +1,7 @@
 - [[Tutoring]]
 - [[Adaptive learning]]
 - [[Personalized learning]]
+- [[Cognitive diagnosis]]
 - [[Artificial intelligence]]
 - [[Artificial intelligence in education]]
 - [[AI assistant]]

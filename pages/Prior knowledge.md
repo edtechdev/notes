@@ -1,12 +1,8 @@
 - Prior knowledge and learning, a [[Meta-analysis]] https://www.tandfonline.com/doi/full/10.1080/00461520.2021.1939700
-	-  https://www.researchgate.net/publication/352119263_Domain-Specific_Prior_Knowledge_and_Learning_A_Meta-Analysis
-
+	- https://www.researchgate.net/publication/352119263_Domain-Specific_Prior_Knowledge_and_Learning_A_Meta-Analysis
 - Activating [[schema]]: https://kpcrossacademy.org/schema-activating-prior-knowledge/
-
 - https://www.tes.com/magazine/article/knowledge-doesnt-always-help-learning
-
 - https://twitter.com/garvin_brod/status/1428323065218445321?s=19
-	-  https://www.nature.com/articles/s41539-021-00103-w
-	-  And priming, [[memory]], [[Neuroscience]], https://peerreviewededucationblog.com/2021/02/06/cognitive-science-v-neuroscience-retrieval-at-the-start-of-a-lesson-or-not/amp/
-
-[[Learning]]
+	- https://www.nature.com/articles/s41539-021-00103-w
+	- And priming, [[memory]], [[Neuroscience]], https://peerreviewededucationblog.com/2021/02/06/cognitive-science-v-neuroscience-retrieval-at-the-start-of-a-lesson-or-not/amp/
+	- [[Learning]]
