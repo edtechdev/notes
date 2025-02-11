@@ -1,0 +1,4 @@
+- https://en.m.wikipedia.org/wiki/Semmelweis_reflex
+- [[Bias]]
+- [[Implicit bias]]
+-
