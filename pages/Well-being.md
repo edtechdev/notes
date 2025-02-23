@@ -21,7 +21,7 @@
 - Class activities https://ggia.berkeley.edu/
 - And [[social justice]]: https://www.openbookpublishers.com/product/682
 - [[Personas]]: https://openpraxis.org/articles/10.5944/openpraxis.13.2.126/
-- Of [[Teachers]] https://www.sciencedirect.com/science/article/abs/pii/S1747938X21000348
+- Of [[Teacher]] https://www.sciencedirect.com/science/article/abs/pii/S1747938X21000348
 - [[Faculty development]] https://educationalist.eu/how-faculty-development-can-contribute-to-the-well-being-of-academics-reflections-from-practice-76b1a6fe2ee5
 - And [[science]], [[Curiosity]] https://www.nature.com/articles/d41586-022-00762-8
 - [[Wisdom]] https://rd.springer.com/article/10.1007/s10902-022-00540-3

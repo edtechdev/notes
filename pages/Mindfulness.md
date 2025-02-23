@@ -35,7 +35,7 @@
 - [[Habits]] https://hbr.org/2019/12/how-to-break-up-with-your-bad-habits?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit
 - [[Amygdala]] https://hbr.org/2015/12/calming-your-brain-during-conflict?utm_medium=social&utm_campaign=hbr&utm_source=twitter&tpcc=orgsocial_edit
 - [[Pedagogy]] https://cft.vanderbilt.edu/guides-sub-pages/contemplative-pedagogy/
-- For [[Teachers]] https://greatergood.berkeley.edu/article/item/seven_ways_mindfulness_can_help_teachers
+- For [[Teacher]] https://greatergood.berkeley.edu/article/item/seven_ways_mindfulness_can_help_teachers
 - [[Anxiety]], [[Depression]] https://www.sciencedirect.com/science/article/abs/pii/S0193953X1730076X?via%3Dihub
 - [[Self-esteem]], [[Anxiety]], [[Depression]] https://www.sciencedirect.com/science/article/abs/pii/S0191886916301416
 - [[College transition]]
