@@ -5,4 +5,5 @@
 - [[Image editor]]
 - [[Generative AI]]
 - [[Multimodal AI]]
+- [[3D generation]]
 -

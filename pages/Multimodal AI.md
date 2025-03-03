@@ -1,0 +1,6 @@
+- [[Generative AI]]
+- [[LLM]]
+- [[Visual understanding]]
+- [[Image generation]]
+- [[Video generation]]
+-

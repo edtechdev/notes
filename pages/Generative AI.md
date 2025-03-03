@@ -1,0 +1,10 @@
+- [[Image generation]]
+- [[LLM]], [[Open LLM]]
+- [[Video generation]]
+- [[Image generation]]
+- [[3D generation]]
+- [[Code generation]]
+- [[Music generation]]
+- [[Artificial intelligence]]
+- [[Multimodal AI]]
+-
