@@ -23,7 +23,7 @@
 - [[Higher education reform]] https://edsource.org/2022/college-calculus-doesnt-have-to-be-a-roadblock/666774
 - [[Attitudes]], [[Modeling]] https://www.tandfonline.com/doi/abs/10.1080/0020739X.2021.2023771
 - [[common exams]] https://link.springer.com/article/10.1186/s40594-017-0070-7
-- [[Case studies]], math sequence https://www.maa.org/programs/faculty-and-departments/curriculum-development-resources/national-studies-college-calculus/ptc-publications
+- [[Case study]] , math sequence https://www.maa.org/programs/faculty-and-departments/curriculum-development-resources/national-studies-college-calculus/ptc-publications
 - [[Black students]] https://link.springer.com/article/10.1007/s40753-022-00177-w
 - Umbral Calculus https://youtu.be/D0EUFP7-P1M
 - https://youtu.be/5M2RWtD4EzI
