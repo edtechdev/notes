@@ -1,5 +1,7 @@
 - [[Evaluating teaching]]
 - [[Evidence-based teaching]]
+- [[Instructional quality]]
+-
 - Institutional commitment, [[Educational development]]
 	- https://www.acenet.edu/News-Room/Pages/ACE-Issues-White-Paper-Examining-Institutional-Commitment-to-Teaching-Excellence.aspx
 	- https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.acenet.edu/Documents/Institutional-Commitment-to-Teaching-Excellence.pdf&ved=2ahUKEwjProiRsaz5AhV1ZTABHWAmA3EQFnoECAkQAQ&usg=AOvVaw1Zur_61E6KzPcgIZEjwHHY

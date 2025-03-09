@@ -1,4 +1,6 @@
+- [[Faculty beliefs]]
 - [[Beliefs about learning]]
+- [[Beliefs about teaching]]
 - [[Growth mindset]]
 - [[Bias]]
 - [[Beliefs]]
