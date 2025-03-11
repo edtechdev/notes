@@ -37,6 +37,7 @@
 - https://www.tandfonline.com/doi/epub/10.1080/13562517.2021.1913723
 - Immediate vs delayed feedback
 	- https://psyarxiv.com/4mvyh/
+	- [ManyClasses 1: Assessing the generalizable effect of immediate versus delayed feedback across many college classes](https://osf.io/preprints/psyarxiv/4mvyh_v1)
 	- https://journals.sagepub.com/doi/10.1177/1747021820977739
 - group feedback: https://www.tandfonline.com/doi/abs/10.1080/03075079.2019.1688283
 - https://www.sciencedirect.com/science/article/abs/pii/S0747563221002478?dgcid=raven_sd_aip_email

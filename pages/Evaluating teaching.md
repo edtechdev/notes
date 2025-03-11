@@ -1,6 +1,7 @@
 - [[Evaluating online teaching]]
 - [[Teaching portfolios]]
 - [[Peer observation]]
+- [[Class observation]]
 - [[Student evaluations of teaching]]
 - [[Teaching excellence]]
 - [[Evaluation]]
