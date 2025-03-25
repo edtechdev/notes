@@ -1,4 +1,4 @@
 - [[Argument]]
-- [[reasoning]]
+- [[Reasoning]]
 - [[Rhetoric]]
 -

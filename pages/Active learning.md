@@ -35,9 +35,8 @@ Frequently asked questions:
 - And [[Equity]] https://www.youtube.com/watch?v=5fCDcm8_nho
 	- [[Gender bias]] https://pubs.nctm.org/view/journals/jrme/53/3/article-p204.xml
 - [[Large enrollment classes]] https://canvas.bham.ac.uk/courses/52821
-- 100 ideas https://openpress.sussex.ac.uk/ideasforactivelearning/
 - And [[STEM education]] https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-022-00365-9
-- [[Open textbook]] https://openpress.sussex.ac.uk/ideasforactivelearning/
-  
-  [[Evidence-based Teaching]]
+- [[Evidence-based Teaching]]
+- [100 Ideas for Active Learning – Simple Book Publishing](https://openpress.sussex.ac.uk/ideasforactivelearning/)
+	- [[Handbook of teaching]]
 -

@@ -10,7 +10,7 @@
 - Fair Play [[Graduate students]] game: https://fairplaygame.org/
 - In [[Higher education]] research https://onlinelibrary.wiley.com/doi/full/10.1111/hequ.12388?campaign=wolearlyview
 - [[Academic publishing]], [[Psychology]] https://royalsocietypublishing.org/doi/10.1098/rsos.220099
-- Bias in research [[funding]], [[Grants]], [[NSF]] https://osf.io/xb57u/
+- Bias in research [[Funding]], [[Grants]], [[NSF]] https://osf.io/xb57u/
   
   [[Research]] [[Bias]]
   

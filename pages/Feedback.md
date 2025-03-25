@@ -62,7 +62,7 @@
 	- [[Metaphors for learning]]
 - Negative feedback from computers and people, [[Stress]] and [[Self-esteem]] https://www.sciencedirect.com/science/article/abs/pii/S0747563222000929
 - https://www.ncl.ac.uk/learning-and-teaching/effective-practice/assessment/good-feedback/effective-feedback/
-- Developing [[feedback literacy]] https://explorance.com/blog/methods-for-developing-student-feedback-literacy/
+- Developing [[Feedback literacy]] https://explorance.com/blog/methods-for-developing-student-feedback-literacy/
 - [[Emotion]] https://onlinelibrary.wiley.com/doi/full/10.1111/medu.14700
 - [[Mobile learning]], feedback [[app]] https://link.springer.com/article/10.1007/s10758-021-09575-6#Tab3
 - [[Ipsative]] design, [[Self-comparison]] https://www.tandfonline.com/doi/abs/10.1080/02602938.2021.1968338
