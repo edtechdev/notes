@@ -5,9 +5,7 @@ Have you ever fidgeted with an object while doing something like, watching telev
 - [[Distraction]]
 - [[Students with disabilities]]
 - [[Neurodiversity]]
-
 - [[Evolutionary psychology]] https://www.sciencealert.com/watch-is-adhd-an-evolutionary-advantage
-
 - https://www.youtube.com/watch?v=bzzf5IxPbwg
 - Diagram: https://www.pathwaysneuropsychology.com/differences-brain-structure-children-adhd/
 - https://dictionary.apa.org/attention-deficithyperactivity-disorder
@@ -18,23 +16,15 @@ Have you ever fidgeted with an object while doing something like, watching telev
 - and smart phone over-use https://www.mdpi.com/2071-1050/13/11/6027
 - https://twitter.com/karenraycosta/status/1404381628093325315?s=19
 - https://elearningindustry.com/adhd-friendly-elearning-tips-from-instructional-designer-with-add/
-
 - https://theadhdacademic.weebly.com/
-
 - And watching [[videos]]: https://www.ucf.edu/news/adhd-kids-can-still-theyre-not-straining-brains/
-
 - [[Self-regulated learning]] https://www.sciencedirect.com/science/article/abs/pii/S2212868921001021?dgcid=raven_sd_via_email
-
-- [[Smart watches]] https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376837
-
+- [[Smart watch]] https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376837
 - Misleading videos on [[TikTok]], [[Misinformation]] https://www.psypost.org/2022/03/misleading-videos-about-adhd-are-being-widely-disseminated-on-tiktok-study-finds-62705
-
 - Anti-[[Time management]], [[Productivity]] https://www.adhddd.com/anti-planner/
-
 - [[Teacher]] characteristics
-	-  https://www.tandfonline.com/doi/full/10.1080/00131880802499803?src=recsys
-	-  https://www.tandfonline.com/doi/abs/10.1080/00131881.2022.2087711
-
+	- https://www.tandfonline.com/doi/full/10.1080/00131880802499803?src=recsys
+	- https://www.tandfonline.com/doi/abs/10.1080/00131881.2022.2087711
 - Watching [[videos]] https://www.eurekalert.org/news-releases/478386
-
-[[Disabilities]]
+  
+  [[Disabilities]]
