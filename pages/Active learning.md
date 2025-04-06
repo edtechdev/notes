@@ -6,7 +6,7 @@ Frequently asked questions:
 - [[Peer instruction]]
 - [[Simulations]]
 - [[Games]]
-- [[Class discussion]]
+- [[Discussion]]
 - [[Worksheets]]
 - [[Inquiry based learning]]
 - [[Problem-based learning]]
