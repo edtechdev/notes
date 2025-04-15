@@ -15,7 +15,7 @@
 - [[Financial literacy]]
 - [[Scientific literacy]]
 - [[Physical literacy]]
-- [[computer literacy]]
+- [[Computer literacy]]
 - [[Feedback literacy]]
 - [[Problem solving]]
 - [[Creativity]], [[Curiosity]]
