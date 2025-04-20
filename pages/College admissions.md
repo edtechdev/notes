@@ -13,7 +13,7 @@
 	- https://www.chronicle.com/article/in-defense-of-holistic-admissions
 - https://www.insidehighered.com/admissions/article/2021/06/14/author-discusses-her-new-book-college-admissions
   
-  and [[enrollment management]] https://www.newamerica.org/education-policy/edcentral/ceasefire/
+  and [[Enrollment]] / [[enrollment management]] https://www.newamerica.org/education-policy/edcentral/ceasefire/
   
   https://www.aacrao.org/
   
