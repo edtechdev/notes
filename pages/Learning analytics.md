@@ -1,5 +1,5 @@
 - [[Dashboard]]
-- [[Data analytics]]
+- [[Data analysis]]
 - [[Adaptive learning]]
 - https://github.com/PlaypowerLabs/EdOptimize
 - https://www.tandfonline.com/doi/epub/10.1080/02602938.2020.1782831
