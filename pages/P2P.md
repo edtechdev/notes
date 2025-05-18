@@ -1,4 +1,3 @@
-- [[P2P]]
+- [[Decentralization]]
 - [[Decentralized web]]
--
 -
