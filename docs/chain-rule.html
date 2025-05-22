@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chain Rule Explorer</title>
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          tags: 'ams' // For equation numbering, if needed
+        },
+        svg: {
+          fontCache: 'global'
+        }
+      };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .controls {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .controls button {
+            padding: 8px 15px;
+            margin: 0 5px;
+            cursor: pointer;
+            background-color: #5cb85c;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        .controls button:hover {
+            background-color: #4cae4c;
+        }
+        .simulation-area {
+            display: grid;
+            grid-template-columns: 1fr; /* Single column for smaller screens */
+            gap: 20px;
+        }
+
+        /* Desktop layout: 2 columns if space allows, or make left/right panels take less width */
+        @media (min-width: 768px) {
+            .simulation-area {
+                /* Optional: if you want a 3-column layout eventually for visuals */
+                /* grid-template-columns: 0.8fr 1.2fr 0.8fr; */
+                 grid-template-columns: 1fr 2fr; /* Two columns for now: Definition + Steps, Right Panel for explanation*/
+            }
+             .left-panel-container { /* New wrapper for left panel */
+                grid-column: 1 / 2;
+            }
+            .middle-panel {
+                grid-column: 2 / 3;
+            }
+            .right-panel {
+                 grid-column: 1 / 3; /* Span across both columns below the others */
+                 margin-top: 20px;
+            }
+        }
+         @media (min-width: 1024px) {
+            .simulation-area {
+                grid-template-columns: 250px 1fr 250px; /* 3 columns */
+            }
+            .left-panel-container {
+                grid-column: 1 / 2;
+            }
+            .middle-panel {
+                grid-column: 2 / 3;
+            }
+            .right-panel {
+                 grid-column: 3 / 4;
+                 margin-top: 0;
+            }
+        }
+
+
+        .left-panel, .middle-panel, .right-panel {
+            background: #e9e9e9;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .left-panel h2, .middle-panel h2, .right-panel h2 {
+            margin-top: 0;
+            color: #337ab7;
+        }
+        .step {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+        }
+        .step p {
+            margin: 5px 0;
+        }
+        .step input[type="text"] {
+            padding: 8px;
+            margin-right: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            min-width: 150px; /* Ensure decent width */
+        }
+        .step button {
+            padding: 6px 10px;
+            margin: 2px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        .step button:hover {
+            background-color: #0056b3;
+        }
+        .feedback {
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        .feedback.correct {
+            color: green;
+        }
+        .feedback.incorrect {
+            color: red;
+        }
+        .hint {
+            margin-top: 5px;
+            padding: 8px;
+            background-color: #fffbe6;
+            border: 1px solid #ffe58f;
+            border-radius: 4px;
+            font-style: italic;
+        }
+        code, .math-display { /* for inline code or math display */
+            background-color: #f0f0f0;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: "Courier New", Courier, monospace;
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Chain Rule Explorer</h1>
+    </header>
+
+    <div class="controls">
+        <button id="prevProblem" onclick="prevProblem()">Previous Problem</button>
+        <span id="problemIndicator">Problem 1 of N</span>
+        <button id="nextProblem" onclick="nextProblem()">Next Problem</button>
+    </div>
+
+    <main class="simulation-area">
+        <div class="left-panel-container"> <!-- Wrapper for left panel -->
+            <div class="left-panel">
+                <h2>1. Define Functions</h2>
+                <p>Outer function: $f(u) = <span id="f_u_display" class="math-display"></span>$</p>
+                <p>Inner function: $g(x) = <span id="g_x_display" class="math-display"></span>$</p>
+                <p>Composite function: $h(x) = f(g(x)) = <span id="h_x_display" class="math-display"></span>$</p>
+                <hr>
+                <p>Let $u = g(x)$. So, $u = <span id="u_equals_g_x_display" class="math-display"></span>$</p>
+            </div>
+        </div>
+
+        <div class="middle-panel">
+            <h2>2. Calculate Derivatives Step-by-Step</h2>
+
+            <div class="step">
+                <p><strong>Step A:</strong> Find $f'(u) = \frac{d}{du}[f(u)]$</p>
+                <p>Given $f(u) = <span id="f_u_step_ref" class="math-display"></span>$</p>
+                $f'(u) = $ <input type="text" id="f_prime_u_input" size="20">
+                <button onclick="checkAnswer(1)">Check</button>
+                <button onclick="showHint(1)">Hint</button>
+                <button onclick="showAnswer(1)">Show Answer</button>
+                <span id="feedback1" class="feedback"></span>
+                <p id="hint1" class="hint" style="display:none;"></p>
+            </div>
+
+            <div class="step">
+                <p><strong>Step B:</strong> Find $g'(x) = \frac{d}{dx}[g(x)]$</p>
+                <p>Given $g(x) = <span id="g_x_step_ref" class="math-display"></span>$</p>
+                $g'(x) = $ <input type="text" id="g_prime_x_input" size="20">
+                <button onclick="checkAnswer(2)">Check</button>
+                <button onclick="showHint(2)">Hint</button>
+                <button onclick="showAnswer(2)">Show Answer</button>
+                <span id="feedback2" class="feedback"></span>
+                <p id="hint2" class="hint" style="display:none;"></p>
+            </div>
+
+            <div class="step">
+                <p><strong>Step C:</strong> Substitute $g(x)$ into $f'(u)$ to get $f'(g(x))$</p>
+                <p>We have $f'(u) = <span id="f_prime_u_val_ref" class="math-display"></span>$ and $u = g(x) = <span id="g_x_step_ref2" class="math-display"></span>$</p>
+                $f'(g(x)) = $ <input type="text" id="f_prime_g_x_input" size="30">
+                <button onclick="checkAnswer(3)">Check</button>
+                <button onclick="showHint(3)">Hint</button>
+                <button onclick="showAnswer(3)">Show Answer</button>
+                <span id="feedback3" class="feedback"></span>
+                <p id="hint3" class="hint" style="display:none;"></p>
+            </div>
+
+            <div class="step">
+                <p><strong>Step D:</strong> Apply Chain Rule: $h'(x) = f'(g(x)) \cdot g'(x)$</p>
+                <p>We have $f'(g(x)) = <span id="f_prime_g_x_val_ref" class="math-display"></span>$ and $g'(x) = <span id="g_prime_x_val_ref" class="math-display"></span>$</p>
+                $h'(x) = $ <input type="text" id="h_prime_x_input" size="40">
+                <button onclick="checkAnswer(4)">Check Final</button>
+                <button onclick="showHint(4)">Hint</button>
+                <button onclick="showAnswer(4)">Show Answer</button>
+                <span id="feedback4" class="feedback"></span>
+                <p id="hint4" class="hint" style="display:none;"></p>
+            </div>
+        </div>
+
+        <div class="right-panel">
+            <h2>Why it Works</h2>
+            <p>The Chain Rule states: $\frac{dy}{dx} = \frac{dy}{du} \cdot \frac{du}{dx}$</p>
+            <p>If $y = f(u)$ and $u = g(x)$, then $y = f(g(x))$.
+                The rate of change of $y$ with respect to $x$ ($h'(x)$) is the product of:
+            </p>
+            <ul>
+                <li>The rate of change of $y$ (or $f$) with respect to $u$ (which is $f'(u)$ evaluated at $u=g(x)$), AND</li>
+                <li>The rate of change of $u$ (or $g$) with respect to $x$ (which is $g'(x)$).</li>
+            </ul>
+            <p>Think of it like nested machines: $x \rightarrow [g] \rightarrow u \rightarrow [f] \rightarrow y$. The overall change is magnified (or reduced) by each stage.</p>
+            <p>(More advanced visualizations or interactive graphs could be added here in a future version.)</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>Tip: Use standard calculus notation. E.g., <code>x^2</code> for $x^2$, <code>*</code> for multiplication. Spaces are ignored.</p>
+    </footer>
+</div>
+
+<script>
+    const problems = [
+        {
+            f_u_str: "u^2",
+            g_x_str: "3x+1",
+            h_x_str_display: "(3x+1)^2",
+            f_prime_u_ans: ["2u"],
+            g_prime_x_ans: ["3"],
+            f_prime_g_x_ans: ["2(3x+1)", "6x+2"],
+            h_prime_x_ans: ["2(3x+1)*3", "3*2(3x+1)", "6(3x+1)", "18x+6"],
+            hints: [
+                "Use the power rule: $\\frac{d}{du} (u^n) = n u^{n-1}$. Here $n=2$.",
+                "The derivative of $ax+b$ is $a$. Here $a=3, b=1$.",
+                "Replace 'u' in your $f'(u)$ expression (which should be $2u$) with the full expression for $g(x)$ (which is $3x+1$).",
+                "Multiply your result from Step C (which should be $2(3x+1)$ or $6x+2$) by your result from Step B (which should be $3$)."
+            ]
+        },
+        {
+            f_u_str: "\\sin(u)", // Using MathJax/LaTeX notation
+            g_x_str: "x^2",
+            h_x_str_display: "\\sin(x^2)",
+            f_prime_u_ans: ["cos(u)"],
+            g_prime_x_ans: ["2x"],
+            f_prime_g_x_ans: ["cos(x^2)"],
+            h_prime_x_ans: ["cos(x^2)*2x", "2x*cos(x^2)", "2xcos(x^2)"],
+            hints: [
+                "The derivative of $\\sin(u)$ with respect to $u$ is $\\cos(u)$.",
+                "Use the power rule: $\\frac{d}{dx} (x^n) = nx^{n-1}$. Here $n=2$.",
+                "Replace 'u' in your $f'(u)$ expression (which should be $\\cos(u)$) with $g(x)$ (which is $x^2$).",
+                "Multiply $f'(g(x))$ (which should be $\\cos(x^2)$) by $g'(x)$ (which should be $2x$)."
+            ]
+        },
+        {
+            f_u_str: "e^u",
+            g_x_str: "5x",
+            h_x_str_display: "e^{5x}",
+            f_prime_u_ans: ["e^u"],
+            g_prime_x_ans: ["5"],
+            f_prime_g_x_ans: ["e^(5x)", "e^{5x}"], // Allow both ^() and ^{}
+            h_prime_x_ans: ["e^(5x)*5", "5*e^(5x)", "5e^(5x)", "5e^{5x}", "e^{5x}*5"],
+            hints: [
+                "The derivative of $e^u$ with respect to $u$ is $e^u$.",
+                "The derivative of $kx$ is $k$.",
+                "Replace 'u' in $f'(u)$ (which is $e^u$) with $g(x)$ (which is $5x$).",
+                "Multiply $f'(g(x))$ (which should be $e^{5x}$) by $g'(x)$ (which should be $5$)."
+            ]
+        },
+        {
+            f_u_str: "u^3 + 2u",
+            g_x_str: "x+1",
+            h_x_str_display: "(x+1)^3 + 2(x+1)",
+            f_prime_u_ans: ["3u^2+2"],
+            g_prime_x_ans: ["1"],
+            f_prime_g_x_ans: ["3(x+1)^2+2"],
+            h_prime_x_ans: ["(3(x+1)^2+2)*1", "3(x+1)^2+2", "1*(3(x+1)^2+2)"],
+            hints: [
+                "Differentiate term by term: $\\frac{d}{du}(u^3) + \\frac{d}{du}(2u)$. Use power rule.",
+                "The derivative of $x+c$ is $1$.",
+                "Replace 'u' in your $f'(u)$ (which should be $3u^2+2$) with $g(x)$ (which is $x+1$).",
+                "Multiply $f'(g(x))$ by $g'(x)$. (Multiplying by $1$ doesn't change the expression!)"
+            ]
+        },
+        {
+            f_u_str: "\\ln(u)",
+            g_x_str: "x^2+3",
+            h_x_str_display: "\\ln(x^2+3)",
+            f_prime_u_ans: ["1/u" , "u^(-1)"],
+            g_prime_x_ans: ["2x"],
+            f_prime_g_x_ans: ["1/(x^2+3)", "(x^2+3)^(-1)"],
+            h_prime_x_ans: ["(1/(x^2+3))*2x", "2x/(x^2+3)", "2x(x^2+3)^(-1)"],
+            hints: [
+                "The derivative of $\\ln(u)$ with respect to $u$ is $1/u$.",
+                "Differentiate $x^2+3$. The derivative of a constant is 0.",
+                "Replace 'u' in $f'(u)$ (which is $1/u$) with $g(x)$ (which is $x^2+3$).",
+                "Multiply $f'(g(x))$ by $g'(x)$."
+            ]
+        }
+    ];
+    let currentProblemIndex = 0;
+
+    // DOM Elements
+    const f_u_display = document.getElementById('f_u_display');
+    const g_x_display = document.getElementById('g_x_display');
+    const h_x_display = document.getElementById('h_x_display');
+    const u_equals_g_x_display = document.getElementById('u_equals_g_x_display');
+
+    const f_u_step_ref = document.getElementById('f_u_step_ref');
+    const g_x_step_ref = document.getElementById('g_x_step_ref');
+    const f_prime_u_val_ref = document.getElementById('f_prime_u_val_ref');
+    const g_x_step_ref2 = document.getElementById('g_x_step_ref2');
+    const f_prime_g_x_val_ref = document.getElementById('f_prime_g_x_val_ref');
+    const g_prime_x_val_ref = document.getElementById('g_prime_x_val_ref');
+
+    const inputs = [
+        document.getElementById('f_prime_u_input'),
+        document.getElementById('g_prime_x_input'),
+        document.getElementById('f_prime_g_x_input'),
+        document.getElementById('h_prime_x_input')
+    ];
+    const feedbacks = [
+        document.getElementById('feedback1'),
+        document.getElementById('feedback2'),
+        document.getElementById('feedback3'),
+        document.getElementById('feedback4')
+    ];
+    const hints = [
+        document.getElementById('hint1'),
+        document.getElementById('hint2'),
+        document.getElementById('hint3'),
+        document.getElementById('hint4')
+    ];
+    const problemIndicator = document.getElementById('problemIndicator');
+
+    function normalizeAnswer(str) {
+        if (typeof str !== 'string') return '';
+        // Remove spaces, convert to lowercase, handle common power notation and parens for checking
+        return str.replace(/\s+/g, '')
+                  .toLowerCase()
+                  .replace(/\*\*(\d+)/g, '^$1') // python power to standard
+                  .replace(/⋅/g, '*') // dot operator to asterisk
+                  .replace(/times/g, '*'); // word times to asterisk
+    }
+
+    function loadProblem(index) {
+        const problem = problems[index];
+
+        f_u_display.textContent = problem.f_u_str;
+        g_x_display.textContent = problem.g_x_str;
+        h_x_display.textContent = problem.h_x_str_display;
+        u_equals_g_x_display.textContent = problem.g_x_str;
+
+        f_u_step_ref.textContent = problem.f_u_str;
+        g_x_step_ref.textContent = problem.g_x_str;
+        // Populate reference values with the *correct* answers for context in subsequent steps
+        f_prime_u_val_ref.textContent = problem.f_prime_u_ans[0]; // Show the primary correct answer
+        g_x_step_ref2.textContent = problem.g_x_str;
+        f_prime_g_x_val_ref.textContent = problem.f_prime_g_x_ans[0]; // Show primary correct
+        g_prime_x_val_ref.textContent = problem.g_prime_x_ans[0]; // Show primary correct
+
+        inputs.forEach(input => input.value = '');
+        feedbacks.forEach(fb => {
+            fb.textContent = '';
+            fb.className = 'feedback';
+        });
+        hints.forEach(hint => {
+            hint.style.display = 'none';
+            hint.innerHTML = ''; // Clear previous hint content
+        });
+
+        problemIndicator.textContent = `Problem ${index + 1} of ${problems.length}`;
+        
+        // Retypeset all math content after updating text
+        if (window.MathJax && MathJax.typesetPromise) {
+            MathJax.typesetPromise();
+        }
+    }
+
+    function checkAnswer(stepNumber) {
+        const problem = problems[currentProblemIndex];
+        const studentInput = inputs[stepNumber - 1].value;
+        const normalizedStudentInput = normalizeAnswer(studentInput);
+        
+        let correctAnswers;
+        switch(stepNumber) {
+            case 1: correctAnswers = problem.f_prime_u_ans; break;
+            case 2: correctAnswers = problem.g_prime_x_ans; break;
+            case 3: correctAnswers = problem.f_prime_g_x_ans; break;
+            case 4: correctAnswers = problem.h_prime_x_ans; break;
+        }
+
+        const isCorrect = correctAnswers.map(ans => normalizeAnswer(ans)).includes(normalizedStudentInput);
+
+        feedbacks[stepNumber - 1].textContent = isCorrect ? 'Correct!' : 'Incorrect. Try again.';
+        feedbacks[stepNumber - 1].className = isCorrect ? 'feedback correct' : 'feedback incorrect';
+        hints[stepNumber - 1].style.display = 'none'; // Hide hint if they try again
+    }
+
+    function showHint(stepNumber) {
+        const problem = problems[currentProblemIndex];
+        const hintText = problem.hints[stepNumber - 1];
+        const hintElement = hints[stepNumber-1];
+        
+        hintElement.innerHTML = hintText; // Use innerHTML for MathJax
+        hintElement.style.display = 'block';
+        feedbacks[stepNumber - 1].textContent = ''; // Clear feedback when hint is shown
+
+        if (window.MathJax && MathJax.typesetPromise) {
+            MathJax.typesetPromise([hintElement]); // Typeset only the hint element
+        }
+    }
+
+    function showAnswer(stepNumber) {
+        const problem = problems[currentProblemIndex];
+        let correctAnswer;
+        switch(stepNumber) {
+            case 1: correctAnswer = problem.f_prime_u_ans[0]; break;
+            case 2: correctAnswer = problem.g_prime_x_ans[0]; break;
+            case 3: correctAnswer = problem.f_prime_g_x_ans[0]; break;
+            case 4: correctAnswer = problem.h_prime_x_ans[0]; break;
+        }
+        inputs[stepNumber - 1].value = correctAnswer;
+        feedbacks[stepNumber - 1].textContent = 'Answer shown.';
+        feedbacks[stepNumber - 1].className = 'feedback';
+        hints[stepNumber - 1].style.display = 'none';
+    }
+
+    function nextProblem() {
+        if (currentProblemIndex < problems.length - 1) {
+            currentProblemIndex++;
+            loadProblem(currentProblemIndex);
+        }
+    }
+
+    function prevProblem() {
+        if (currentProblemIndex > 0) {
+            currentProblemIndex--;
+            loadProblem(currentProblemIndex);
+        }
+    }
+
+    // Initial Load
+    document.addEventListener('DOMContentLoaded', () => {
+        loadProblem(currentProblemIndex);
+    });
+
+</script>
+
+</body>
+</html>
