@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Chain Rule: Inflating Balloon Simulation</title>
+    <style>
+        body { margin: 0; font-family: Arial, sans-serif; overflow: hidden; background-color: #f0f0f0; color: #333; display: flex; flex-direction: column; align-items: center; }
+        #container { width: 100%; max-width: 800px; aspect-ratio: 16/9; position: relative; }
+        canvas { display: block; }
+        #infoPanel {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: rgba(255, 255, 255, 0.85);
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            font-size: 0.9em;
+            max-width: 300px;
+        }
+        #infoPanel h2 { margin-top: 0; font-size: 1.2em; }
+        #infoPanel p { margin: 5px 0; }
+        #infoPanel .math { font-family: "Times New Roman", Times, serif; font-style: italic; }
+        #controls {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        button {
+            padding: 8px 15px;
+            margin: 0 5px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+        button:hover { background-color: #0056b3; }
+        @media (max-width: 600px) {
+            #infoPanel { font-size: 0.8em; padding: 10px; max-width: 90%; }
+            #infoPanel h2 { font-size: 1.1em; }
+            button { padding: 6px 10px; font-size: 0.8em;}
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="infoPanel">
+            <h2>Chain Rule: Inflating Balloon</h2>
+            <p>We are observing a balloon being inflated.</p>
+            <p>Let: <br>
+                - <span class="math">t</span> = Time (seconds) <br>
+                - <span class="math">r(t)</span> = Radius of balloon at time <span class="math">t</span> (cm) <br>
+                - <span class="math">V(r)</span> = Volume of balloon with radius <span class="math">r</span> (cm³)
+            </p>
+            <p>We want to find <span class="math">dV/dt</span>, the rate of change of Volume over Time.</p>
+            <p>By the Chain Rule: <br>
+                <span class="math">dV/dt = (dV/dr) * (dr/dt)</span>
+            </p>
+            <p>
+                <strong>Current Values:</strong><br>
+                Time (<span class="math">t</span>): <span id="timeVal">0.00</span> s<br>
+                Radius (<span class="math">r</span>): <span id="radiusVal">1.00</span> cm<br>
+                Volume (<span class="math">V</span>): <span id="volumeVal">4.19</span> cm³<br>
+                <hr>
+                Rate of Radius change (<span class="math">dr/dt</span>): <span id="dr_dt_Val">0.10</span> cm/s<br>
+                Rate of Volume change w.r.t. Radius (<span class="math">dV/dr = 4πr²</span>): <span id="dV_dr_Val">12.57</span> cm³/cm<br>
+                <hr>
+                <strong>Rate of Volume change w.r.t. Time (<span class="math">dV/dt</span>): <span id="dV_dt_Val">1.26</span> cm³/s</strong>
+            </p>
+        </div>
+    </div>
+    <div id="controls">
+        <button id="playPauseBtn">Pause</button>
+        <button id="resetBtn">Reset</button>
+        <label for="inflationRate">Inflation Rate (dr/dt):</label>
+        <input type="range" id="inflationRate" min="0.01" max="0.5" step="0.01" value="0.1">
+        <span id="inflationRateVal">0.10</span> cm/s
+    </div>
+
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+            "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+        }
+    }
+    </script>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+        let scene, camera, renderer, sphereMesh;
+        let controls; // OrbitControls
+
+        // Simulation parameters
+        const INITIAL_RADIUS = 1.0; // cm
+        let currentRadius = INITIAL_RADIUS;
+        let time = 0;
+        let rateOfRadiusChange = 0.1; // dr/dt in cm/s
+        let isPlaying = true;
+        const MAX_RADIUS = 5.0; // To prevent it from getting too big and reset
+
+        // DOM Elements for displaying values
+        const timeValEl = document.getElementById('timeVal');
+        const radiusValEl = document.getElementById('radiusVal');
+        const volumeValEl = document.getElementById('volumeVal');
+        const dr_dt_ValEl = document.getElementById('dr_dt_Val');
+        const dV_dr_ValEl = document.getElementById('dV_dr_Val');
+        const dV_dt_ValEl = document.getElementById('dV_dt_Val');
+
+        // Control Buttons & Slider
+        const playPauseBtn = document.getElementById('playPauseBtn');
+        const resetBtn = document.getElementById('resetBtn');
+        const inflationRateSlider = document.getElementById('inflationRate');
+        const inflationRateValEl = document.getElementById('inflationRateVal');
+
+        function init() {
+            const container = document.getElementById('container');
+
+            // Scene
+            scene = new THREE.Scene();
+            scene.background = new THREE.Color(0x87ceeb); // Sky blue
+
+            // Camera
+            camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.1, 1000);
+            camera.position.set(3, 4, 7); // Adjusted for better initial view
+            camera.lookAt(0, 0, 0);
+
+            // Renderer
+            renderer = new THREE.WebGLRenderer({ antialias: true });
+            renderer.setSize(container.clientWidth, container.clientHeight);
+            renderer.setPixelRatio(window.devicePixelRatio);
+            container.appendChild(renderer.domElement);
+
+            // Lights
+            const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
+            scene.add(ambientLight);
+            const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
+            directionalLight.position.set(5, 10, 7.5);
+            scene.add(directionalLight);
+
+            // Balloon (Sphere)
+            // We create a sphere with radius 1, and then scale it.
+            const geometry = new THREE.SphereGeometry(1, 32, 32); // Radius 1, detail 32x32
+            const material = new THREE.MeshStandardMaterial({ color: 0xff0000, roughness: 0.5, metalness: 0.1 });
+            sphereMesh = new THREE.Mesh(geometry, material);
+            scene.add(sphereMesh);
+
+            // OrbitControls
+            controls = new OrbitControls(camera, renderer.domElement);
+            controls.enableDamping = true;
+            controls.dampingFactor = 0.05;
+            controls.screenSpacePanning = false;
+            controls.minDistance = 2;
+            controls.maxDistance = 20;
+            controls.target.set(0, currentRadius / 2, 0); // Center on the balloon's approximate vertical center
+
+            // Event Listeners
+            playPauseBtn.addEventListener('click', togglePlayPause);
+            resetBtn.addEventListener('click', resetSimulation);
+            inflationRateSlider.addEventListener('input', (event) => {
+                rateOfRadiusChange = parseFloat(event.target.value);
+                inflationRateValEl.textContent = rateOfRadiusChange.toFixed(2);
+                updateInfoPanel(); // Update dr/dt immediately
+            });
+            window.addEventListener('resize', onWindowResize);
+
+            // Initial setup
+            rateOfRadiusChange = parseFloat(inflationRateSlider.value);
+            inflationRateValEl.textContent = rateOfRadiusChange.toFixed(2);
+            resetSimulation(); // Apply initial radius and update UI
+            animate();
+        }
+
+        function updateSimulation(deltaTime) {
+            if (!isPlaying) return;
+
+            time += deltaTime;
+
+            // 1. Update radius r based on time t: r(t) = r_initial + rate_r * t
+            // Since we're using deltaTime, it's simpler: currentRadius += dr/dt * deltaTime
+            currentRadius += rateOfRadiusChange * deltaTime;
+
+            // Reset if balloon gets too big
+            if (currentRadius > MAX_RADIUS || currentRadius < 0.1) {
+                if(currentRadius > MAX_RADIUS) currentRadius = MAX_RADIUS;
+                if(currentRadius < 0.1) currentRadius = 0.1; // Prevent zero/negative radius issues
+                // Optionally auto-reset or pause
+                // resetSimulation(); 
+            }
+            
+            // Update sphere scale
+            sphereMesh.scale.set(currentRadius, currentRadius, currentRadius);
+            sphereMesh.position.y = currentRadius - INITIAL_RADIUS; // Keep base on "ground" if starting at radius 1
+            controls.target.set(0, sphereMesh.position.y + currentRadius / 2 , 0); // Adjust orbit target as it grows
+
+            updateInfoPanel();
+        }
+
+        function updateInfoPanel() {
+            // Calculate V: V = (4/3)πr³
+            const volume = (4/3) * Math.PI * Math.pow(currentRadius, 3);
+
+            // Calculate dr/dt (this is our 'rateOfRadiusChange' input)
+            const dr_dt = rateOfRadiusChange;
+
+            // Calculate dV/dr: dV/dr = 4πr²
+            const dV_dr = 4 * Math.PI * Math.pow(currentRadius, 2);
+
+            // Calculate dV/dt using the Chain Rule: dV/dt = (dV/dr) * (dr/dt)
+            const dV_dt = dV_dr * dr_dt;
+
+            // Update DOM elements
+            timeValEl.textContent = time.toFixed(2);
+            radiusValEl.textContent = currentRadius.toFixed(2);
+            volumeValEl.textContent = volume.toFixed(2);
+            dr_dt_ValEl.textContent = dr_dt.toFixed(2);
+            dV_dr_ValEl.textContent = dV_dr.toFixed(2);
+            dV_dt_ValEl.textContent = dV_dt.toFixed(2);
+        }
+        
+        function togglePlayPause() {
+            isPlaying = !isPlaying;
+            playPauseBtn.textContent = isPlaying ? 'Pause' : 'Play';
+        }
+
+        function resetSimulation() {
+            time = 0;
+            currentRadius = INITIAL_RADIUS;
+            sphereMesh.scale.set(currentRadius, currentRadius, currentRadius);
+            sphereMesh.position.y = 0; // Reset position
+            controls.target.set(0, currentRadius / 2, 0);
+            isPlaying = true; // Default to playing on reset
+            playPauseBtn.textContent = 'Pause';
+            updateInfoPanel();
+        }
+
+        function onWindowResize() {
+            const container = document.getElementById('container');
+            camera.aspect = container.clientWidth / container.clientHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(container.clientWidth, container.clientHeight);
+        }
+
+        const clock = new THREE.Clock();
+        function animate() {
+            requestAnimationFrame(animate);
+            const deltaTime = clock.getDelta();
+            
+            updateSimulation(deltaTime);
+            
+            controls.update(); // Only if enableDamping or autoRotate are set to true
+            renderer.render(scene, camera);
+        }
+
+        init();
+    </script>
+</body>
+</html>
