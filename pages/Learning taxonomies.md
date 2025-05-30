@@ -1,0 +1,3 @@
+- [[Bloom's taxonomy]]
+- [[European qualifications framework]]
+-
