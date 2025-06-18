@@ -1,0 +1,5 @@
+- [GitHub - scienceaix/deepresearch: Awesome Deep Research list](https://github.com/scienceaix/deepresearch)
+- [[Reasoning]]
+- [[LLM]]
+- [[Research tools]]
+-
