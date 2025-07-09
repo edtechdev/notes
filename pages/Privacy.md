@@ -1,4 +1,6 @@
-  - https://signal.org/blog/the-instagram-ads-you-will-never-see/
-  - https://firstpartysimulator.org/
-
-[[Technology]][[Rights]]
+- https://signal.org/blog/the-instagram-ads-you-will-never-see/
+- https://firstpartysimulator.org/
+- [[Technology]][[Rights]]
+- [The Cyber-Cleanse: Take Back Your Digital Footprint - The Opt Out Project](https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/)
+- [[Surveillance capitalism]]
+-
