@@ -32,7 +32,7 @@
   [[Open textbooks]]
   https://www.mhec.org/news/new-report-offers-guidance-how-calculate-benefits-open-educational-resources
 - Improving
-  [[Employabilityvhttps]]://www.fierceeducation.com/leadership/how-increase-employment-rate-upcoming-graduates
+  [[Employability]] https://www.fierceeducation.com/leadership/how-increase-employment-rate-upcoming-graduates
   
   [[Financial]] [[Higher Education]]
 -
