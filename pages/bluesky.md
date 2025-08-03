@@ -1,1 +1,3 @@
 - [Stats for Bluesky by Jaz (jaz.bsky.social)](https://bsky.jazco.dev/stats)
+- https://blueskydirectory.com/
+-

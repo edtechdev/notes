@@ -6,4 +6,6 @@
 - Jan.ai
 - [[Whisper]]
 - [[Retrieval augmented generation]]
+- [[Webassembly]]
+- [[WebGPU]]
 -
