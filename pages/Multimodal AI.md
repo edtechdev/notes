@@ -3,4 +3,5 @@
 - [[Visual understanding]]
 - [[Image generation]]
 - [[Video generation]]
+- [[Multimodal learning]]
 -
