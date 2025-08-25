@@ -15,4 +15,3 @@
 - [[LLM]], [[Open LLM]]
 - [[Course policy]], [[Higher education policy]]
 -
--
