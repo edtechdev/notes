@@ -1,1 +1,5 @@
+- [[Web development]]
+- [[Android]]
+- [[iOS]], [[iPhone]], [[Ipad]]
+- [[Vibe coding]]
 -
