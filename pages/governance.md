@@ -1,0 +1,7 @@
+- [[FERPA]]
+- [[acceptable use]]
+- [[Information technology]]
+- [[Higher education policy]]
+- [[Student privacy]]
+- [[Shared governance]]
+-

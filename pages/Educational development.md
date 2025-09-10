@@ -45,5 +45,41 @@ In the United States, it is more common to use the term [[Faculty development]].
 - [[Asset-based approach]] https://styluspub.presswarehouse.com/browse/book/9781620363249/
 - [[Department chair]] https://www.tandfonline.com/doi/epub/10.1080/1360144X.2021.2016414
 - [[Vendor]] https://twitter.com/joshua_r_eyler/status/1554844743527387136?t=Kfp6p8opSHP3-4yHgDfJqA&s=19
+- [[Educational Developers]]
+-
+- [Navigating the Future of Academic Development](https://think.taylorandfrancis.com/special_issues/navigating-the-future-of-academic-development/)
+	- [[Future of higher education]], [[Higher education reform]], [[Evaluating educational development]], [[Neoliberalism in higher education]]
+- References:
   
-  [[Educational Developers]]
+  Achi, Z., & Berger, G. (2015). Delighting in the possible. McKinsey & Company.
+  
+  https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/ourinsights/delighting-in-the-possible 
+  
+  Bass, R. (2022). Coda: A wicked problems mindset for educational development. To Improve the Academy: A Journal of Educational Development, 41(1). https://doi.org/10.3998/tia.2373
+  
+  Beach, A.L., Sorcinelli, M.D., Austin, A., & Rivard, J.K. (2016). Faculty development in the age of evidence. Sterling, VA: Stylus.
+  
+  Eggers, W., & Muoio, A. (n.d.). Wicked opportunities (Business Trends, pp. 31–41). Deloitte.
+  
+  https://www2.deloitte.com/us/en/insights/focus/business-trends/2015/wickedproblems-wicked-opportunities-business-trends.html 
+  
+  Ellis, D.E. (2024). Future-proofing: the educational developer perspective. Presidential keynote address at biannual International Consortium for Educational Development conference, Nairobi, Kenya. Script: https://icedonline.net/wp-content/uploads/2025/07/ICED-2024-Donna-Ellis-Keynote-Script-for-ICED-Website.pdf Slides: https://icedonline.net/wp-content/uploads/2025/07/ICED-2024-Donna-Ellis-keynote-slides.pdf 
+  
+  Ellis, D.E. (2018). Changing the lens: the role of reframing in educational development. To Improve the Academy, 37(1). https://doi.org/10.3998/tia.17063888.0037.104
+  
+  Kolomitro, K., Kenny, N., & Le-May Sheffield, S. (2020) A call to action: exploring and responding to educational developers’ workplace burnout and well-being in higher education. International Journal for Academic Development, 25(1), 5-18. https://doi.org.10.1080/1360144X.2019.1705303
+  
+  McGowan, S., & Felten, P. (2021). On the necessity of hope in academic development. International Journal for Academic Development, 26(4), 473-476. http://doi.org/10/1080/1360144X.2021.1903902
+  
+  Mihai, A.I., Dailey-Hebert, A.L., & Beausaert, S. (2025). Understanding the complexity of centers for teaching and learning: introducing a four-dimensional model. Higher Education. https://doi.org/10.1007/s10734-025-01399-y
+  
+  Pleschova, G., Sutherland, KA., Felten, P., Forsyth, R., & Wright, M.C. (2025). Trust-building as inherent to academic development practice. International Journal for Academic Development, 30(1), 1-13. https://doi.org/10.1080/1360144X.2025.2454704
+  
+  Roxå, T. & Mårtensson, K. (2017) Agency and structure in academic development practices: are we liberating academic teachers or are we part of a machinery suppressing them? International Journal for Academic Development, 22(2), 95-105. https://doi.org/10.1080/1360144X.2016.1218883
+  
+  Stein, S., Andreotti, V., Restoule, J-P., Vukovic, R., McGregor, C., Pelton, L.F., Hundza, S., Milford, T., Seager, W., Randhawa, J., Brunner, L., Mohajeri, A. (2025). Deepening relational capacity to confront the polycrisis in higher education and beyond. Higher Education Research & Development, 44(6), 1572–1587.  https://doi.org/10.1080/07294360.2025.2525109   [just released]
+  
+  Sutherland, K. A. (2018). Holistic academic development: Is it time to think more broadly about the academic development project? International Journal for Academic Development, 23(4), 261–273. https://doi.org/10.1080/1360144X.2018.1524571
+  
+  Wright, M. (2023). Centers for teaching and learning: the new landscape in higher education. Baltimore, MD: Johns Hopkins University Press.
+-
