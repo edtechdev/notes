@@ -1,6 +1,7 @@
 - [[Artificial intelligence in education]]
 - [[Information literacy]]
 - [[Digital literacy]]
+- [AI Literacy Curriculum Hub (K-12)](https://docs.google.com/spreadsheets/d/1awaUhBIlTV4YkHElBxZUzr9WH9HztPVTUpkdhKk4QvY/htmlview#gid=1151442301)
 - https://canvas.sydney.edu.au/courses/51655
 - [[Academic Integrity]]
 -

@@ -1,2 +1,4 @@
 - [[Misinformation]]
+- [[Information literacy]]
+- [[Fake news]]
 -

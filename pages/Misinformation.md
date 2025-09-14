@@ -1,4 +1,6 @@
 - [[Information literacy]]
+- [[Fake news]]
+- [[fact check]]
 - [[Propaganda]]
 - [[Political bias in higher education]]
 - [[Social media]]
