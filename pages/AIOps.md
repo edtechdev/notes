@@ -1,3 +1,6 @@
 - LLMOps
 - [[Flow engineering]]
+- [[DevOps]]
+- [[Hosting]]
+- [[Web development]]
 -
