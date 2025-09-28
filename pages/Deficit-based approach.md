@@ -19,3 +19,4 @@ Focusing on what students (or others) lack, rather than what they have.
 - And [[Growth mindset]] and [[Grit]] https://www.amle.org/grit-and-growth-mindset-deficit-thinking/
   
   [[Not Recommended]]
+-
