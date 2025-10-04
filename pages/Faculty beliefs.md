@@ -2,4 +2,5 @@
 - [[Beliefs about teaching]]
 - [[Beliefs about learning]]
 - [[Mindset]]
+- [[Faculty perception]]
 -
