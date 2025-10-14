@@ -4,6 +4,8 @@
 - [[Knowledge graph]]
 - [[Semantic web]]
 - [[RDF]]
+- [[Triplestore]]
+- [[GraphRAG]]
 -
 - https://github.com/semantalytics/awesome-semantic-web#databases
 	- https://github.com/semantalytics/awesome-semantic-web#databases

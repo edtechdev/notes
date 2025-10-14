@@ -2,6 +2,7 @@
 - [[Ecological psychology]]
 - [[Human-computer interaction]]
 - [[Philosophy of technology]]
+- [[AI tool calling]]
 - https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12554?campaign=wolearlyview
 - And [[Spatial visualization skills]]: https://onlinelibrary.wiley.com/doi/10.1111/tops.12563
 - https://psycnet.apa.org/record/2018-18829-005

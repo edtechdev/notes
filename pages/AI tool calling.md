@@ -1,4 +1,6 @@
 - [[Tool use]]
 - [[Model context protocol]]
 - [[LLM]]
+- [[API]]
+- [[AI agents]]
 -
