@@ -4,4 +4,6 @@
 - [AI Literacy Curriculum Hub (K-12)](https://docs.google.com/spreadsheets/d/1awaUhBIlTV4YkHElBxZUzr9WH9HztPVTUpkdhKk4QvY/htmlview#gid=1151442301)
 - https://canvas.sydney.edu.au/courses/51655
 - [[Academic Integrity]]
+- [building on the Essential Elements of Digital Literacies - AI Literacy](https://ailiteracy.fyi/)
+	- [Opened Culture | Dimensions of AI Literacies](https://openedculture.org/projects/dimensions-of-ai-literacies/)
 -
