@@ -1,5 +1,5 @@
 - [[Biased algorithms in education]]
 - [[Bias in technology]]
 - [[Bias]]
-- [[Sycophant]]
+- [[Sycophancy]]
 -
