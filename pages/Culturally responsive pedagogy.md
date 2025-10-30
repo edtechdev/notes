@@ -1,4 +1,5 @@
 - [[Inclusive teaching]]
+- [[Equitable teaching]]
 - [[Anti-racism]]
 - [[Equity]]
 - [[Social justice]]
