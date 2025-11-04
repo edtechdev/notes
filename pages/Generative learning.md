@@ -1,0 +1,6 @@
+- [[Desirable difficulty]]
+- [[Active learning]]
+- [[Mental effort]]
+- [[Metacognition]]
+- [[Self-explanation]]
+-
