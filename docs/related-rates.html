@@ -1,0 +1,376 @@
+<html lang="en"><head>
+
+<script class="injected-ffc2e83d85">
+(function(){'use strict';function q(b){var c=0;return function(){return c<b.length?{done:!1,value:b[c++]}:{done:!0}}}function t(b){var c=typeof Symbol!="undefined"&&Symbol.iterator&&b[Symbol.iterator];if(c)return c.call(b);if(typeof b.length=="number")return{next:q(b)};throw Error(String(b)+" is not an iterable or ArrayLike");}var u=typeof Object.defineProperties=="function"?Object.defineProperty:function(b,c,g){if(b==Array.prototype||b==Object.prototype)return b;b[c]=g.value;return b};
+function v(b){b=["object"==typeof globalThis&&globalThis,b,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var c=0;c<b.length;++c){var g=b[c];if(g&&g.Math==Math)return g}throw Error("Cannot find global object");}var w=v(this);function x(b,c){if(c)a:{var g=w;b=b.split(".");for(var h=0;h<b.length-1;h++){var l=b[h];if(!(l in g))break a;g=g[l]}b=b[b.length-1];h=g[b];c=c(h);c!=h&&c!=null&&u(g,b,{configurable:!0,writable:!0,value:c})}}
+function y(){this.j=!1;this.g=null;this.u=void 0;this.h=1;this.v=this.l=0;this.i=null}function z(b){if(b.j)throw new TypeError("Generator is already running");b.j=!0}y.prototype.o=function(b){this.u=b};function A(b,c){b.i={I:c,J:!0};b.h=b.l||b.v}y.prototype.return=function(b){this.i={return:b};this.h=this.v};function B(b){this.g=new y;this.h=b}function E(b,c){z(b.g);var g=b.g.g;if(g)return F(b,"return"in g?g["return"]:function(h){return{value:h,done:!0}},c,b.g.return);b.g.return(c);return G(b)}
+function F(b,c,g,h){try{var l=c.call(b.g.g,g);if(!(l instanceof Object))throw new TypeError("Iterator result "+l+" is not an object");if(!l.done)return b.g.j=!1,l;var m=l.value}catch(f){return b.g.g=null,A(b.g,f),G(b)}b.g.g=null;h.call(b.g,m);return G(b)}function G(b){for(;b.g.h;)try{var c=b.h(b.g);if(c)return b.g.j=!1,{value:c.value,done:!1}}catch(g){b.g.u=void 0,A(b.g,g)}b.g.j=!1;if(b.g.i){c=b.g.i;b.g.i=null;if(c.J)throw c.I;return{value:c.return,done:!0}}return{value:void 0,done:!0}}
+function H(b){this.next=function(c){z(b.g);b.g.g?c=F(b,b.g.g.next,c,b.g.o):(b.g.o(c),c=G(b));return c};this.throw=function(c){z(b.g);b.g.g?c=F(b,b.g.g["throw"],c,b.g.o):(A(b.g,c),c=G(b));return c};this.return=function(c){return E(b,c)};this[Symbol.iterator]=function(){return this}}function I(b){function c(h){return b.next(h)}function g(h){return b.throw(h)}return new Promise(function(h,l){function m(f){f.done?h(f.value):Promise.resolve(f.value).then(c,g).then(m,l)}m(b.next())})}
+x("Symbol",function(b){function c(m){if(this instanceof c)throw new TypeError("Symbol is not a constructor");return new g(h+(m||"")+"_"+l++,m)}function g(m,f){this.g=m;u(this,"description",{configurable:!0,writable:!0,value:f})}if(b)return b;g.prototype.toString=function(){return this.g};var h="jscomp_symbol_"+(Math.random()*1E9>>>0)+"_",l=0;return c});
+x("Symbol.iterator",function(b){if(b)return b;b=Symbol("Symbol.iterator");u(Array.prototype,b,{configurable:!0,writable:!0,value:function(){return J(q(this))}});return b});function J(b){b={next:b};b[Symbol.iterator]=function(){return this};return b}
+x("Promise",function(b){function c(f){this.h=0;this.i=void 0;this.g=[];this.u=!1;var a=this.j();try{f(a.resolve,a.reject)}catch(d){a.reject(d)}}function g(){this.g=null}function h(f){return f instanceof c?f:new c(function(a){a(f)})}if(b)return b;g.prototype.h=function(f){if(this.g==null){this.g=[];var a=this;this.i(function(){a.l()})}this.g.push(f)};var l=w.setTimeout;g.prototype.i=function(f){l(f,0)};g.prototype.l=function(){for(;this.g&&this.g.length;){var f=this.g;this.g=[];for(var a=0;a<f.length;++a){var d=
+f[a];f[a]=null;try{d()}catch(e){this.j(e)}}}this.g=null};g.prototype.j=function(f){this.i(function(){throw f;})};c.prototype.j=function(){function f(e){return function(k){d||(d=!0,e.call(a,k))}}var a=this,d=!1;return{resolve:f(this.D),reject:f(this.l)}};c.prototype.D=function(f){if(f===this)this.l(new TypeError("A Promise cannot resolve to itself"));else if(f instanceof c)this.G(f);else{a:switch(typeof f){case "object":var a=f!=null;break a;case "function":a=!0;break a;default:a=!1}a?this.C(f):this.o(f)}};
+c.prototype.C=function(f){var a=void 0;try{a=f.then}catch(d){this.l(d);return}typeof a=="function"?this.H(a,f):this.o(f)};c.prototype.l=function(f){this.v(2,f)};c.prototype.o=function(f){this.v(1,f)};c.prototype.v=function(f,a){if(this.h!=0)throw Error("Cannot settle("+f+", "+a+"): Promise already settled in state"+this.h);this.h=f;this.i=a;this.h===2&&this.F();this.K()};c.prototype.F=function(){var f=this;l(function(){if(f.B()){var a=w.console;typeof a!=="undefined"&&a.error(f.i)}},1)};c.prototype.B=
+function(){if(this.u)return!1;var f=w.CustomEvent,a=w.Event,d=w.dispatchEvent;if(typeof d==="undefined")return!0;typeof f==="function"?f=new f("unhandledrejection",{cancelable:!0}):typeof a==="function"?f=new a("unhandledrejection",{cancelable:!0}):(f=w.document.createEvent("CustomEvent"),f.initCustomEvent("unhandledrejection",!1,!0,f));f.promise=this;f.reason=this.i;return d(f)};c.prototype.K=function(){if(this.g!=null){for(var f=0;f<this.g.length;++f)m.h(this.g[f]);this.g=null}};var m=new g;c.prototype.G=
+function(f){var a=this.j();f.A(a.resolve,a.reject)};c.prototype.H=function(f,a){var d=this.j();try{f.call(a,d.resolve,d.reject)}catch(e){d.reject(e)}};c.prototype.then=function(f,a){function d(n,r){return typeof n=="function"?function(C){try{e(n(C))}catch(D){k(D)}}:r}var e,k,p=new c(function(n,r){e=n;k=r});this.A(d(f,e),d(a,k));return p};c.prototype.catch=function(f){return this.then(void 0,f)};c.prototype.A=function(f,a){function d(){switch(e.h){case 1:f(e.i);break;case 2:a(e.i);break;default:throw Error("Unexpected state: "+
+e.h);}}var e=this;this.g==null?m.h(d):this.g.push(d);this.u=!0};c.resolve=h;c.reject=function(f){return new c(function(a,d){d(f)})};c.race=function(f){return new c(function(a,d){for(var e=t(f),k=e.next();!k.done;k=e.next())h(k.value).A(a,d)})};c.all=function(f){var a=t(f),d=a.next();return d.done?h([]):new c(function(e,k){function p(C){return function(D){n[C]=D;r--;r==0&&e(n)}}var n=[],r=0;do n.push(void 0),r++,h(d.value).A(p(n.length-1),k),d=a.next();while(!d.done)})};return c});
+function K(b,c){return Object.prototype.hasOwnProperty.call(b,c)}x("Object.is",function(b){return b?b:function(c,g){return c===g?c!==0||1/c===1/g:c!==c&&g!==g}});x("Array.prototype.includes",function(b){return b?b:function(c,g){var h=this;h instanceof String&&(h=String(h));var l=h.length;g=g||0;for(g<0&&(g=Math.max(g+l,0));g<l;g++){var m=h[g];if(m===c||Object.is(m,c))return!0}return!1}});
+x("String.prototype.includes",function(b){return b?b:function(c,g){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(c instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(c,g||0)!==-1}});
+x("WeakMap",function(b){function c(d){this.g=(a+=Math.random()+1).toString();if(d){d=t(d);for(var e;!(e=d.next()).done;)e=e.value,this.set(e[0],e[1])}}function g(){}function h(d){var e=typeof d;return e==="object"&&d!==null||e==="function"}function l(d){if(!K(d,f)){var e=new g;u(d,f,{value:e})}}function m(d){var e=Object[d];e&&(Object[d]=function(k){if(k instanceof g)return k;Object.isExtensible(k)&&l(k);return e(k)})}if(function(){if(!b||!Object.seal)return!1;try{var d=Object.seal({}),e=Object.seal({}),
+k=new b([[d,2],[e,3]]);if(k.get(d)!=2||k.get(e)!=3)return!1;k.delete(d);k.set(e,4);return!k.has(d)&&k.get(e)==4}catch(p){return!1}}())return b;var f="$jscomp_hidden_"+Math.random();m("freeze");m("preventExtensions");m("seal");var a=0;c.prototype.set=function(d,e){if(!h(d))throw Error("Invalid WeakMap key");l(d);if(!K(d,f))throw Error("WeakMap key fail: "+d);d[f][this.g]=e;return this};c.prototype.get=function(d){return h(d)&&K(d,f)?d[f][this.g]:void 0};c.prototype.has=function(d){return h(d)&&K(d,
+f)&&K(d[f],this.g)};c.prototype.delete=function(d){return h(d)&&K(d,f)&&K(d[f],this.g)?delete d[f][this.g]:!1};return c});
+x("Map",function(b){function c(){var a={};return a.m=a.next=a.head=a}function g(a,d){var e=a[1];return J(function(){if(e){for(;e.head!=a[1];)e=e.m;for(;e.next!=e.head;)return e=e.next,{done:!1,value:d(e)};e=null}return{done:!0,value:void 0}})}function h(a,d){var e=d&&typeof d;e=="object"||e=="function"?m.has(d)?e=m.get(d):(e=""+ ++f,m.set(d,e)):e="p_"+d;var k=a[0][e];if(k&&K(a[0],e))for(a=0;a<k.length;a++){var p=k[a];if(d!==d&&p.key!==p.key||d===p.key)return{id:e,list:k,index:a,entry:p}}return{id:e,
+list:k,index:-1,entry:void 0}}function l(a){this[0]={};this[1]=c();this.size=0;if(a){a=t(a);for(var d;!(d=a.next()).done;)d=d.value,this.set(d[0],d[1])}}if(function(){if(!b||typeof b!="function"||!b.prototype.entries||typeof Object.seal!="function")return!1;try{var a=Object.seal({x:4}),d=new b(t([[a,"s"]]));if(d.get(a)!="s"||d.size!=1||d.get({x:4})||d.set({x:4},"t")!=d||d.size!=2)return!1;var e=d.entries(),k=e.next();if(k.done||k.value[0]!=a||k.value[1]!="s")return!1;k=e.next();return k.done||k.value[0].x!=
+4||k.value[1]!="t"||!e.next().done?!1:!0}catch(p){return!1}}())return b;var m=new WeakMap;l.prototype.set=function(a,d){a=a===0?0:a;var e=h(this,a);e.list||(e.list=this[0][e.id]=[]);e.entry?e.entry.value=d:(e.entry={next:this[1],m:this[1].m,head:this[1],key:a,value:d},e.list.push(e.entry),this[1].m.next=e.entry,this[1].m=e.entry,this.size++);return this};l.prototype.delete=function(a){a=h(this,a);return a.entry&&a.list?(a.list.splice(a.index,1),a.list.length||delete this[0][a.id],a.entry.m.next=a.entry.next,
+a.entry.next.m=a.entry.m,a.entry.head=null,this.size--,!0):!1};l.prototype.clear=function(){this[0]={};this[1]=this[1].m=c();this.size=0};l.prototype.has=function(a){return!!h(this,a).entry};l.prototype.get=function(a){return(a=h(this,a).entry)&&a.value};l.prototype.entries=function(){return g(this,function(a){return[a.key,a.value]})};l.prototype.keys=function(){return g(this,function(a){return a.key})};l.prototype.values=function(){return g(this,function(a){return a.value})};l.prototype.forEach=
+function(a,d){for(var e=this.entries(),k;!(k=e.next()).done;)k=k.value,a.call(d,k[1],k[0],this)};l.prototype[Symbol.iterator]=l.prototype.entries;var f=0;return l});
+x("Set",function(b){function c(g){this.g=new Map;if(g){g=t(g);for(var h;!(h=g.next()).done;)this.add(h.value)}this.size=this.g.size}if(function(){if(!b||typeof b!="function"||!b.prototype.entries||typeof Object.seal!="function")return!1;try{var g=Object.seal({x:4}),h=new b(t([g]));if(!h.has(g)||h.size!=1||h.add(g)!=h||h.size!=1||h.add({x:4})!=h||h.size!=2)return!1;var l=h.entries(),m=l.next();if(m.done||m.value[0]!=g||m.value[1]!=g)return!1;m=l.next();return m.done||m.value[0]==g||m.value[0].x!=4||
+m.value[1]!=m.value[0]?!1:l.next().done}catch(f){return!1}}())return b;c.prototype.add=function(g){g=g===0?0:g;this.g.set(g,g);this.size=this.g.size;return this};c.prototype.delete=function(g){g=this.g.delete(g);this.size=this.g.size;return g};c.prototype.clear=function(){this.g.clear();this.size=0};c.prototype.has=function(g){return this.g.has(g)};c.prototype.entries=function(){return this.g.entries()};c.prototype.values=function(){return this.g.values()};c.prototype.keys=c.prototype.values;c.prototype[Symbol.iterator]=
+c.prototype.values;c.prototype.forEach=function(g,h){var l=this;this.g.forEach(function(m){return g.call(h,m,m,l)})};return c});(function(){function b(){return m?Promise.resolve(m):f?f:f=fetch("https://www.gstatic.com/bard-maui/resources/material-design-icon-names.804824289.json").then(function(a){if(!a.ok)throw Error("HTTP error! status: "+a.status+" fetching https://www.gstatic.com/bard-maui/resources/material-design-icon-names.804824289.json");return a.json()}).then(function(a){if(!Array.isArray(a))throw new TypeError("Fetched icon names from https://www.gstatic.com/bard-maui/resources/material-design-icon-names.804824289.json is not an array.");
+return m=a}).catch(function(a){console.error("IconChecker: Failed to load valid icon names from https://www.gstatic.com/bard-maui/resources/material-design-icon-names.804824289.json.",a);f=null;throw a;})}function c(a){var d,e,k,p;return I(new H(new B(function(n){switch(n.h){case 1:d=(a.textContent||"").trim();if(!d||a.classList.contains("js-replaced-missing-icon")&&d==="radio_button_unchecked")return n.return();e=window.getComputedStyle(a);if(e.display==="none"||e.visibility==="hidden")return n.return();
+n.l=2;var r=b();n.h=4;return{value:r};case 4:k=n.u;n.h=3;n.l=0;break;case 2:return n.l=0,n.i=null,console.warn('IconChecker: Skipping check for icon "'+d+'" as valid names could not be loaded.'),n.return();case 3:(p=k.includes(d))?a.classList.contains("js-replaced-missing-icon")&&a.classList.remove("js-replaced-missing-icon"):d==="radio_button_unchecked"&&a.classList.contains("js-replaced-missing-icon")||(a.textContent="radio_button_unchecked",a.classList.add("js-replaced-missing-icon")),n.h=0}})))}
+function g(a){a=a===void 0?document.body:a;a.querySelectorAll(l).forEach(function(d){c(d)})}function h(){b().catch(function(){});document.fonts.ready.then(function(){requestAnimationFrame(function(){g(document.body);(new MutationObserver(function(a){var d=new Set;a=t(a);for(var e=a.next();!e.done;e=a.next())if(e=e.value,e.type==="childList")e.addedNodes.forEach(function(p){p.nodeType===Node.ELEMENT_NODE&&(p.matches(l)&&d.add(p),p.querySelectorAll(l).forEach(function(n){d.add(n)}))});else if(e.type===
+"attributes"&&e.attributeName==="class"){var k=e.target;e.target.nodeType===Node.ELEMENT_NODE&&k.matches(l)&&d.add(k)}else e.type==="characterData"&&e.target.parentNode&&(e=e.target.parentNode,e.nodeType===Node.ELEMENT_NODE&&e.matches(l)&&d.add(e));d.size>0&&setTimeout(function(){d.forEach(function(p){c(p)})},500)})).observe(document.body,{childList:!0,subtree:!0,attributes:!0,attributeFilter:["class"],characterData:!0})})}).catch(function(a){console.error("IconChecker: Font loading error. Scanning icons anyway.",
+a);requestAnimationFrame(function(){g(document.body)})})}var l=["material-icons","material-symbols-outlined","material-symbols-rounded","material-symbols-sharp"].map(function(a){return"."+a}).join(","),m=null,f=null;document.readyState==="loading"?document.addEventListener("DOMContentLoaded",function(){h()}):h()})();}).call(this);
+
+</script>
+
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Calculus: Related Rates Visualizer</title>
+    <!-- External Libraries (CDN) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&amp;family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,1,0" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; color: #1e293b; }
+        .math-serif { font-family: 'Crimson Text', serif; font-style: italic; }
+        
+        /* Fraction formatting */
+        .fraction { display: inline-flex; flex-direction: column; align-items: center; vertical-align: middle; margin: 0 0.25rem; font-size: 0.9em; }
+        .fraction .top { border-bottom: 1px solid currentColor; padding: 0 0.2rem; width: 100%; text-align: center; }
+        .fraction .bottom { padding: 0 0.2rem; width: 100%; text-align: center; }
+
+        /* Range Slider */
+        input[type=range] { -webkit-appearance: none; background: transparent; }
+        input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; height: 16px; width: 16px; border-radius: 50%; background: #2563eb; margin-top: -6px; cursor: pointer; box-shadow: 0 1px 3px rgba(0,0,0,0.3); transition: transform 0.1s; }
+        input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.1); }
+        input[type=range]::-webkit-slider-runnable-track { width: 100%; height: 4px; cursor: pointer; background: #cbd5e1; border-radius: 2px; }
+
+        /* Transitions */
+        .view-section { display: none; opacity: 0; transition: opacity 0.3s ease-in-out; }
+        .view-section.active { display: flex; opacity: 1; }
+        
+        .cursor-grab { cursor: grab; }
+        .cursor-grabbing { cursor: grabbing; }
+    </style>
+<style>*, ::before, ::after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }/* ! tailwindcss v3.4.17 | MIT License | https://tailwindcss.com */*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}:host,html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";font-feature-settings:normal;font-variation-settings:normal;-webkit-tap-highlight-color:transparent}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;font-feature-settings:normal;font-variation-settings:normal;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}button,input:where([type=button]),input:where([type=reset]),input:where([type=submit]){-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}dialog{padding:0}textarea{resize:vertical}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]:where(:not([hidden=until-found])){display:none}.pointer-events-none{pointer-events:none}.fixed{position:fixed}.absolute{position:absolute}.relative{position:relative}.inset-0{inset:0px}.bottom-6{bottom:1.5rem}.right-4{right:1rem}.right-6{right:1.5rem}.top-4{top:1rem}.z-0{z-index:0}.z-10{z-index:10}.z-20{z-index:20}.z-50{z-index:50}.mx-auto{margin-left:auto;margin-right:auto}.mx-1{margin-left:0.25rem;margin-right:0.25rem}.mx-2{margin-left:0.5rem;margin-right:0.5rem}.mb-1{margin-bottom:0.25rem}.mb-2{margin-bottom:0.5rem}.block{display:block}.flex{display:flex}.grid{display:grid}.hidden{display:none}.aspect-\[4\/3\]{aspect-ratio:4/3}.h-16{height:4rem}.h-full{height:100%}.h-screen{height:100vh}.w-full{width:100%}.max-w-4xl{max-width:56rem}.max-w-7xl{max-width:80rem}.flex-1{flex:1 1 0%}.flex-none{flex:none}.transform{transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.cursor-grab{cursor:grab}.grid-cols-2{grid-template-columns:repeat(2, minmax(0, 1fr))}.flex-col{flex-direction:column}.items-center{align-items:center}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-2{gap:0.5rem}.gap-3{gap:0.75rem}.space-y-3 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(0.75rem * var(--tw-space-y-reverse))}.space-y-4 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem * var(--tw-space-y-reverse))}.space-y-6 > :not([hidden]) ~ :not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1.5rem * var(--tw-space-y-reverse))}.overflow-hidden{overflow:hidden}.overflow-y-auto{overflow-y:auto}.rounded{border-radius:0.25rem}.rounded-full{border-radius:9999px}.rounded-lg{border-radius:0.5rem}.rounded-md{border-radius:0.375rem}.rounded-xl{border-radius:0.75rem}.border{border-width:1px}.border-b{border-bottom-width:1px}.border-r{border-right-width:1px}.border-t{border-top-width:1px}.border-blue-100{--tw-border-opacity:1;border-color:rgb(219 234 254 / var(--tw-border-opacity, 1))}.border-orange-200{--tw-border-opacity:1;border-color:rgb(254 215 170 / var(--tw-border-opacity, 1))}.border-slate-100{--tw-border-opacity:1;border-color:rgb(241 245 249 / var(--tw-border-opacity, 1))}.border-slate-200{--tw-border-opacity:1;border-color:rgb(226 232 240 / var(--tw-border-opacity, 1))}.border-slate-300{--tw-border-opacity:1;border-color:rgb(203 213 225 / var(--tw-border-opacity, 1))}.border-yellow-200{--tw-border-opacity:1;border-color:rgb(254 240 138 / var(--tw-border-opacity, 1))}.bg-blue-50{--tw-bg-opacity:1;background-color:rgb(239 246 255 / var(--tw-bg-opacity, 1))}.bg-blue-600{--tw-bg-opacity:1;background-color:rgb(37 99 235 / var(--tw-bg-opacity, 1))}.bg-orange-50{--tw-bg-opacity:1;background-color:rgb(255 247 237 / var(--tw-bg-opacity, 1))}.bg-slate-100{--tw-bg-opacity:1;background-color:rgb(241 245 249 / var(--tw-bg-opacity, 1))}.bg-slate-50{--tw-bg-opacity:1;background-color:rgb(248 250 252 / var(--tw-bg-opacity, 1))}.bg-slate-900{--tw-bg-opacity:1;background-color:rgb(15 23 42 / var(--tw-bg-opacity, 1))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity, 1))}.bg-white\/90{background-color:rgb(255 255 255 / 0.9)}.bg-yellow-50{--tw-bg-opacity:1;background-color:rgb(254 252 232 / var(--tw-bg-opacity, 1))}.p-1{padding:0.25rem}.p-1\.5{padding:0.375rem}.p-3{padding:0.75rem}.p-4{padding:1rem}.p-6{padding:1.5rem}.px-2{padding-left:0.5rem;padding-right:0.5rem}.px-3{padding-left:0.75rem;padding-right:0.75rem}.px-4{padding-left:1rem;padding-right:1rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.py-0\.5{padding-top:0.125rem;padding-bottom:0.125rem}.py-1\.5{padding-top:0.375rem;padding-bottom:0.375rem}.py-2\.5{padding-top:0.625rem;padding-bottom:0.625rem}.py-3{padding-top:0.75rem;padding-bottom:0.75rem}.pb-2{padding-bottom:0.5rem}.pt-4{padding-top:1rem}.text-center{text-align:center}.font-mono{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace}.text-\[10px\]{font-size:10px}.text-base{font-size:1rem;line-height:1.5rem}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-sm{font-size:0.875rem;line-height:1.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-xs{font-size:0.75rem;line-height:1rem}.font-bold{font-weight:700}.font-medium{font-weight:500}.uppercase{text-transform:uppercase}.leading-relaxed{line-height:1.625}.leading-tight{line-height:1.25}.tracking-wider{letter-spacing:0.05em}.text-blue-700{--tw-text-opacity:1;color:rgb(29 78 216 / var(--tw-text-opacity, 1))}.text-blue-800{--tw-text-opacity:1;color:rgb(30 64 175 / var(--tw-text-opacity, 1))}.text-blue-900{--tw-text-opacity:1;color:rgb(30 58 138 / var(--tw-text-opacity, 1))}.text-emerald-600{--tw-text-opacity:1;color:rgb(5 150 105 / var(--tw-text-opacity, 1))}.text-indigo-600{--tw-text-opacity:1;color:rgb(79 70 229 / var(--tw-text-opacity, 1))}.text-orange-400{--tw-text-opacity:1;color:rgb(251 146 60 / var(--tw-text-opacity, 1))}.text-orange-600{--tw-text-opacity:1;color:rgb(234 88 12 / var(--tw-text-opacity, 1))}.text-slate-400{--tw-text-opacity:1;color:rgb(148 163 184 / var(--tw-text-opacity, 1))}.text-slate-500{--tw-text-opacity:1;color:rgb(100 116 139 / var(--tw-text-opacity, 1))}.text-slate-600{--tw-text-opacity:1;color:rgb(71 85 105 / var(--tw-text-opacity, 1))}.text-slate-700{--tw-text-opacity:1;color:rgb(51 65 85 / var(--tw-text-opacity, 1))}.text-slate-900{--tw-text-opacity:1;color:rgb(15 23 42 / var(--tw-text-opacity, 1))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))}.text-yellow-700{--tw-text-opacity:1;color:rgb(161 98 7 / var(--tw-text-opacity, 1))}.opacity-40{opacity:0.4}.shadow{--tw-shadow:0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-2xl{--tw-shadow:0 25px 50px -12px rgb(0 0 0 / 0.25);--tw-shadow-colored:0 25px 50px -12px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-sm{--tw-shadow:0 1px 2px 0 rgb(0 0 0 / 0.05);--tw-shadow-colored:0 1px 2px 0 var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.shadow-xl{--tw-shadow:0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.backdrop-blur{--tw-backdrop-blur:blur(8px);-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)}.transition-all{transition-property:all;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.transition-colors{transition-property:color, background-color, border-color, fill, stroke, -webkit-text-decoration-color;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, -webkit-text-decoration-color;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.hover\:scale-105:hover{--tw-scale-x:1.05;--tw-scale-y:1.05;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.hover\:bg-blue-700:hover{--tw-bg-opacity:1;background-color:rgb(29 78 216 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-50:hover{--tw-bg-opacity:1;background-color:rgb(248 250 252 / var(--tw-bg-opacity, 1))}.hover\:bg-slate-800:hover{--tw-bg-opacity:1;background-color:rgb(30 41 59 / var(--tw-bg-opacity, 1))}.hover\:text-slate-900:hover{--tw-text-opacity:1;color:rgb(15 23 42 / var(--tw-text-opacity, 1))}@keyframes bounce{0%, 100%{transform:translateY(-25%);animation-timing-function:cubic-bezier(0.8,0,1,1)}50%{transform:none;animation-timing-function:cubic-bezier(0,0,0.2,1)}}.group:hover .group-hover\:animate-bounce{animation:bounce 1s infinite}@media (min-width: 640px){.sm\:inline{display:inline}}@media (min-width: 1024px){.lg\:w-96{width:24rem}.lg\:flex-row{flex-direction:row}}</style></head>
+<body class="h-screen flex flex-col overflow-hidden">
+    <!-- Navbar -->
+    <header class="bg-white border-b border-slate-200 h-16 flex-none z-20 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 h-full flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="bg-blue-600 text-white p-1.5 rounded-lg">
+                    <span class="material-symbols-outlined block">function</span>
+                </div>
+                <div>
+                    <h1 class="font-bold text-slate-900 leading-tight">CalcSim</h1>
+                    <p class="text-xs text-slate-500 font-medium">Related Rates Visualizer</p>
+                </div>
+            </div>
+            <div class="flex bg-slate-100 p-1 rounded-lg">
+                <button class="px-4 py-1.5 text-sm font-medium rounded-md text-blue-700 bg-white shadow-sm transition-all" id="btn-ladder" onclick="app.switchTab('ladder')">Ladder</button>
+                <button class="px-4 py-1.5 text-sm font-medium rounded-md text-slate-600 hover:text-slate-900 transition-all" id="btn-cone" onclick="app.switchTab('cone')">Water Tank</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-1 relative overflow-hidden">
+        
+        <!-- View 1: Ladder -->
+        <section class="view-section absolute inset-0 flex flex-col lg:flex-row active" id="view-ladder">
+            <div class="w-full lg:w-96 bg-white border-r border-slate-200 flex flex-col z-10 shadow-xl overflow-y-auto">
+                <div class="p-6 space-y-6">
+                    <div class="bg-blue-50 border border-blue-100 rounded-xl p-4">
+                        <h2 class="text-blue-900 font-bold mb-2 flex items-center gap-2"><span class="material-symbols-outlined text-sm">info</span> The Problem</h2>
+                        <p class="text-sm text-blue-800 leading-relaxed">A <span class="font-bold">10m ladder</span> leans against a wall. The bottom is pulled away at a constant speed <span class="math-serif">dx/dt</span>. How fast does the top slide down (<span class="math-serif">dy/dt</span>)?</p>
+                    </div>
+                    <div class="grid grid-cols-2 gap-3">
+                        <div class="bg-slate-50 p-3 rounded-lg border border-slate-200"><div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Base (x)</div><div class="text-xl font-mono font-bold text-indigo-600" id="lad-x">3.00 m</div></div>
+                        <div class="bg-slate-50 p-3 rounded-lg border border-slate-200"><div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Height (y)</div><div class="text-xl font-mono font-bold text-emerald-600" id="lad-y">9.54 m</div></div>
+                        <div class="bg-slate-50 p-3 rounded-lg border border-slate-200"><div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Pull Speed (dx/dt)</div><div class="text-xl font-mono font-bold text-indigo-600" id="lad-dx">2.0 m/s</div></div>
+                        <div class="bg-orange-50 p-3 rounded-lg border border-orange-200"><div class="text-[10px] font-bold text-orange-400 uppercase tracking-wider">Drop Speed (dy/dt)</div><div class="text-xl font-mono font-bold text-orange-600" id="lad-dy">-0.63 m/s</div></div>
+                    </div>
+                    <div class="space-y-3">
+                        <h3 class="font-bold text-slate-900 text-sm border-b pb-2">Step-by-Step Logic</h3>
+                        <div class="text-sm bg-slate-50 p-3 rounded border border-slate-100"><div class="text-xs text-slate-500 mb-1">1. Pythagorean Theorem</div><div class="math-serif text-center text-lg">x² + y² = 100</div></div>
+                        <div class="text-sm bg-slate-50 p-3 rounded border border-slate-100"><div class="text-xs text-slate-500 mb-1">2. Differentiate w.r.t time</div><div class="math-serif text-center text-lg">2x(x') + 2y(y') = 0</div></div>
+                        <div class="text-sm bg-yellow-50 p-3 rounded border border-yellow-200"><div class="text-xs text-yellow-700 mb-1 font-bold">3. Solve for dy/dt</div><div class="math-serif text-center text-lg flex justify-center items-center" id="lad-eq-dynamic"><span class="text-orange-600 font-bold">-0.63</span><span class="mx-2">=</span><span class="text-slate-400">-</span><div class="fraction"><span class="top text-indigo-600 font-bold">3.0</span><span class="bottom text-emerald-600 font-bold">9.5</span></div><span class="mx-1">×</span><span class="text-indigo-600 font-bold">(2.0)</span></div></div>
+                    </div>
+                    <div class="space-y-4 pt-4 border-t border-slate-100">
+                        <div><div class="flex justify-between mb-2"><label class="text-sm font-medium text-slate-700">Pull Speed (dx/dt)</label><span class="text-xs font-mono bg-slate-100 px-2 py-0.5 rounded text-slate-600">0.5 - 5.0 m/s</span></div><input class="w-full" id="lad-slider" max="5.0" min="0.5" step="0.1" type="range" value="2.0"></div>
+                        <div class="flex gap-3">
+                            <button class="flex-1 bg-blue-600 hover:bg-blue-700 text-white py-2.5 rounded-lg font-medium shadow-sm transition-colors flex justify-center items-center gap-2" id="lad-btn-play"><span class="material-symbols-outlined">play_arrow</span> Start Pulling</button>
+                            <button class="px-4 py-2.5 border border-slate-300 hover:bg-slate-50 text-slate-700 rounded-lg font-medium transition-colors" id="lad-btn-reset"><span class="material-symbols-outlined">replay</span></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="flex-1 bg-slate-100 relative flex items-center justify-center p-4 overflow-hidden">
+                <div class="absolute inset-0 z-0 opacity-40" style="background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEgMGgwdjJIMUMweiIgZmlsbD0iI2UzZThmNCIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+');"></div>
+                <div class="relative w-full max-w-4xl aspect-[4/3] bg-white rounded-xl shadow-2xl border border-slate-200 overflow-hidden z-10">
+                    <canvas class="w-full h-full cursor-grab" id="canvas-ladder" title="Drag the base of the ladder!" width="1688" height="1266"></canvas>
+                    <div class="absolute top-4 right-4 bg-white/90 backdrop-blur px-3 py-1.5 rounded-full text-xs font-medium text-slate-500 shadow border border-slate-100 pointer-events-none">Interactive: Drag the blue circle</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- View 2: Cone -->
+        <section class="view-section absolute inset-0 flex flex-col lg:flex-row" id="view-cone">
+            <div class="w-full lg:w-96 bg-white border-r border-slate-200 flex flex-col z-10 shadow-xl overflow-y-auto">
+                <div class="p-6 space-y-6">
+                    <div class="bg-blue-50 border border-blue-100 rounded-xl p-4">
+                        <h2 class="text-blue-900 font-bold mb-2 flex items-center gap-2"><span class="material-symbols-outlined text-sm">water_drop</span> The Problem</h2>
+                        <p class="text-sm text-blue-800 leading-relaxed">Water fills a conical tank at rate <span class="math-serif">dV/dt</span>. As the surface area grows, how does the rising speed (<span class="math-serif">dh/dt</span>) change?</p>
+                    </div>
+                    <div class="grid grid-cols-2 gap-3">
+                        <div class="bg-slate-50 p-3 rounded-lg border border-slate-200"><div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Volume (V)</div><div class="text-xl font-mono font-bold text-indigo-600" id="cone-v">0.0 m³</div></div>
+                        <div class="bg-slate-50 p-3 rounded-lg border border-slate-200"><div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Level (h)</div><div class="text-xl font-mono font-bold text-emerald-600" id="cone-h">0.00 m</div></div>
+                        <div class="bg-slate-50 p-3 rounded-lg border border-slate-200"><div class="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Flow In (dV/dt)</div><div class="text-xl font-mono font-bold text-indigo-600" id="cone-dv">2.0 m³/s</div></div>
+                        <div class="bg-orange-50 p-3 rounded-lg border border-orange-200"><div class="text-[10px] font-bold text-orange-400 uppercase tracking-wider">Rise Rate (dh/dt)</div><div class="text-xl font-mono font-bold text-orange-600" id="cone-dh">-- m/s</div></div>
+                    </div>
+                    <div class="space-y-3">
+                        <h3 class="font-bold text-slate-900 text-sm border-b pb-2">Geometry &amp; Rates</h3>
+                        <div class="text-sm bg-slate-50 p-3 rounded border border-slate-100"><div class="text-xs text-slate-500 mb-1">1. Volume Formula</div><div class="math-serif text-center text-lg">V = <span class="fraction"><span class="top">π</span><span class="bottom">3</span></span>r²h</div></div>
+                        <div class="text-sm bg-slate-50 p-3 rounded border border-slate-100"><div class="text-xs text-slate-500 mb-1">2. Similar Triangles</div><div class="math-serif text-center text-base">r = (R/H)h &nbsp;→&nbsp; V = <span class="fraction"><span class="top">π(R/H)²</span><span class="bottom">3</span></span>h³</div></div>
+                        <div class="text-sm bg-yellow-50 p-3 rounded border border-yellow-200"><div class="text-xs text-yellow-700 mb-1 font-bold">3. Solve for dh/dt</div><div class="math-serif text-center text-lg flex justify-center items-center" id="cone-eq-dynamic"></div></div>
+                    </div>
+                    <div class="space-y-4 pt-4 border-t border-slate-100">
+                        <div><div class="flex justify-between mb-2"><label class="text-sm font-medium text-slate-700">Flow Rate (dV/dt)</label><span class="text-xs font-mono bg-slate-100 px-2 py-0.5 rounded text-slate-600">1.0 - 10.0 m³/s</span></div><input class="w-full" id="cone-slider" max="10.0" min="1.0" step="0.5" type="range" value="2.0"></div>
+                        <div class="flex gap-3">
+                            <button class="flex-1 bg-blue-600 hover:bg-blue-700 text-white py-2.5 rounded-lg font-medium shadow-sm transition-colors flex justify-center items-center gap-2" id="cone-btn-play"><span class="material-symbols-outlined">water_drop</span> Fill Tank</button>
+                            <button class="px-4 py-2.5 border border-slate-300 hover:bg-slate-50 text-slate-700 rounded-lg font-medium transition-colors" id="cone-btn-reset"><span class="material-symbols-outlined">delete</span></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="flex-1 bg-slate-100 relative flex items-center justify-center p-4 overflow-hidden">
+                <div class="absolute inset-0 z-0 opacity-40" style="background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEgMGgwdjJIMUMweiIgZmlsbD0iI2UzZThmNCIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+');"></div>
+                <div class="relative w-full max-w-4xl aspect-[4/3] bg-white rounded-xl shadow-2xl border border-slate-200 overflow-hidden z-10">
+                    <canvas class="w-full h-full" id="canvas-cone" width="1688" height="1266"></canvas>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- NEW: Download Button -->
+    <button onclick="downloadStandalone()" class="fixed bottom-6 right-6 z-50 bg-slate-900 hover:bg-slate-800 text-white shadow-xl rounded-full px-5 py-3 flex items-center gap-2 transition-all transform hover:scale-105 group" title="Download Source">
+        <span class="material-symbols-outlined group-hover:animate-bounce">download</span>
+        <span class="font-medium text-sm hidden sm:inline">Save as HTML</span>
+    </button>
+
+    <script>
+        // --- Download Logic ---
+        function downloadStandalone() {
+            // Get the full HTML content of the current page
+            const htmlContent = document.documentElement.outerHTML;
+            // Create a blob
+            const blob = new Blob([htmlContent], {type: 'text/html'});
+            // Create a temporary link
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'calculus-sim.html';
+            document.body.appendChild(a);
+            a.click();
+            // Cleanup
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        // --- Application Logic ---
+        const app = {
+            init() {
+                this.ladderSim = new LadderSimulation();
+                this.coneSim = new ConeSimulation();
+                this.switchTab('ladder');
+            },
+            switchTab(tabName) {
+                const btnLadder = document.getElementById('btn-ladder');
+                const btnCone = document.getElementById('btn-cone');
+                const activeClass = "px-4 py-1.5 text-sm font-medium rounded-md text-blue-700 bg-white shadow-sm transition-all";
+                const inactiveClass = "px-4 py-1.5 text-sm font-medium rounded-md text-slate-600 hover:text-slate-900 transition-all";
+
+                if (tabName === 'ladder') {
+                    btnLadder.className = activeClass;
+                    btnCone.className = inactiveClass;
+                } else {
+                    btnLadder.className = inactiveClass;
+                    btnCone.className = activeClass;
+                }
+
+                document.querySelectorAll('.view-section').forEach(el => el.classList.remove('active'));
+                document.getElementById(`view-${tabName}`).classList.add('active');
+
+                requestAnimationFrame(() => {
+                    if (tabName === 'ladder') this.ladderSim.resize();
+                    else this.coneSim.resize();
+                });
+            }
+        };
+
+        class LadderSimulation {
+            constructor() {
+                this.canvas = document.getElementById('canvas-ladder');
+                this.ctx = this.canvas.getContext('2d');
+                this.L = 10; this.x = 3.0; this.y = Math.sqrt(100 - 9); this.dxDt = 2.0;
+                this.isPlaying = false; this.lastTime = 0; this.isDragging = false;
+                this.elX = document.getElementById('lad-x');
+                this.elY = document.getElementById('lad-y');
+                this.elDx = document.getElementById('lad-dx');
+                this.elDy = document.getElementById('lad-dy');
+                this.elEq = document.getElementById('lad-eq-dynamic');
+                this.btnPlay = document.getElementById('lad-btn-play');
+                this.slider = document.getElementById('lad-slider');
+                this.bindEvents();
+                this.updateUI();
+                this.loop = this.loop.bind(this);
+                requestAnimationFrame(this.loop);
+            }
+            bindEvents() {
+                window.addEventListener('resize', () => this.resize());
+                this.slider.addEventListener('input', (e) => { this.dxDt = parseFloat(e.target.value); this.updateUI(); });
+                this.btnPlay.addEventListener('click', () => {
+                    this.isPlaying = !this.isPlaying;
+                    this.btnPlay.innerHTML = this.isPlaying ? '<span class="material-symbols-outlined">pause</span> Pause' : '<span class="material-symbols-outlined">play_arrow</span> Resume';
+                    this.lastTime = performance.now();
+                });
+                document.getElementById('lad-btn-reset').addEventListener('click', () => {
+                    this.isPlaying = false; this.x = 3.0; this.updatePhysics(0);
+                    this.btnPlay.innerHTML = '<span class="material-symbols-outlined">play_arrow</span> Start Pulling';
+                    this.updateUI(); this.draw();
+                });
+                const getPos = (e) => { const rect = this.canvas.getBoundingClientRect(); const clientX = e.touches ? e.touches[0].clientX : e.clientX; return (clientX - rect.left) * (this.canvas.width / rect.width); };
+                const startDrag = (e) => {
+                    const mx = getPos(e); const scale = this.canvas.width / 14; const baseXScreen = (2 + this.x) * scale;
+                    if (Math.abs(mx - baseXScreen) < 50) {
+                        this.isDragging = true; this.isPlaying = false;
+                        this.canvas.classList.add('cursor-grabbing'); this.canvas.classList.remove('cursor-grab');
+                        e.preventDefault();
+                    }
+                };
+                const onDrag = (e) => {
+                    if (!this.isDragging) return; e.preventDefault(); const mx = getPos(e); const scale = this.canvas.width / 14;
+                    let newX = (mx / scale) - 2; newX = Math.max(0.1, Math.min(9.9, newX));
+                    this.x = newX; this.updatePhysics(0); this.updateUI(); this.draw();
+                };
+                const endDrag = () => { this.isDragging = false; this.canvas.classList.remove('cursor-grabbing'); this.canvas.classList.add('cursor-grab'); };
+                this.canvas.addEventListener('mousedown', startDrag); window.addEventListener('mousemove', onDrag); window.addEventListener('mouseup', endDrag);
+                this.canvas.addEventListener('touchstart', startDrag, {passive: false}); window.addEventListener('touchmove', onDrag, {passive: false}); window.addEventListener('touchend', endDrag);
+            }
+            resize() { const rect = this.canvas.parentElement.getBoundingClientRect(); this.canvas.width = rect.width * 2; this.canvas.height = rect.height * 2; this.draw(); }
+            updatePhysics(dt) {
+                if (this.isPlaying && dt) {
+                    const change = this.dxDt * (dt / 1000); this.x += change;
+                    if (this.x >= 9.9) { this.x = 9.9; this.isPlaying = false; this.btnPlay.innerHTML = '<span class="material-symbols-outlined">replay</span> Reset'; }
+                }
+                this.y = Math.sqrt(100 - this.x*this.x);
+            }
+            getDyDt() { if (this.y <= 0.01) return -999; return -(this.x / this.y) * this.dxDt; }
+            updateUI() {
+                const dyDt = this.getDyDt();
+                this.elX.textContent = this.x.toFixed(2) + " m"; this.elY.textContent = this.y.toFixed(2) + " m";
+                this.elDx.textContent = this.dxDt.toFixed(1) + " m/s"; this.elDy.textContent = dyDt.toFixed(2) + " m/s";
+                this.elEq.innerHTML = `<span class="text-orange-600 font-bold">${dyDt.toFixed(2)}</span><span class="mx-2">=</span><span class="text-slate-400">-</span><div class="fraction"><span class="top text-indigo-600 font-bold">${this.x.toFixed(1)}</span><span class="bottom text-emerald-600 font-bold">${this.y.toFixed(1)}</span></div><span class="mx-1">×</span><span class="text-indigo-600 font-bold">(${this.dxDt.toFixed(1)})</span>`;
+            }
+            draw() {
+                const ctx = this.ctx; const w = this.canvas.width; const h = this.canvas.height; ctx.clearRect(0,0,w,h);
+                const scale = w / 14; const originX = 2 * scale; const originY = h - 2 * scale;
+                ctx.beginPath(); ctx.moveTo(originX, 0); ctx.lineTo(originX, originY); ctx.lineTo(w, originY); ctx.strokeStyle = '#94a3b8'; ctx.lineWidth = 4; ctx.stroke();
+                const ladderBaseX = originX + this.x * scale; const ladderTopY = originY - this.y * scale;
+                ctx.beginPath(); ctx.moveTo(ladderBaseX, originY); ctx.lineTo(originX, ladderTopY); ctx.strokeStyle = '#1e293b'; ctx.lineWidth = 12; ctx.lineCap = 'round'; ctx.stroke();
+                ctx.beginPath(); ctx.arc(ladderBaseX, originY, 15, 0, Math.PI*2); ctx.fillStyle = this.isDragging ? '#2563eb' : '#3b82f6'; ctx.fill(); ctx.strokeStyle = 'white'; ctx.lineWidth = 4; ctx.stroke();
+                this.drawArrow(ladderBaseX, originY - 40, ladderBaseX + (this.dxDt*scale*0.4), originY - 40, '#3b82f6', 'dx/dt');
+                const dyVal = Math.abs(this.getDyDt());
+                if (this.y > 0.5) { const vecLen = Math.min(dyVal * scale * 0.4, (originY - ladderTopY) - 20); this.drawArrow(originX + 40, ladderTopY, originX + 40, ladderTopY + vecLen, '#ea580c', 'dy/dt'); }
+                ctx.fillStyle = '#64748b'; ctx.font = 'bold 20px sans-serif'; ctx.textAlign = 'center';
+                ctx.fillText(`x=${this.x.toFixed(1)}`, originX + (this.x*scale)/2, originY + 40);
+                ctx.save(); ctx.translate(originX - 40, originY - (this.y*scale)/2); ctx.rotate(-Math.PI/2); ctx.fillText(`y=${this.y.toFixed(1)}`, 0, 0); ctx.restore();
+            }
+            drawArrow(x1, y1, x2, y2, color, label) {
+                const ctx = this.ctx; const head = 15; const angle = Math.atan2(y2-y1, x2-x1);
+                ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.lineTo(x2 - head * Math.cos(angle - Math.PI/6), y2 - head * Math.sin(angle - Math.PI/6)); ctx.moveTo(x2, y2); ctx.lineTo(x2 - head * Math.cos(angle + Math.PI/6), y2 - head * Math.sin(angle + Math.PI/6)); ctx.strokeStyle = color; ctx.lineWidth = 4; ctx.lineCap = 'round'; ctx.lineJoin = 'round'; ctx.stroke();
+                if (label) { ctx.fillStyle = color; ctx.font = 'bold 16px sans-serif'; ctx.fillText(label, x2 + 10, y2 + 5); }
+            }
+            loop(timestamp) {
+                const dt = timestamp - this.lastTime; this.lastTime = timestamp;
+                if (this.isPlaying) { this.updatePhysics(dt); this.updateUI(); this.draw(); }
+                else if (!this.isDragging) this.draw();
+                requestAnimationFrame(this.loop);
+            }
+        }
+
+        class ConeSimulation {
+            constructor() {
+                this.canvas = document.getElementById('canvas-cone'); this.ctx = this.canvas.getContext('2d');
+                this.R = 5; this.H = 10; this.maxVol = (Math.PI/3) * (this.R**2) * this.H;
+                this.vol = 0; this.flowRate = 2.0; this.isPlaying = false; this.lastTime = 0;
+                this.elV = document.getElementById('cone-v'); this.elH = document.getElementById('cone-h'); this.elDv = document.getElementById('cone-dv'); this.elDh = document.getElementById('cone-dh'); this.elEq = document.getElementById('cone-eq-dynamic'); this.btnPlay = document.getElementById('cone-btn-play'); this.slider = document.getElementById('cone-slider');
+                this.bindEvents(); this.resize(); this.loop = this.loop.bind(this); requestAnimationFrame(this.loop);
+            }
+            bindEvents() {
+                window.addEventListener('resize', () => this.resize());
+                this.slider.addEventListener('input', (e) => { this.flowRate = parseFloat(e.target.value); this.updateUI(); });
+                this.btnPlay.addEventListener('click', () => {
+                    this.isPlaying = !this.isPlaying;
+                    this.btnPlay.innerHTML = this.isPlaying ? '<span class="material-symbols-outlined">pause</span> Pause' : '<span class="material-symbols-outlined">water_drop</span> Resume';
+                    this.lastTime = performance.now();
+                });
+                document.getElementById('cone-btn-reset').addEventListener('click', () => {
+                    this.isPlaying = false; this.vol = 0; this.btnPlay.innerHTML = '<span class="material-symbols-outlined">water_drop</span> Fill Tank'; this.updateUI(); this.draw();
+                });
+            }
+            resize() { const rect = this.canvas.parentElement.getBoundingClientRect(); this.canvas.width = rect.width * 2; this.canvas.height = rect.height * 2; this.draw(); }
+            getH(vol) { const k = Math.PI * Math.pow(this.R/this.H, 2); return Math.pow( (3*vol)/k, 1/3 ); }
+            getDhDt(h) { if (h < 0.01) return 0; const r = (this.R/this.H) * h; const area = Math.PI * r * r; return this.flowRate / area; }
+            updatePhysics(dt) {
+                if (this.isPlaying) {
+                    const dv = this.flowRate * (dt/1000); this.vol += dv;
+                    if (this.vol >= this.maxVol) { this.vol = this.maxVol; this.isPlaying = false; this.btnPlay.innerHTML = '<span class="material-symbols-outlined">replay</span> Reset'; }
+                }
+            }
+            updateUI() {
+                const h = this.getH(this.vol); const dh = this.getDhDt(h);
+                this.elV.textContent = this.vol.toFixed(2) + " m³"; this.elH.textContent = h.toFixed(2) + " m"; this.elDv.textContent = this.flowRate.toFixed(1) + " m³/s"; this.elDh.textContent = dh.toFixed(3) + " m/s";
+                const r = (this.R/this.H)*h; const area = Math.PI * r * r;
+                this.elEq.innerHTML = `<span class="text-orange-600 font-bold">${dh.toFixed(3)}</span><span class="mx-2">=</span><div class="fraction"><span class="top text-indigo-600 font-bold">${this.flowRate.toFixed(1)}</span><span class="bottom text-slate-500 text-xs">Area: ${area.toFixed(1)}</span></div>`;
+            }
+            draw() {
+                const ctx = this.ctx; const w = this.canvas.width; const h = this.canvas.height; ctx.clearRect(0,0,w,h);
+                const scale = h / 12; const cx = w/2; const bottomY = h - scale; const topY = bottomY - (this.H * scale);
+                const currentH = this.getH(this.vol); const currentR = (this.R/this.H) * currentH; const waterY = bottomY - (currentH * scale);
+                ctx.beginPath(); ctx.moveTo(cx, bottomY); ctx.lineTo(cx - currentR*scale, waterY); ctx.lineTo(cx + currentR*scale, waterY); ctx.closePath(); ctx.fillStyle = 'rgba(59, 130, 246, 0.4)'; ctx.fill(); ctx.strokeStyle = '#2563eb'; ctx.lineWidth = 2; ctx.stroke();
+                ctx.beginPath(); ctx.moveTo(cx - this.R*scale, topY); ctx.lineTo(cx, bottomY); ctx.lineTo(cx + this.R*scale, topY); ctx.strokeStyle = '#334155'; ctx.lineWidth = 6; ctx.lineCap = 'round'; ctx.lineJoin = 'round'; ctx.stroke();
+                ctx.beginPath(); ctx.ellipse(cx, topY, this.R*scale, this.R*scale*0.1, 0, 0, Math.PI*2); ctx.strokeStyle = '#334155'; ctx.lineWidth = 6; ctx.stroke();
+                if (this.isPlaying) { ctx.beginPath(); ctx.moveTo(cx, topY - 50); ctx.lineTo(cx, waterY); ctx.strokeStyle = '#60a5fa'; ctx.lineWidth = 8; ctx.setLineDash([15, 15]); ctx.lineDashOffset = -this.lastTime/5; ctx.stroke(); ctx.setLineDash([]); }
+                const dh = this.getDhDt(currentH);
+                if (dh > 0.1) { const vecLen = Math.min(dh * scale * 3, 100); this.drawArrow(cx, waterY, cx, waterY - vecLen, '#ea580c', 'dh/dt'); }
+                ctx.fillStyle = '#64748b'; ctx.font = 'bold 16px sans-serif'; ctx.textAlign = 'right'; ctx.fillText(`h=${currentH.toFixed(2)}`, cx - currentR*scale - 10, waterY + 5);
+            }
+            drawArrow(x1, y1, x2, y2, color, label) {
+                const ctx = this.ctx; const head = 10; const angle = Math.atan2(y2-y1, x2-x1);
+                ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.strokeStyle = color; ctx.lineWidth = 3; ctx.stroke();
+                ctx.beginPath(); ctx.moveTo(x2, y2); ctx.lineTo(x2 - head * Math.cos(angle - Math.PI/6), y2 - head * Math.sin(angle - Math.PI/6)); ctx.lineTo(x2 - head * Math.cos(angle + Math.PI/6), y2 - head * Math.sin(angle + Math.PI/6)); ctx.fillStyle = color; ctx.fill();
+                if (label) { ctx.fillStyle = color; ctx.textAlign = 'left'; ctx.fillText(label, x2 + 10, y2 + 5); }
+            }
+            loop(timestamp) {
+                const dt = timestamp - this.lastTime; this.lastTime = timestamp;
+                if (this.isPlaying) { this.updatePhysics(dt); this.updateUI(); }
+                this.draw(); requestAnimationFrame(this.loop);
+            }
+        }
+        document.addEventListener('DOMContentLoaded', () => app.init());
+    </script>
+
+</body></html>

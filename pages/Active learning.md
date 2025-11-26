@@ -20,7 +20,7 @@ Frequently asked questions:
 - https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-marchapril-2021/students-taught
 	- https://arxiv.org/abs/2004.09684
 - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247544
-- Prevalence in [[economics education]] https://www.aeaweb.org/articles?id=10.1257/pandp.20201053
+- Prevalence in [[Economics education]] https://www.aeaweb.org/articles?id=10.1257/pandp.20201053
 - https://www.science.org/doi/10.1126/science.abj9957?fbclid=IwAR0ahFysmSSGvjnnzyBbj-J1tBK07mfR0N0Yxrz_9BSrwaQlOV2OJqrdc-s&
 - Faculty [[Growth mindset]] affect adoption of active learning: https://www.lifescied.org/doi/10.1187/cbe.17-05-0084 and see https://www.science.org/doi/10.1126/sciadv.aau4734
 - https://canvas.bham.ac.uk/courses/52821
