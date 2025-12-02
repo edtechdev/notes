@@ -1,1 +1,4 @@
-  - https://github.com/jtpio/jupyterlite
+- https://github.com/jtpio/jupyterlite
+- [[Computational notebook]]
+- [[Python]]
+- [GitHub - jupyterlite/jupyterlite: Wasm powered Jupyter running in the browser 💡](https://github.com/jupyterlite/jupyterlite)
