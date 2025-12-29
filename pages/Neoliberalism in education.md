@@ -5,7 +5,7 @@
 - [[Carceral pedagogy]]
 - https://medium.com/human-restoration-project/unpacking-neoliberal-schooling-aa3a2add66e8
 	- [[Mastery grading]],
-	  [[schooling]],  [[Standardized     testing]], [[Project-based learning]] ,  [[Service     learning]]
+	  [[schooling]], [[Standardized testing]] , [[Project-based learning]] , [[Service learning]]
 	- https://www.humanrestorationproject.org/
 - In [[urban education]]
   [[schooling]],  [[Color blindness]]

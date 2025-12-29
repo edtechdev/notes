@@ -1,4 +1,5 @@
 - [[Forget]]
+- [[AI memory]]
 - [[Short-term memory]]
 - [[Working memory]]
 - [[Recall]]

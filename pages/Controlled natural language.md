@@ -1,5 +1,7 @@
-  - https://aclanthology.org/volumes/2021.cnl-1/
-
-  - http://www.jfsowa.com/pubs/gal4fmf.htm
-
-[[Computer Science]]
+- [[Natural language processing]]
+- [[Compiler]]
+- https://aclanthology.org/volumes/2021.cnl-1/
+- http://www.jfsowa.com/pubs/gal4fmf.htm
+- [[Computer Science]]
+- [Kuhn: A survey and classification of controlled natural... - Google Scholar](https://scholar.google.com/scholar?cites=17635909986289030643&as_sdt=40005&sciodt=0,10&hl=en)
+-

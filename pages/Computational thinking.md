@@ -17,7 +17,7 @@
 - [[Algorithms]]
   [[Explanations]]
   https://link.springer.com/article/10.1007/s10956-022-09965-0
-	- [[Evolution]],  [[natural     selection]]
+	- [[Evolution]], 
 	  https://online.ucpress.edu/abt/article/83/2/112/116169/Using-Unplugged-Computational-Thinking-to-Scaffold
 	  
 	  [[Computer Science]]
