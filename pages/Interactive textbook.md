@@ -1,5 +1,7 @@
 - [[Open textbook]]
 - [[Computational notebook]]
+- [[Explorable explanations]]
+- [[Executable research article]]
 - [[H5P]]
 - [[Question bank]]
 - https://pretextbook.org/

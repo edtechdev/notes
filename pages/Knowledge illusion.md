@@ -1,3 +1,4 @@
+- #redirect [[Illusion of knowledge]]
 - [[Illusion of knowledge]]
 - [[Beliefs about learning]]
 - [[Myths about learning]]

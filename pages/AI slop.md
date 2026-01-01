@@ -1,0 +1,8 @@
+- [[Fake news]]
+- [[Misinformation]]
+- [[Spam]]
+- [[Video generation]]
+- [[Image generation]]
+- [[Artificial intelligence]]
+- [[Social media]]
+-

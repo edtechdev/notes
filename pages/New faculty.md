@@ -1,4 +1,4 @@
-- [[Learning management system]]
+- [[LMS]]
 	- [[Canvas]]
 - [[Syllabus]] tips
 - [[Course design]]
