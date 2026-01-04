@@ -1,3 +1,5 @@
-{{stu
-
-  - https://youtu.be/w7ejDZ8SWv8
+- [[Web development]]
+- [[svelte]]
+- [[Mdbook]]
+-
+- https://youtu.be/w7ejDZ8SWv8
