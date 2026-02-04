@@ -1,1 +1,5 @@
-  - https://pubmed.ncbi.nlm.nih.gov/17854286/
+- https://pubmed.ncbi.nlm.nih.gov/17854286/
+- [[Long-term memory]]
+- [[Working memory]]
+- [[Memory]]
+-

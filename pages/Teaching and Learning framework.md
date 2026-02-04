@@ -79,7 +79,6 @@
 	- [[Videoconferencing]], [[Microsoft Teams]]
 	- [[PowerPoint]], [[Presentation]]
 	- [[Infographic]], [[Data visualization]], [[Concept map]], [[Image]]
-	- [[Annotation tools]], [[Annotation]]
 	- [[Plagiarism detection]], [[Academic Integrity]], [[TurnItIn]]
 	- [[Accessibility]]
 	- [[Remote proctoring]]
