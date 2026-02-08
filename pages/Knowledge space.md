@@ -1,0 +1,5 @@
+- [[Intelligent tutoring system]]
+- [[Adaptive learning]]
+- [[User model]]
+- [[Predictive analytics]]
+-
