@@ -1,4 +1,5 @@
 - [[End-user development]]
+- [[Natural language programming]]
 - [[Notion]]
 - [[Spreadsheet]]
 - [[Visual programming]]
