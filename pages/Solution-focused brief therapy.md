@@ -1,0 +1,5 @@
+- [[Therapy]]
+- [[Strengths-based approach]]
+- [[Positive psychology]]
+- [[Growth mindset]]
+-
