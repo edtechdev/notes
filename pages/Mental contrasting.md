@@ -1,0 +1,6 @@
+- [[Procrastination]]
+- [[Goal]]
+- [[Achievement goal theory]]
+- [[Study skills]]
+- [[Motivation]]
+-
