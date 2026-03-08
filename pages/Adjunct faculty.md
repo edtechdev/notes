@@ -1,0 +1,3 @@
+- [The-Adult-Learner-Journal-2025.pdf](https://www.aontas.com/wp-content/uploads/2025/11/The-Adult-Learner-Journal-2025.pdf#page=91)
+- ["The Nonperson Treatment in Higher Education" by Roscoe Scarborough](https://digitalcommons.kennesaw.edu/jpps/vol16/iss2/4/)
+-
