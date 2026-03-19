@@ -1,0 +1,10 @@
+- [[AI agents]]
+- [[AI engineering]]
+- [[AI assistant]]
+- [[Code generation]]
+- [[Claude]]
+- [[Model context protocol]]
+- [[Skill]]
+- [[AI memory]]
+- https://youtu.be/CxErCGVo-oo?si=qwJnsMnGn8Cm-SRu
+-

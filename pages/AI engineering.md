@@ -3,4 +3,5 @@
 - [[specification]]
 - [[AI agents]]
 - [[Code generation]]
+- [Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/)
 -
