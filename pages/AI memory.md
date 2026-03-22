@@ -1,4 +1,7 @@
 - [[AIOps]]
 - [[Memory]]
 - [[Personalized learning]]
+- [[AI agents]]
+- [[AI engineering]]
+- [[Knowledge graph]]
 -

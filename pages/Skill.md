@@ -1,4 +1,5 @@
 - [[21st century skills]]
+- [[AI Skill]]
 - [[Ability]]
 - [[Talent]]
 - [[Technical education]]

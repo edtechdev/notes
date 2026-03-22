@@ -3,4 +3,5 @@
 - [[DevOps]]
 - [[Hosting]]
 - [[Web development]]
+- [[AI engineering]]
 -
