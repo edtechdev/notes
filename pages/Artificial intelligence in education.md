@@ -1,3 +1,6 @@
+- [AI Pedagogy Project](https://aipedagogy.org/)
+- [AI Educator Tools — Discover the Best AI Tools for Education](https://aieducator.tools/)
+-
 - AI in education collections:
 	- [ai literacy modules](https://docs.google.com/spreadsheets/d/1awaUhBIlTV4YkHElBxZUzr9WH9HztPVTUpkdhKk4QvY/htmlview#gid=1378750365?trk=feed-detail_comments-list_comment-text)
 	- ⁠[ai syllabus policies](https://docs.google.com/document/d/1RMVwzjc1o0Mi8Blw_-JUTcXv02b2WRH86vw7mi16W3U/edit?usp=sharing)
