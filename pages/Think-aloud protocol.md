@@ -1,0 +1,7 @@
+- [[Usability testing]]
+- [[Interview]]
+- [[Cognitive task analysis]]
+- [[Human-computer interaction]]
+- [Thinking Aloud: The #1 Usability Tool - NN/G](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/)
+- [[Usability]]
+-
