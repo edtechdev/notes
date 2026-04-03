@@ -1,6 +1,9 @@
 - [[Cheating]]
 - [[Plagiarism]]
 - [[Homework copying]]
+- [[Process tracking]]
+- [[Remote proctoring]]
+- [[Proctoring]]
 - [[Honor code]]
 - [[Grades]]
 - https://www.ai.niu.edu/academic-integrity/index.shtml

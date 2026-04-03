@@ -2,4 +2,5 @@
 - [Opening up ChatGPT: tracking openness, transparency, and accountability in instruction-tuned text generators](https://opening-up-chatgpt.github.io/)
 	- https://opening-up-chatgpt.github.io/
 - [Ai2 Playground](https://playground.allenai.org/)
+- [The ATOM Project - American Truly Open Models](https://atomproject.ai/)
 -

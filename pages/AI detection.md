@@ -1,8 +1,12 @@
 - [[Artificial intelligence in education]]
+- [[Academic Integrity]]
+- [[Cheating]]
 - [[Plagiarism detection]]
 - [[Not Recommended]]
 - [[Bias in algorithms]]
 - [[Carceral pedagogy]]
 - https://raid-bench.xyz/leaderboard
 	- [[Leaderboard]]
+- [Full article: Heads we win, tails you lose: AI detectors in education](https://www.tandfonline.com/doi/full/10.1080/1360080X.2026.2622146)
+- [[Process tracking]]
 -
