@@ -1,1 +1,6 @@
-- [blue126/teaching-agent](https://github.com/blue126/teaching-agent?tab=readme-ov-file)
+- [[11ty]]
+- [[GitHub]]
+- [[Cloudflare]]
+- [[Markdown]]
+- [[GitOps]]
+-
