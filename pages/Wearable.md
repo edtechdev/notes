@@ -1,2 +1,3 @@
 - [[Smart watch]]
+- [[Smart glasses]]
 -
