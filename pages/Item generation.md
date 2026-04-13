@@ -1,4 +1,8 @@
 - [[Test development]]
 - [[Automated assessment]]
 - [[Multiple choice test]]
+- [[Intelligent tutoring system]]
+- [[Personalized learning]]
+- [[Artificial intelligence in the workplace]]
+- [[Question and answer]]
 -
