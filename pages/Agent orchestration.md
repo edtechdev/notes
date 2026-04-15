@@ -1,0 +1,7 @@
+- [[AI engineering]]
+- [[AI agents]]
+- [[Software development]]
+- [[AIOps]]
+- [[Project Management]]
+- [[Artificial intelligence in the workplace]]
+-

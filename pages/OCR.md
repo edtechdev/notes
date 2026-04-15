@@ -3,4 +3,5 @@
 - [[PDF]]
 - [[Visual understanding]]
 - [[Accessibility]]
+- [allenai/olmOCR-bench · Datasets at Hugging Face](https://huggingface.co/datasets/allenai/olmOCR-bench)
 -
