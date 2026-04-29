@@ -1,5 +1,5 @@
+- [[Heterogeneity]]
 - [[Student groups]]
-- [[Group size]]
-- [[Effective teams]]
 - [[Collaborative learning]]
+- [[Equitable teaching]]
 -

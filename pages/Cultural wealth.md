@@ -1,3 +1,4 @@
+- Community wealth
 - [[Human capital]]
 - [[Diversity]]
 - [[Equity]]
@@ -6,4 +7,5 @@
 - [[Minoritized students]]
 - [[Cultural psychology]]
 - [[First generation students]]
+- [[Equitable teaching]]
 -
