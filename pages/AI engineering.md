@@ -4,4 +4,5 @@
 - [[AI agents]]
 - [[Code generation]]
 - [Agentic Engineering Patterns - Simon Willison's Weblog](https://simonwillison.net/guides/agentic-engineering-patterns/)
+- [rohitg00/ai-engineering-from-scratch: Learn it. Build it. Ship it for others.](https://github.com/rohitg00/ai-engineering-from-scratch)
 -

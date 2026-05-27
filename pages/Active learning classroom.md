@@ -1,4 +1,5 @@
 - [[Active learning]]
+- [[Learning space]]
 - [[Classroom seating]]
 - Preparing students for:
   https://www.tandfonline.com/doi/abs/10.1080/1360144X.2019.1668397?journalCode=rija20
