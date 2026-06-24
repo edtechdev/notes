@@ -4,4 +4,4 @@
 - http://www.jfsowa.com/pubs/gal4fmf.htm
 - [[Computer Science]]
 - [Kuhn: A survey and classification of controlled natural... - Google Scholar](https://scholar.google.com/scholar?cites=17635909986289030643&as_sdt=40005&sciodt=0,10&hl=en)
--
+- [GitHub - sebferre/sparklis: Sparklis is a query builder in natural language that allows people to explore and query SPARQL endpoints with all the power of SPARQL and without any knowledge of SPARQL. · GitHub](https://github.com/sebferre/sparklis)
