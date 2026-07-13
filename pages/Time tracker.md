@@ -1,4 +1,8 @@
-- [[Time management]], [[Quantified self]]
+- [[Time management]]
+- [[Quantified self]]
+- [[Habit]]
+- [[Project Management]]
+-
 - [RescueTime: Automatic Time Tracking and Time Management Software](https://www.rescuetime.com/)
 - [ActivityWatch - Open-source time tracker](https://activitywatch.net/)
 	- [[Open source]]: [GitHub - ActivityWatch/activitywatch: The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.](https://github.com/ActivityWatch/activitywatch)
