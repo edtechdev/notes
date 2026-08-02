@@ -7,7 +7,8 @@
 - [[Evaluation]]
 - [[Evaluating faculty]]
 -
-- ` "How would a department be able to say confidently, Our department is committed to and achieves excellence in teaching among the tenured, tenure-tracked, Teaching Staff, TAs, new faculty, adjunct, etc.?  How would it know?" `\[1\]
+- >"How would a department be able to say confidently, Our department is committed to and achieves excellence in teaching among the tenured, tenure-tracked, Teaching Staff, TAs, new faculty, adjunct, etc.?  How would it know?"
+-
 - https://ascnhighered.org/ASCN/evaluation_initiatives/index.html
 - [[Equity]],[[Instrument]]
   https://www.lifescied.org/doi/10.1187/cbe.21-08-0198
