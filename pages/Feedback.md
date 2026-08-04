@@ -12,7 +12,7 @@
 - [[Systematic review]] https://journals.sagepub.com/doi/full/10.3102/0034654312474350
 - https://www.teaching-matters-blog.ed.ac.uk/feedback-from-one-way-information-to-an-active-dialogic-process/
 - Daily feedback, [[Achievement goal theory]] https://www.sciencedirect.com/science/article/pii/S1096751622000288?dgcid=author#!
-	- [[Learning journal]] https://twitter.com/hbellhaeuser/status/1546750290539462656?t=-LIlPf98VuBoyQcNNJOMVw&s=19
+	- [[Learning journal]] , [[Journaling]]  https://twitter.com/hbellhaeuser/status/1546750290539462656?t=-LIlPf98VuBoyQcNNJOMVw&s=19
 	- Negative [[Time management]] https://econtent.hogrefe.com/doi/10.1026/0049-8637/a000218
 - Active feedback https://figshare.edgehill.ac.uk/articles/educational_resource/Active_Feedback/19929290
 - Feedback for [[Learning]] and [[Assessment]] https://feedbackforlearning.org/
