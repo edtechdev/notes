@@ -13,3 +13,5 @@
 - [[Science education]], [[Motivation]], [[Reflection]] https://link.springer.com/epdf/10.1007/s10956-022-09979-8?sharing_token=0z0JcTH0ENlZH0vR_g2gPfe4RwlQNchNByi7wbcMAY7Oaoo9i3ZzLuLDF9wrn6CaTFoyBiZRVN_Q3ae3CKIwC1CFvThIO5JTzdtEWFOwp-Qk_dZA9Ug9ugO3rIhvkMxld7XyU5NbbF5en6nsLbDX4aBiWdUmB5c3sHgRsSeLJZ4%3D
   
   [[Evidence-based Teaching]] [[Learning]]
+- [Impact of flipped classrooms on higher education student outcomes: A second-order meta-analysis - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0191491X26000969)
+-
