@@ -14,7 +14,7 @@
 - https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02098/full
 - Learning about viruses and COVID https://www.frontiersin.org/articles/10.3389/feduc.2021.736744/full
 - [[Movement]] https://mitpress.mit.edu/books/movement-matters
-- And [[Analogies]], [[metaphor]] https://espace.curtin.edu.au/handle/20.500.11937/25452
+- And [[Analogies]], [[Metaphor]] https://espace.curtin.edu.au/handle/20.500.11937/25452
 - [[STEM education]] https://link.springer.com/article/10.1007/s11191-021-00232-z
 - [[Physics education]] https://arxiv.org/abs/2106.03992
 - [[Geography]] and the tragedy of the [[Commons]] https://www.tandfonline.com/doi/abs/10.1080/03098265.2022.2045577
