@@ -4,4 +4,5 @@
 - [[Markdown]]
 - [[GitOps]]
 - [[astro]]
+- [[AI SEO]]
 -
