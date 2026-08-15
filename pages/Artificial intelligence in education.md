@@ -1,3 +1,4 @@
+- [Home — AI Ed Wiki](https://edtechdev.github.io/aied/)
 - [AI Pedagogy Project](https://aipedagogy.org/)
 - [AI Educator Tools — Discover the Best AI Tools for Education](https://aieducator.tools/)
 -
