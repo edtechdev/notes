@@ -1,0 +1,8 @@
+- [[Structured data]]
+- [[Ontology]]
+- [[Domain model]]
+- [[User model]]
+- [[Graph database]]
+- [[GraphRAG]]
+- [[Intelligent tutoring system]]
+-
