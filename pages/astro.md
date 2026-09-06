@@ -1,3 +1,3 @@
 - [[Static site]]
 - [[Web development]]
--
+- [The Best Slides-as-Code Presentation Tools for Developers](https://xergioalex.com/blog/best-slides-as-code-presentation-tools/)
