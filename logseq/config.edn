@@ -1,4 +1,6 @@
-{;; Currently, we support either "Markdown" or "Org".
+{
+ :tine/guide-announced? true
+;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
  ;; need to use Markdown for some projects.
