@@ -1,4 +1,4 @@
-- [[Custom GPT]]
+- [[Custom Prompt]]
 - [[LlamaIndex]]
 - [[Artificial intelligence]]
 - [[LLM]]
