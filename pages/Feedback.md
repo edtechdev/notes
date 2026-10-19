@@ -72,6 +72,5 @@
 - [[First year seminar]] https://www.tandfonline.com/doi/abs/10.1080/13562517.2015.1052786?journalCode=cthe20
 - [[Software]]
 	- https://floopedu.com/
-	  
-	  [[Assessment]] [[Fundamentals]]
+	- [[Assessment]] [[Fundamentals]]
 -
