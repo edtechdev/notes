@@ -1,1 +1,0 @@
-1.  REDIRECT  [[Open educational resources]]
