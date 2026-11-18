@@ -1,6 +1,7 @@
 Adult learning
 
 - [[Pedagogy]]
+  id:: 68cc1058-3063-45dd-8753-02ed982c13c3
 - [[Non-traditional students]]
 - [[Adult learners]]
 - https://www.instructionaldesigncentral.com/adult-learning-theory
